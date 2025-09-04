@@ -4,8 +4,10 @@ library(dplyr)
 library(lubridate)
 library(ggforce)
 library(viridis)
+library(readr)
+library(ggpubr)
 
-setwd("~/Desktop/Herring/Data Analysis/")
+# Mapping herring spawn using length, width, intensity, spawn start date, and spawn index from 1936 - 2005
 
 #-------------------------------------------------------------------------------
 
@@ -14,7 +16,7 @@ setwd("~/Desktop/Herring/Data Analysis/")
 #-------------------------------------------------------------------------------
 
 # Read CSV (treat blanks and "NA" as missing values)
-glen_data <- read_csv("glen_spawn_data.csv", na = c("", "NA", "na"))
+glen_data <- read_csv("data/glen_spawn_data.csv", na = c("", "NA", "na"))
 
 # Remove first column and last two columns (not needed)
 glen_data <- glen_data %>%
@@ -96,7 +98,7 @@ spawn_length <- ggplot(filtered_spawn_summary, aes(x = factor(year), y = length_
 spawn_length
 
 # Save plot as PNG
-ggsave("spawn_length.png", plot = , width = 10, height = 6, dpi = 300)
+ggsave("figures/spawn_length.png", plot = , width = 10, height = 6, dpi = 300)
 
 
 ### Now for Average Width in each Section by year
@@ -116,7 +118,7 @@ spawn_width <- ggplot(filtered_spawn_summary, aes(x = factor(year), y = width_pe
 spawn_width
 
 # Save plot as PNG
-ggsave("spawn_width.png", plot = , width = 10, height = 6, dpi = 300)
+ggsave("figures/spawn_width.png", plot = , width = 10, height = 6, dpi = 300)
 
 
 #-------------------------------------------------------------------------------
@@ -125,7 +127,7 @@ ggsave("spawn_width.png", plot = , width = 10, height = 6, dpi = 300)
 
 #-------------------------------------------------------------------------------
 
-billy_data <- read_csv("~/Desktop/Herring/Data Analysis/billy_data.csv")
+billy_data <- read_csv("data/billy_data.csv")
 
 # Clean the data to add it to glen_data to make combined data
 # Turn section into character 
@@ -193,10 +195,11 @@ lm_length_section <- filtered_combined_data %>%
   # scale x and y to make them comparable 
   mutate(length_per_spawn_scaled = scale(length_per_spawn), year_scaled = scale(year)) %>%
   # adding the intercept, slope, and p value into the lm_length_per_section data frame 
-  mutate(lm_intercept = lm(length_per_spawn_scaled ~ year_scaled)$coefficients[1],
+  mutate(lm_object = lm(length_per_spawn_scaled ~ year_scaled),
+         lm_intercept = lm(length_per_spawn_scaled ~ year_scaled)$coefficients[1],
          lm_slope = lm(length_per_spawn_scaled ~ year_scaled)$coefficients[2],
          p_value = summary(lm(length_per_spawn_scaled ~ year_scaled))$coefficients[2,4],
-         # predicting according to the model what the length_per_spawn is in different years -> this is in orde to de-scale later
+         # predicting according to the model what the length_per_spawn is in different years -> this is in order to de-scale later
          predicted_length_per_spawn_scaled = predict(lm(length_per_spawn_scaled ~ year_scaled)),
          # finding the upper and lower 95% confidence intervals 
          predicted_length_per_spawn_upper_scaled = predict(lm(length_per_spawn_scaled ~ year_scaled), interval = "confidence", level = 0.95)[,3],
@@ -212,7 +215,7 @@ lm_length_section %>% View()
 lm_length_plot <- ggplot(lm_length_section, aes(x = factor(year), y = length_per_spawn, group = section)) +
   geom_line(alpha = 0.5, size = 1) +
   geom_point(alpha = 0.5) +
-  geom_text(aes(label = n_spawns), vjust = -0.5, size = 3) +
+  #geom_text(aes(label = n_spawns), vjust = -0.5, size = 3) +
   geom_line(aes(x = factor(year), y = predicted_length_per_spawn)) +
   geom_ribbon(aes(ymin = predicted_length_per_spawn_lower, ymax = predicted_length_per_spawn_upper), alpha = 0.2) +
   facet_wrap(~ section, scales = "free_y", ncol = 2) +
@@ -222,12 +225,15 @@ lm_length_plot <- ggplot(lm_length_section, aes(x = factor(year), y = length_per
   theme(axis.text.x = element_text(angle = 45, hjust = 1))
 
 lm_length_plot
-ggsave("lm_length.png", plot = , width = 18, height = 8, dpi = 300)
+ggsave("figures/lm_length.png", plot = , width = 18, height = 8, dpi = 300)
 
 # RUN MODEL DIAGNOSTICS 
 #????????????????????????????????????????????????????????
-
-
+library(DHARMa)
+lm_length <- filtered_combined_data %>% 
+  group_by(section) %>% 
+  lm(length_per_spawn ~ year, data = filtered_combined_data)
+plot(simulateResiduals(lm_length))
 
 
 #-------------------------
@@ -258,7 +264,7 @@ lm_width_section %>% View()
 lm_width_plot <- ggplot(lm_width_section, aes(x = factor(year), y = width_per_spawn, group = section)) +
   geom_line(alpha = 0.5, size = 1) +
   geom_point(alpha = 0.5) +
-  geom_text(aes(label = n_spawns), vjust = -0.5, size = 3) +
+  #geom_text(aes(label = n_spawns), vjust = -0.5, size = 3) +
   geom_line(aes(x = factor(year), y = predicted_width_per_spawn)) +
   geom_ribbon(aes(ymin = predicted_width_per_spawn_lower, ymax = predicted_width_per_spawn_upper), alpha = 0.2) +
   facet_wrap(~ section, scales = "free_y", ncol = 2) +
@@ -269,7 +275,9 @@ lm_width_plot <- ggplot(lm_width_section, aes(x = factor(year), y = width_per_sp
   theme(axis.text.x = element_text(angle = 45, hjust = 1))
 
 lm_width_plot
-ggsave("lm_width.png", plot = , width = 18, height = 8, dpi = 300)
+ggsave("figures/lm_width.png", plot = , width = 18, height = 8, dpi = 300)
+
+
 
 # RUN MODEL DIAGNOSTICS 
 #????????????????????????????????????????????????????????
@@ -356,3 +364,39 @@ lm_spawn_index_plot <- ggplot(lm_spawn_index, aes(x = factor(year), y = spawn_in
   theme(axis.text.x = element_text(angle = 45, hjust = 1))
 
 lm_spawn_index_plot
+ggsave("figures/lm_spawn_index.png", plot = , width = 18, height = 8, dpi = 300)
+
+#-------------------------------------------------------------------------------
+
+# SPAWN START AND END DATES
+
+#-------------------------------------------------------------------------------
+
+billy_spawn_dates <- read_csv("data/billy_start_end_dates.csv")
+
+# renaming and cleaning up the data
+glen_spawn_dates <- glen_data %>% 
+  rename(min_date = spawn_start_date,
+         max_date = spawn_end_date) %>% 
+  mutate(year = year(survey_date))  
+glen_spawn_dates <- glen_spawn_dates %>% 
+ select(year, section, min_date, max_date) 
+
+glen_spawn_dates$min_date <- format(as.Date(glen_spawn_dates$min_date, format = "%m/%d/%Y"), "%Y-%m-%d")
+
+# combine billy and glen date data 
+glen_billy_dates <- rbind(billy_spawn_dates, glen_spawn_dates)
+
+# Make any 0 into NAs
+glen_billy_dates$min_date[glen_billy_dates$min_date == "0"] <- NA
+glen_billy_dates <- glen_billy_dates %>% 
+  filter(!is.na(min_date))
+# make into date format
+glen_billy_dates$min_date <- as.Date(as.character(glen_billy_dates$min_date), format = "%Y-%m-%d")
+glen_billy_dates$min_month_day <- format(glen_billy_dates$min_date, "%m-%d")
+
+# plot to see what it looks like 
+ggplot(glen_billy_dates, aes(x = year, y = min_month_day)) +
+  geom_point(alpha = 0.5) +
+  facet_wrap(~ section, scales = "free_y", ncol = 2) +
+  theme_classic() 
