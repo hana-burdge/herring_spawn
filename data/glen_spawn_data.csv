@@ -1,0 +1,1052 @@
+"Double 
+Checked?",survey_date,spawn_start_date,spawn_end_date,region,side,map#,point_id,location,weather,time_start,time_end,tide_time_start ,tide_time_end,tide_start,tide_end,method,water_conditions,max_vert_visibility_m,sea_conditions,length_m,average_width_m,grass_layers,grass_%substrate,RW_layers,RW_%substrate,kelp_layers,kelp_%substrate,BA_layers,BA_%substrate,LR_layers,LR_%substrate,SR_layers,SR_%substrate,RK_layers,RK_%substrate,O,O_%substrate,Other substrate details ,estimated%_of_spawn_area_bare,notes,Source
+TRUE,3/25/1994,3/21/1994,3/23/1994,Thompson Sound,southside ,,S1,,,,,,,,,,,,,160,3,,,2.5,0.8,,,,,,,,,1,0.2,,,,0.05,,
+TRUE,3/25/1994,3/21/1994,3/23/1994,Thompson Sound,southside ,,S2,,,,,,,,,,,,,190,6,,,4,0.8,,,,,,,,,2,0.2,,,,0.05,,
+TRUE,3/25/1994,3/21/1994,3/23/1994,Thompson Sound,southside ,,S3,,,,,,,,,,,,,80,2,,,1,0.8,,,,,,,,,1,0.1,,,,0.1,,
+TRUE,3/25/1994,3/21/1994,3/23/1994,Thompson Sound,southside ,,S4,,,,,,,,,,,,,75,2,,,0.5,0.9,,,,,,,,,1,0.1,,,,0.15,,
+TRUE,3/25/1994,3/21/1994,3/23/1994,Thompson Sound,southside ,,S5,,,,,,,,,,,,,115,4,,,2.5,0.9,,,,,,,,,1.5,0.1,,,,0.05,,
+TRUE,3/25/1994,3/21/1994,3/23/1994,Thompson Sound,southside ,,S6,,,,,,,,,,,,,146,7,,,3,0.95,,,,,,,,,1.5,0.05,,,,0.05,,
+TRUE,3/25/1994,3/21/1994,3/23/1994,Thompson Sound,southside ,,S7,,,,,,,,,,,,,247,5,,,2.5,0.9,,,,,,,,,1,0.05,,,,0.05,,
+TRUE,3/25/1994,3/21/1994,3/23/1994,Thompson Sound,southside ,,S8,,,,,,,,,,,,,353,6,,,2,0.9,,,,,,,,,1,0.1,,,,0.15,,
+TRUE,3/25/1994,3/21/1994,3/23/1994,Thompson Sound,southside ,,S9,,,,,,,,,,,,,163,2,,,3,0.95,,,,,,,,,1,0.05,,,,0.15,,
+TRUE,3/25/1994,3/21/1994,3/23/1994,Thompson Sound,southside ,,S10,,,,,,,,,,,,,80,3,,,1.5,0.95,,,,,,,,,1,0.05,,,,0.1,,
+TRUE,3/25/1994,3/21/1994,3/23/1994,Thompson Sound,southside ,,S11,,,,,,,,,,,,,210,10,,,4,0.95,,,,,,,,,2,0.05,,,,0.05,,
+TRUE,3/25/1994,3/21/1994,3/23/1994,Thompson Sound,southside ,,S12,,,,,,,,,,,,,220,6,,,5,0.9,,,,,,,,,2,0.1,,,,0.05,,
+TRUE,3/25/1994,3/21/1994,3/23/1994,Thompson Sound,southside ,,S13,,,,,,,,,,,,,89,15,,,4,0.95,,,,,,,,,2,0.05,,,,0.05,,
+TRUE,3/25/1994,3/21/1994,3/23/1994,Thompson Sound,southside ,,S14,,,,,,,,,,,,,160,6,,,3.5,0.8,,,3,0.1,,,,,1.5,0.1,,,,0.05,,
+TRUE,3/25/1994,3/21/1994,3/23/1994,Thompson Sound,southside ,,S15,,,,,,,,,,,,,246,3.5,,,1.5,0.8,,,1,0.15,,,,,1,0.05,,,,0.2,,
+TRUE,3/25/1994,3/21/1994,3/23/1994,Thompson Sound,southside ,,S16,,,,,,,,,,,,,280,20,1.5,0.3,1.5,0.6,,,,,,,,,1,0.05,1,0.05,wood ,0.3,,
+TRUE,3/25/1994,3/21/1994,3/23/1994,Thompson Sound,southside ,,S17,,,,,,,,,,,,,756,25,1,,1,0.65,,,,,,,,,1,0.05,,,,0.2,,
+TRUE,3/26/1994,3/23/1994,3/24/1994,Thompson Sound ,northside ,,W-1,,,,,,,,,,,,,231,6,,,1.3,0.7,,,1,0.1,,,,,1,0.15,1,0.05,,0.1,,
+TRUE,3/26/1994,3/23/1994,3/24/1994,Thompson Sound ,northside ,,W-2,,,,,,,,,,,,,69,3,,,1,0.7,,,0.5,0.2,,,,,1,0.1,,,,0.2,,
+TRUE,3/26/1994,3/23/1994,3/24/1994,Thompson Sound ,northside ,,W-3,,,,,,,,,,,,,190,2,,,1.2,0.7,,,1,0.2,,,,,1,0.1,,,,0.1,,
+TRUE,3/26/1994,3/23/1994,3/24/1994,Thompson Sound ,northside ,,W-4,,,,,,,,,,,,,106,4,,,2,0.8,,,,,,,,,1,0.2,,,,0.1,,
+TRUE,3/26/1994,3/23/1994,3/24/1994,Thompson Sound ,northside ,,W-5,,,,,,,,,,,,,262,3,,,1,0.8,,,,,,,,,1,0.2,,,,0.2,river boundary ,
+TRUE,3/26/1994,3/23/1994,3/24/1994,Thompson Sound ,northside ,,W-6,,,,,,,,,,,,,184,2,,,2,0.8,,,,,,,,,1,0.2,,,,0.1,ribben,
+TRUE,3/26/1994,3/23/1994,3/24/1994,Thompson Sound ,northside ,,W-7,,,,,,,,,,,,,176,3,,,2.5,0.9,,,,,,,,,1,0.1,,,,0.1,,
+TRUE,3/26/1994,3/23/1994,3/24/1994,Thompson Sound ,northside ,,W-8,,,,,,,,,,,,,360,4,,,1.5,0.9,,,,,,,,,1,0.1,,,,0.1,,
+TRUE,3/26/1994,3/23/1994,3/24/1994,Thompson Sound ,northside ,,W-9,,,,,,,,,,,,,557,6,,,2,0.7,,,1,0.2,,,,,1,0.1,,,,0.1,,
+TRUE,3/26/1994,3/23/1994,3/24/1994,Thompson Sound ,northside ,,W-10,,,,,,,,,,,,,176,4,,,1.5,0.8,,,1,0.1,,,,,1,0.1,,,,0.15,,
+TRUE,3/26/1994,3/23/1994,3/24/1994,Thompson Sound ,northside ,,W-11,,,,,,,,,,,,,290,3,,,1.5,0.8,,,0.5,0.1,,,,,1,0.1,,,,0.2,,
+TRUE,3/26/1994,3/23/1994,3/24/1994,Thompson Sound ,northside ,,W-12,,,,,,,,,,,,,436,5,,,1.5,0.9,,,0.5,0.05,,,,,1,0.05,,,,0.1,,
+TRUE,3/27/1994,3/24/1994,3/26/1994,Wakeman Sound,westside ,,1,Upton Pt to Fredrick Creek ,,,,,,,,,,,,112,52,,,2.5,0.8,,,,,,,,,1,0.2,,,,0.15,,
+TRUE,3/27/1994,3/24/1994,3/26/1994,Wakeman Sound,westside ,,2,Upton Pt to Fredrick Creek ,,,,,,,,,,,,80,30,,,2.5,0.8,,,,,,,,,1,0.2,,,,0.15,,
+TRUE,3/27/1994,3/24/1994,3/26/1994,Wakeman Sound,westside ,,3,Upton Pt to Fredrick Creek ,,,,,,,,,,,,580,5,,,2.5,0.8,,,,,,,,,2,0.2,,,,0.1,,
+TRUE,3/27/1994,3/24/1994,3/26/1994,Wakeman Sound,westside ,,4,Upton Pt to Fredrick Creek ,,,,,,,,,,,,679,7,,,3,0.8,,,,,,,,,2,0.2,,,,0.05,,
+TRUE,3/27/1994,3/24/1994,3/26/1994,Wakeman Sound,westside ,,5,Upton Pt to Fredrick Creek ,,,,,,,,,,,,135,50,,,2,0.9,,,,,,,,,2,0.2,,,,0.1,,
+TRUE,3/27/1994,3/24/1994,3/26/1994,Wakeman Sound,westside ,,6,Upton Pt to Fredrick Creek ,,,,,,,,,,,,633,6,,,3.5,0.9,,,,,,,,,2,0.1,,,,0.1,,
+TRUE,3/27/1994,3/24/1994,3/26/1994,Wakeman Sound,westside ,,7,Upton Pt to Fredrick Creek ,,,,,,,,,,,,345,8,,,4,0.8,,,,,,,,,2,0.1,,,,0.1,,
+TRUE,3/27/1994,3/24/1994,3/26/1994,Wakeman Sound,westside ,,8,Upton Pt to Fredrick Creek ,,,,,,,,,,,,933,7,,,4,0.7,,,,,,,,,2,0.2,,,,0.05,,
+TRUE,3/27/1994,3/24/1994,3/26/1994,Wakeman Sound,westside ,,9,Upton Pt to Fredrick Creek ,,,,,,,,,,,,310,7,,,5,0.7,,,,,,,,,2,0.3,,,,0.05,,
+TRUE,3/27/1994,3/24/1994,3/26/1994,Wakeman Sound,westside ,,10,Upton Pt to Fredrick Creek ,,,,,,,,,,,,4774,7,,,4,,,,,,,,,,2,0.3,,,,0.52,,
+TRUE,3/27/1994,3/24/1994,3/26/1994,Wakeman Sound,westside ,,11,Upton Pt to Fredrick Creek ,,,,,,,,,,,,70,3,1,0.95,,,,,,,,,,,1,0.05,,,,0.1,creek mouth,
+TRUE,3/27/1994,3/24/1994,3/26/1994,Wakeman Sound,westside ,,12,Upton Pt to Fredrick Creek ,,,,,,,,,,,,1360,4,,,2,0.9,,,,,,,,,1,0.1,,,,0.4,,
+TRUE,3/27/1994,3/24/1994,3/26/1994,Wakeman Sound,westside ,,13,Upton Pt to Fredrick Creek ,,,,,,,,,,,,693,3,,,1.5,0.9,,,,,,,,,1,0.1,,,,0.3,,
+TRUE,3/27/1994,3/24/1994,3/26/1994,Wakeman Sound,westside ,,14,Upton Pt to Fredrick Creek ,,,,,,,,,,,,680,2,,,1,0.95,,,,,,,,,1,0.05,,,,0.2,,
+TRUE,3/27/1994,3/24/1994,3/26/1994,Wakeman Sound,eastside,,E-1,Upton Pt to Fredrick Creek ,,,,,,,,,,,,450,6,,,1,0.9,,,,,,,,,1,0.1,,,,0.2,,
+TRUE,3/27/1994,3/24/1994,3/26/1994,Wakeman Sound,eastside,,E-2,Upton Pt to Fredrick Creek ,,,,,,,,,,,,550,15,,,1,0.8,,,,,,,,,1,0.2,,,,0.25,,
+TRUE,3/27/1994,3/24/1994,3/26/1994,Wakeman Sound,eastside,,E-3,Upton Pt to Fredrick Creek ,,,,,,,,,,,,1800,5,,,0.5,0.95,,,,,,,,,1,0.05,,,,0.25,,
+TRUE,3/27/1994,3/24/1994,3/26/1994,Wakeman Sound,eastside,,E-4,Upton Pt to Fredrick Creek ,,,,,,,,,,,,1100,6,,,2,0.8,,,,,,,,,1,0.2,,,,0.1,,
+TRUE,3/27/1994,3/24/1994,3/26/1994,Wakeman Sound,eastside,,E-5,Upton Pt to Fredrick Creek ,,,,,,,,,,,,675,10,,,2.5,0.9,,,,,,,,,1,0.1,,,,0.15,,
+TRUE,3/27/1994,3/24/1994,3/26/1994,Wakeman Sound,eastside,,E-6,Upton Pt to Fredrick Creek ,,,,,,,,,,,,600,5,,,1.5,0.9,,,,,,,,,1,0.1,,,,0.1,,
+TRUE,3/27/1994,3/24/1994,3/26/1994,Wakeman Sound,eastside,,E-7,Upton Pt to Fredrick Creek ,,,,,,,,,,,,575,4,,,1,0.95,,,,,,,,,1,0.05,,,,0.2,,
+TRUE,3/27/1994,3/24/1994,3/26/1994,Wakeman Sound,eastside,,E-8,Upton Pt to Fredrick Creek ,,,,,,,,,,,,3280,5,,,1,0.95,,,,,,,,,1,0.05,,,,0.3,,
+TRUE,3/21/1999,3/11/1999,,Wakeman Sound,west_side,W1,,,raining,,,10:05,16:05,2.6,14.1,"walk, viewer, rake, boat, hipchain",clear,2,calm,500,2,,,2,0.95,,,,,,,,,1,0.5,,,,0.15,"very few birds
+total of 5.3 miles for Wakeman
+note: most of the area spawned on the 11th, with a second spawn on the 14th of march",
+TRUE,3/21/1999,3/11/1999,,Wakeman Sound,west_side,W1,,,raining,,,10:05,16:05,2.6,14.1,"walk, viewer, rake, boat, hipchain",clear,2,calm,700,2.5,,,3,0.7,,,1,0.5,,,,,2,0.25,,,,0.15,"very few birds
+total of 5.3 miles for Wakeman
+note: most of the area spawned on the 11th, with a second spawn on the 14th of march",
+TRUE,3/21/1999,3/11/1999,,Wakeman Sound,west_side,W1,,,raining,,,10:05,16:05,2.6,14.1,"walk, viewer, rake, boat, hipchain",clear,2,calm,60,3,,,8,0.8,,,5,0.5,,,,,8,0.15,,,,0.05,"very few birds
+total of 5.3 miles for Wakeman
+note: most of the area spawned on the 11th, with a second spawn on the 14th of march",
+TRUE,3/21/1999,3/11/1999,,Wakeman Sound,west_side,W1,,,raining,,,10:05,16:05,2.6,14.1,"walk, viewer, rake, boat, hipchain",clear,2,calm,134,2.5,,,2,0.8,,,,,,,,,2,0.2,,,,0.15,"very few birds
+total of 5.3 miles for Wakeman
+note: most of the area spawned on the 11th, with a second spawn on the 14th of march",
+TRUE,3/21/1999,3/11/1999,,Wakeman Sound,west_side,W1,,,raining,,,10:05,16:05,2.6,14.1,"walk, viewer, rake, boat, hipchain",clear,2,calm,1054,3,,,3,0.7,,,2,0.1,,,,,3,0.2,,,,0.2,"very few birds
+total of 5.3 miles for Wakeman
+note: most of the area spawned on the 11th, with a second spawn on the 14th of march",
+TRUE,3/21/1999,3/11/1999,,Wakeman Sound,west_side,W1,,,raining,,,10:05,16:05,2.6,14.1,"walk, viewer, rake, boat, hipchain",clear,2,calm,1200,1,,,0.5,1,,,,,,,,,,,,,,0.25,"very few birds
+total of 5.3 miles for Wakeman
+note: most of the area spawned on the 11th, with a second spawn on the 14th of march",
+TRUE,3/21/1999,3/11/1999,,Wakeman Sound,west_side,W1,,,raining,,,10:05,16:05,2.6,14.1,"walk, viewer, rake, boat, hipchain",clear,2,calm,1700,1,,,1,0.95,,,,,,,,,1,0.05,,,,0.2,"very few birds
+total of 5.3 miles for Wakeman
+note: most of the area spawned on the 11th, with a second spawn on the 14th of march",
+TRUE,3/21/1999,3/11/1999,,Wakeman Sound,west_side,W1,,,raining,,,10:05,16:05,2.6,14.1,"walk, viewer, rake, boat, hipchain",clear,2,calm,2750,1,,,1,1,,,,,,,,,,,,,,0.3,"very few birds
+total of 5.3 miles for Wakeman
+note: most of the area spawned on the 11th, with a second spawn on the 14th of march",
+TRUE,3/21/1999,3/11/1999,,Wakeman Sound,east_side,E1,,,raining,9:00,,10:05,16:05,2.6,14.1,"boat, viewer, rake, hipchain",clear,2,choppy,2879,2,,,2,0.85,,,,,,,,,1,0.15,,,,0.1,very few birds in the area,
+TRUE,3/21/1999,3/11/1999,,Wakeman Sound,east_side,E1,,,raining,9:00,,10:05,16:05,2.6,14.1,"boat, viewer, rake, hipchain",clear,2,choppy,35,2,,,3.5,0.8,,,,,,,,,2,0.2,,,,0.05,very few birds in the area,
+TRUE,3/21/1999,3/11/1999,,Wakeman Sound,east_side,E1,,,raining,9:00,,10:05,16:05,2.6,14.1,"boat, viewer, rake, hipchain",clear,2,choppy,375,1,0.5,0.7,0.5,0.3,,,,,,,,,,,,,,0.25,very few birds in the area,
+TRUE,3/21/1999,3/11/1999,,Wakeman Sound,east_side,E1,,,raining,9:00,,10:05,16:05,2.6,14.1,"boat, viewer, rake, hipchain",clear,2,choppy,200,15,1,0.9,,,,,,,,,,,,,1,0.1,,0.3,very few birds in the area,
+TRUE,3/21/1999,3/11/1999,,Wakeman Sound,east_side,E1,,,raining,9:00,,10:05,16:05,2.6,14.1,"boat, viewer, rake, hipchain",clear,2,choppy,175,5,1,0.9,,,,,,,,,,,,,1,0.1,,0.25,very few birds in the area,
+TRUE,3/23/1999,3/18/1999,,Knight Inlet,west_side,W1,,,sunny,,,12:05,18:15,3.6,12.1,"walk, viewer, rake, boat",turbid,0.5,calm,1666,1,,,0.5,1,,,,,,,,,,,,,,0.4,very few birds in the area,
+TRUE,3/23/1999,3/18/1999,,Knight Inlet,west_side,W1,,,sunny,,,12:05,18:15,3.6,12.1,"walk, viewer, rake, boat",turbid,0.5,calm,4730,3,,,0.5,0.95,,,,,,,,,0.5,0.5,,,,0.2,very few birds in the area,
+TRUE,3/23/1999,3/18/1999,,Knight Inlet,west_side,W1,,,sunny,,,12:05,18:15,3.6,12.1,"walk, viewer, rake, boat",turbid,0.5,calm,2221,2,,,0.25,1,,,,,,,,,,,,,,0.1,very few birds in the area,
+TRUE,3/23/1999,3/18/1999,,Knight Inlet,west_side,W1,,,sunny,,,12:05,18:15,3.6,12.1,"walk, viewer, rake, boat",turbid,0.5,calm,1481,3,,,3,0.8,,,,,,,,,2,0.2,,,,0.1,very few birds in the area,
+TRUE,3/23/1999,3/18/1999,,Knight Inlet,west_side,W1,,,sunny,,,12:05,18:15,3.6,12.1,"walk, viewer, rake, boat",turbid,0.5,calm,75,5,,,3,0.9,,,,,,,,,2,0.1,,,,0.1,very few birds in the area,
+TRUE,3/23/1999,3/18/1999,,Knight Inlet,west_side,W1,,,sunny,,,12:05,18:15,3.6,12.1,"walk, viewer, rake, boat",turbid,0.5,calm,926,2,,,1,0.85,,,,,,,,,1,0.15,,,,0.15,very few birds in the area,
+TRUE,3/23/1999,3/18/1999,,Knight Inlet,west_side,W1,,,sunny,,,12:05,18:15,3.6,12.1,"walk, viewer, rake, boat",turbid,0.5,calm,500,2,,,0.5,1,,,,,,,,,,,,,,0.3,very few birds in the area,
+TRUE,3/23/1999,3/18/1999,,Knight Inlet,west_side,W1,,,sunny,,,12:05,18:15,3.6,12.1,"walk, viewer, rake, boat",turbid,0.5,calm,300,4,,,2,0.9,,,,,,,,,1,0.1,,,,0.05,very few birds in the area,
+TRUE,3/23/1999,3/18/1999,,Knight Inlet,west_side,W1,,,sunny,,,12:05,18:15,3.6,12.1,"walk, viewer, rake, boat",turbid,0.5,calm,425,1,,,0.25,1,,,,,,,,,,,,,,0.3,very few birds in the area,
+TRUE,3/23/1999,3/18/1999,,Knight Inlet,west_side,W1,,,sunny,,,12:05,18:15,3.6,12.1,"walk, viewer, rake, boat",turbid,0.5,calm,100,2,,,0.75,1,,,,,,,,,,,,,,0.15,very few birds in the area,
+TRUE,3/23/1999,3/18/1999,,Knight Inlet,west_side,W1,,,sunny,,,12:05,18:15,3.6,12.1,"walk, viewer, rake, boat",turbid,0.5,calm,30,2.5,,,0.5,1,,,,,,,,,,,,,,0.1,very few birds in the area,
+TRUE,3/23/1999,3/18/1999,,Knight Inlet,east_side,E1,,,sunny,,,12:05,18:15,3.6,12.1,"walk, viewer, rake, boat",turbid,0.5,calm,4445,2,,,1.5,0.8,,,,,,,,,1,0.2,,,,0.2,very few birds in the area,
+TRUE,3/23/1999,3/18/1999,,Knight Inlet,east_side,E1,,,sunny,12:05,18:15,,,3.6,12.1,"walk, boat, viewer, rake",turbid,0.5,calm,2037,1.5,,,0.25,1,,,,,,,,,,,,,,0.2,,
+TRUE,3/24/1999,3/18/1999,,Knight Inlet,east_side,,,,raining,,,,,,,boat,turbid,0,rough,1482,1.5,,,1,0.95,,,,,,,,,1,0.05,,,,0.1,,
+TRUE,3/24/1999,3/18/1999,,Knight Inlet,east_side,,,,raining,,,,,,,boat,turbid,0,rough,740,2.5,,,1.5,0.9,,,,,,,,,1,0.1,,,,0.1,,
+TRUE,3/24/1999,3/18/1999,,Knight Inlet,east_side,,,,raining,,,,,,,boat,turbid,0,rough,10,2.5,,,0.5,0.95,,,,,,,,,0.5,0.05,,,,0.1,,
+TRUE,3/24/1999,3/18/1999,,Knight Inlet,east_side,,,,raining,,,,,,,boat,turbid,0,rough,275,2,,,0.5,0.85,,,,,,,,,0.5,0.15,,,,0.1,,
+TRUE,4/1/1999,3/20/1999,,Beaver Harbour,,1,,,overcast,,,7:50,13:45,3.9,13.1,"walk, boat, viewer, rake",clear,3,choppy,483,4,0.5,0.05,1,0.6,0.25,0.15,,,,,,,1,0.2,,,,0.15,"lots of deep water spawning in this area.
+dive survey should have been done in this area.
+heavy bird predation",
+TRUE,4/1/1999,3/20/1999,,Beaver Harbour,,1,,,overcast,,,8:50,14:45,3.9,13.1,"walk, boat, viewer, rake",clear,3,choppy,225,2,0.5,1,1,0.6,,,,,,,,,1,0.3,,,,0.15,"lots of deep water spawning in this area.
+dive survey should have been done in this area.
+heavy bird predation",
+TRUE,4/1/1999,3/20/1999,,Beaver Harbour,,1,,,overcast,,,9:50,15:45,3.9,13.1,"walk, boat, viewer, rake",clear,3,choppy,104,5,0.25,0.05,0.5,0.6,0.25,0.05,,,,,,,1,0.3,,,,0.1,"lots of deep water spawning in this area.
+dive survey should have been done in this area.
+heavy bird predation",
+TRUE,4/1/1999,3/20/1999,,Beaver Harbour,,1,,,overcast,,,10:50,16:45,3.9,13.1,"walk, boat, viewer, rake",clear,3,choppy,20,3,0.5,0.05,1,0.7,,,0.5,0.05,,,,,1,0.2,,,,0.05,"lots of deep water spawning in this area.
+dive survey should have been done in this area.
+heavy bird predation",
+TRUE,4/1/1999,4/1/1999,,Beaver Harbour,,1,,,overcast,,,11:50,17:45,3.9,13.1,"walk, boat, viewer, rake",clear,3,choppy,161,7,1,0.05,2,0.6,0.5,0.05,1,0.05,,,,,1,0.25,,,,0.05,"lots of deep water spawning in this area.
+dive survey should have been done in this area.
+heavy bird predation",
+TRUE,4/1/1999,4/1/1999,,Beaver Harbour,,1,,,overcast,,,12:50,18:45,3.9,13.1,"walk, boat, viewer, rake",clear,3,choppy,60,3,,,1,0.8,,,,,,,,,1,0.2,,,,0.1,"lots of deep water spawning in this area.
+dive survey should have been done in this area.
+heavy bird predation",
+TRUE,4/5/1999,3/25/1999,3/27/1999,Thompson Sound,,,,,sunny,10:05,16:15,,,4.3,12.5,"walk, boat, viewer, rake, hipchain",clear,5,calm,95,3,,,3,0.8,,,,,,,,,2,0.2,,,,0.05,lots of bird predation,
+TRUE,4/5/1999,3/25/1999,3/27/1999,Thompson Sound,,,,,,,,,,,,,,,,50,2,,,2,0.9,,,,,,,,,1,0.1,,,,0.2,lots of bird predation,
+TRUE,4/5/1999,3/25/1999,3/27/1999,Thompson Sound,,,,,,,,,,,,,,,,65,4,,,4,0.8,,,,,,,,,2,0.2,,,,0.05,lots of bird predation,
+TRUE,4/5/1999,3/25/1999,3/27/1999,Thompson Sound,,,,,,,,,,,,,,,,30,2,,,3,0.9,,,,,,,,,1,0.1,,,,0.1,lots of bird predation,
+TRUE,4/5/1999,3/25/1999,3/27/1999,Thompson Sound,,,,,,,,,,,,,,,,127,3,,,2,0.9,,,,,,,,,1,0.1,,,,0.15,lots of bird predation,
+TRUE,4/5/1999,3/25/1999,3/27/1999,Thompson Sound,,,,,sunny,10:05,16:15,,,4.3,12.5,"walk, boat, viewer, rake, hipchain",clear,5,calm,150,1,,,1.5,0.95,,,,,,,,,1,0.05,,,,0.25,lots of bird predation,
+TRUE,4/5/1999,3/25/1999,3/27/1999,Thompson Sound,,,,,sunny,10:05,16:15,,,4.3,12.5,"walk, boat, viewer, rake, hipchain",clear,5,calm,550,2,,,1.5,0.85,,,,,,,,,1,0.15,,,,0.15,lots of bird predation,
+TRUE,4/5/1999,3/25/1999,3/27/1999,Thompson Sound,,,,,,,,,,,,,,,,640,2,,,0.75,0.85,,,,,,,,,1,0.15,,,,0.1,lots of bird predation,
+TRUE,4/5/1999,3/25/1999,3/27/1999,Thompson Sound,,,,,,,,,,,,,,,,370,2.5,,,1,0.75,0.5,0.1,,,,,,,1,0.15,,,,0.2,lots of bird predation,
+TRUE,4/5/1999,3/25/1999,3/27/1999,Thompson Sound,,,,,,,,,,,,,,,,275,3,,,2.5,0.4,0.5,0.1,,,,,,,3,0.5,,,,0.1,lots of bird predation,
+TRUE,4/5/1999,3/25/1999,3/27/1999,Thompson Sound,,,,,,,,,,,,,,,,1290,2,,,0.75,0.2,,,,,,,,,1,0.8,,,,0.15,lots of bird predation,
+TRUE,4/5/1999,3/25/1999,3/27/1999,Thompson Sound,,,,,,,,,,,,,,,,740,3,,,1,0.05,,,,,,,,,1,0.95,,,,0.2,lots of bird predation,
+TRUE,4/5/1999,3/25/1999,3/27/1999,Thompson Sound,,1 west,,,sunny,,,10:05,16:15,4.3,12.5,"walk, boat, viewer, rake, other (hipchain)",clear ,5,calm,95,3,,,3,0.8,,,,,,,,,2,0.2,,,,0.05,lots of bird predation,
+TRUE,4/5/1999,3/25/1999,3/27/1999,Thompson Sound,,1 west,,,sunny,,,10:05,16:15,4.3,12.5,"walk, boat, viewer, rake, other (hipchain)",clear ,5,calm,50,2,,,2,0.9,,,,,,,,,1,0.1,,,,0.2,lots of bird predation,
+TRUE,4/5/1999,3/25/1999,3/27/1999,Thompson Sound,,1 west,,,sunny,,,10:05,16:15,4.3,12.5,"walk, boat, viewer, rake, other (hipchain)",clear ,5,calm,65,4,,,4,0.8,,,,,,,,,2,0.2,,,,0.05,lots of bird predation,
+TRUE,4/5/1999,3/25/1999,3/27/1999,Thompson Sound,,1 west,,,sunny,,,10:05,16:15,4.3,12.5,"walk, boat, viewer, rake, other (hipchain)",clear ,5,calm,30,2,,,3,0.9,,,,,,,,,1,0.1,,,,0.1,lots of bird predation,
+TRUE,4/5/1999,3/25/1999,3/27/1999,Thompson Sound,,1 west,,,sunny,,,10:05,16:15,4.3,12.5,"walk, boat, viewer, rake, other (hipchain)",clear ,5,calm,127,3,,,2,0.9,,,,,,,,,1,0.1,,,,0.15,lots of bird predation,
+TRUE,4/5/1999,3/25/1999,3/27/1999,Thompson Sound,,1 west,,,sunny,,,10:05,16:15,4.3,12.5,"walk, boat, viewer, rake, other (hipchain)",clear ,5,calm,15,2,,,1.5,0.95,,,,,,,,,1,0.05,,,,0.25,lots of bird predation,
+TRUE,4/5/1999,3/25/1999,3/27/1999,Thompson Sound,,1 west,,,sunny,,,10:05,16:15,4.3,12.5,"walk, boat, viewer, rake, other (hipchain)",clear ,5,calm,550,2,,,1.5,0.85,,,,,,,,,1,0.15,,,,0.15,lots of bird predation,
+TRUE,4/5/1999,3/25/1999,3/27/1999,Thompson Sound,,1 west,,,sunny,,,10:05,16:15,4.3,12.5,"walk, boat, viewer, rake, other (hipchain)",clear ,5,calm,640,2,,,0.75,0.85,,,,,,,,,1,0.15,,,,0.1,lots of bird predation,
+TRUE,4/5/1999,3/25/1999,3/27/1999,Thompson Sound,,1 west,,,sunny,,,10:05,16:15,4.3,12.5,"walk, boat, viewer, rake, other (hipchain)",clear ,5,calm,370,2.5,,,1,0.75,0.5,0.1,,,,,,,1,0.15,,,,0.2,lots of bird predation,
+TRUE,4/5/1999,3/25/1999,3/27/1999,Thompson Sound,,1 west,,,sunny,,,10:05,16:15,4.3,12.5,"walk, boat, viewer, rake, other (hipchain)",clear ,5,calm,275,3,,,2.5,0.4,0.5,0.1,,,,,,,3,0.5,,,,0.1,lots of bird predation,
+TRUE,4/5/1999,3/25/1999,3/27/1999,Thompson Sound,,1 west,,,sunny,,,10:05,16:15,4.3,12.5,"walk, boat, viewer, rake, other (hipchain)",clear ,5,calm,1290,2,,,0.75,0.2,,,,,,,,,1,0.8,,,,0.15,lots of bird predation,
+TRUE,4/5/1999,3/25/1999,3/27/1999,Thompson Sound,,1 west,,,sunny,,,10:05,16:15,4.3,12.5,"walk, boat, viewer, rake, other (hipchain)",clear ,5,calm,740,3,,,1,0.05,,,,,,,,,1,0.95,,,,0.2,lots of bird predation,
+TRUE,3/7/2000,3/28/2000,,Mackenzie C,,02-28-00-03,,,sunny,8:03,,,,4.7,,boat,turbid,2,calm,0.25,1,,,,,,,,,,,,,,,,,,0.3,,
+TRUE,3/7/2000,2/28/2000,,Wakeman Sound,,02-28-00-02,,,sunny,8:03,,,,4.7,,boat,turbid,2,calm,70,1,,,0.5,1,,,,,,,,,,,,,,0.2,,
+TRUE,3/7/2000,2/28/2000,,Wakeman Sound,,02-28-00-01,,,sunny,8:03,14:02,,,4.7,15.1,"boat, viewer, rake",turbid,2,calm,231,1,1,0.2,1,0.7,,,,,,,,,1,0.1,,,,0.2,,
+TRUE,3/7/2000,2/28/2000,,Wakeman Sound,,02-28-00-01,,,sunny,8:03,14:02,,,4.7,15.1,"boat, viewer, rake",turbid,2,calm,70,15,,,0.5,0.8,,,,,,,,,1,0.2,,,,0.25,,
+TRUE,3/7/2000,2/28/2000,,Wakeman Sound,,02-28-00-01,,,sunny,8:03,14:02,,,4.7,15.1,"boat, viewer, rake",turbid,2,calm,68,3,,,1,0.9,,,,,,,,,1,0.1,,,,0.2,,
+TRUE,3/7/2000,2/28/2000,,Wakeman Sound,,02-28-00-01,,,sunny,8:03,14:02,,,4.7,15.1,"boat, viewer, rake",turbid,2,calm,78,10,,,1,0.9,,,,,,,,,1,0.1,,,,0.2,,
+TRUE,3/7/2000,2/28/2000,,Wakeman Sound,,02-28-00-01,,,sunny,8:03,14:02,,,4.7,15.1,"boat, viewer, rake",turbid,2,calm,150,1,,,1.5,0.9,,,,,,,,,1,0.1,,,,0.3,,
+TRUE,3/7/2000,2/28/2000,,Wakeman Sound,,02-28-00-01,,,sunny,8:03,14:02,,,4.7,15.1,"boat, viewer, rake",turbid,2,calm,370,2,,,1.5,0.9,,,,,,,,,1,0.1,,,,0.2,,
+TRUE,3/7/2000,2/28/2000,,Wakeman Sound,,02-28-00-01,,,sunny,8:03,14:02,,,4.7,15.1,"boat, viewer, rake",turbid,2,calm,210,2.5,,,2,0.9,,,,,,,,,1,0.1,,,,0.3,,
+TRUE,3/7/2000,2/28/2000,,Wakeman Sound,,02-28-00-01,,,sunny,8:03,14:02,,,4.7,15.1,"boat, viewer, rake",turbid,2,calm,380,2.5,,,2.5,0.9,,,,,,,,,1,0.1,,,,0.2,,
+TRUE,3/7/2000,2/28/2000,,Wakeman Sound,,02-28-00-01,,,sunny,8:03,14:02,,,4.7,15.1,"boat, viewer, rake",turbid,2,calm,274,3,,,3,0.8,,,,,,,,,2,0.2,,,,0.15,,
+TRUE,3/7/2000,2/28/2000,,Wakeman Sound,,02-28-00-01,,,sunny,8:03,14:02,,,4.7,15.1,"boat, viewer, rake",turbid,2,calm,1200,3,,,2,0.8,,,,,,,,,1,0.2,,,,0.3,,
+TRUE,3/7/2000,2/28/2000,,Wakeman Sound,,02-28-00-01,,,sunny,7:00,11:30,8:03,14:02,4.7,15.1,"boat, viewer, rake ",turbid ,2,calm,231,1,1,0.2,1,0.7,,,,,,,,,1,0.1,,,,0.2,,
+TRUE,3/7/2000,2/28/2000,,Wakeman Sound,,02-28-00-01,,,sunny,7:00,11:30,8:03,14:02,4.7,15.1,"boat, viewer, rake ",turbid ,2,calm,70,15,,,0.5,0.8,,,,,,,,,1,0.2,,,,0.25,,
+TRUE,3/7/2000,2/28/2000,,Wakeman Sound,,02-28-00-01,,,sunny,7:00,11:30,8:03,14:02,4.7,15.1,"boat, viewer, rake ",turbid ,2,calm,68,3,,,1,0.9,,,,,,,,,1,0.1,,,,0.2,,
+TRUE,3/7/2000,2/28/2000,,Wakeman Sound,,02-28-00-01,,,sunny,7:00,11:30,8:03,14:02,4.7,15.1,"boat, viewer, rake ",turbid ,2,calm,78,10,,,1,0.9,,,,,,,,,1,0.1,,,,0.2,,
+TRUE,3/7/2000,2/28/2000,,Wakeman Sound,,02-28-00-01,,,sunny,7:00,11:30,8:03,14:02,4.7,15.1,"boat, viewer, rake ",turbid ,2,calm,150,1,,,1.5,0.9,,,,,,,,,1,0.1,,,,0.3,,
+TRUE,3/7/2000,2/28/2000,,Wakeman Sound,,02-28-00-01,,,sunny,7:00,11:30,8:03,14:02,4.7,15.1,"boat, viewer, rake ",turbid ,2,calm,370,2,,,1.5,0.9,,,,,,,,,1,0.1,,,,0.2,,
+TRUE,3/7/2000,2/28/2000,,Wakeman Sound,,02-28-00-01,,,sunny,7:00,11:30,8:03,14:02,4.7,15.1,"boat, viewer, rake ",turbid ,2,calm,210,2.5,,,2,0.9,,,,,,,,,1,0.1,,,,0.3,,
+TRUE,3/7/2000,2/28/2000,,Wakeman Sound,,02-28-00-01,,,sunny,7:00,11:30,8:03,14:02,4.7,15.1,"boat, viewer, rake ",turbid ,2,calm,380,2.5,,,2.5,0.9,,,,,,,,,1,0.1,,,,0.2,,
+TRUE,3/7/2000,2/28/2000,,Wakeman Sound,,02-28-00-01,,,sunny,7:00,11:30,8:03,14:02,4.7,15.1,"boat, viewer, rake ",turbid ,2,calm,273,3,,,3,0.8,,,,,,,,,2,0.2,,,,0.15,,
+TRUE,3/7/2000,2/28/2000,,Wakeman Sound,,02-28-00-01,,,sunny,7:00,11:30,8:03,14:02,4.7,15.1,"boat, viewer, rake ",turbid ,2,calm,1200,3,,,3,0.8,,,,,,,,,1,0.2,,,,0.3,,
+TRUE,3/8/2000,3/7/2000,,Bond Sound,,07-03-00-01,,,sunny,9:30,,8:43,,4.4,,"boat, viewer",clear,5,calm,125,1.5,,,,,,,1.5,0.4,,,,,1.5,0.1,1,0.5,,0.2,"lots of birds (crows, gulls photos)",
+TRUE,3/15/2000,3/7/2000,3/8/2000,Knight Inlet,west_side,1,D,,sunny,,,,,,,"boat, viewer, rake",clear,3,calm,400,6,,,0.5,,,,,,,,,,1,,,,,0.5,,
+TRUE,3/15/2000,3/7/2000,3/8/2000,Knight Inlet,west_side,1,E,,sunny,,,,,,,"boat, viewer, rake",clear,3,calm,300,3,,,0.5,,,,,,,,,,1,,,,,0.5,,
+TRUE,3/15/2000,3/7/2000,3/8/2000,Knight Inlet,west_side,1,F,,sunny,,,,,,,"boat, viewer, rake",clear,3,calm,225,4.5,,,1.5,,,,,,,,,,1,,,,,0.2,,
+TRUE,3/15/2000,3/7/2000,3/8/2000,Knight Inlet,west_side,1,G,,sunny,,,,,,,"boat, viewer, rake",clear,3,calm,250,2,,,1,,,,,,,,,,0.5,,,,,0.2,,
+TRUE,3/15/2000,3/7/2000,3/8/2000,Knight Inlet,west_side,1,H,,sunny,,,,,,,"boat, viewer, rake",clear,3,calm,300,2,,,1,,,,,,,,,,0.5,,,,,0.3,,
+TRUE,3/15/2000,3/7/2000,3/8/2000,Knight Inlet,west_side,1,I,,sunny,,,,,,,"boat, viewer, rake",clear,3,calm,300,5,,,1,,,,,,,,,,0.5,,,,,0.2,,
+TRUE,3/15/2000,3/7/2000,3/8/2000,Knight Inlet,west_side,1,J,,sunny,,,,,,,"boat, viewer, rake",clear,3,calm,10,3,,,1,0.8,,,,,,,,,1,0.2,,,,0.1,,
+TRUE,3/15/2000,3/7/2000,3/8/2000,Knight Inlet,west_side,1,K,,sunny,,,,,,,"boat, viewer, rake",clear,3,calm,10,3,,,1,0.8,,,,,,,,,1,0.2,,,,0.1,,
+TRUE,3/15/2000,3/7/2000,3/8/2000,Knight Inlet,west_side,1,L,,sunny,,,,,,,"boat, viewer, rake",clear,3,calm,10,3,,,1,0.8,,,,,,,,,1,0.2,,,,0.1,,
+TRUE,3/16/2000,3/7/2000,3/8/2000,Knight Inlet,east_side,1,A,,sunny,,,,,,,"boat, viewer, rake",clear,3,calm,3704,2,,,1,0.95,,,,,,,,,0.25,0.05,,,,0.4,,
+TRUE,3/16/2000,3/7/2000,3/8/2000,Knight Inlet,east_side,1,B,,sunny,,,,,,,"boat, viewer, rake",clear,3,calm,6482,3.5,,,1.5,0.9,,,,,,,,,0.5,0.1,,,,0.5,,
+TRUE,3/16/2000,3/7/2000,3/8/2000,Knight Inlet,east_side,1,C,,sunny,,,,,,,"boat, viewer, rake",clear,3,calm,2778,3.5,,,1,0.95,,,,,,,,,0.25,0.05,,,,0.25,,
+TRUE,3/16/2000,3/7/2000,3/8/2000,Knight Inlet,east_side,1,1,,sunny,,,,,,,"boat, viewer, rake",clear,3,calm,2778,2.5,,,0.5,0.8,,,,,,,,,1,0.2,,,,0.25,,
+TRUE,3/16/2000,3/7/2000,3/8/2000,Knight Inlet,east_side,1,2,,sunny,,,,,,,"boat, viewer, rake",clear,3,calm,2778,5,,,1,0.9,,,,,,,,,0.5,0.1,,,,0.25,,
+TRUE,3/17/2000,3/17/2000,,Wakeman Sound,,03-17-00-1,,,sunny,,,10:50,17:54,15,2.7,"boat, viewer, rake",turbid,2,choppy,73,1.5,,,1,0.9,,,,,,,,,1,0.1,,,,0.2,"second spawn in this area
+no birds at all",
+TRUE,3/17/2000,3/17/2000,,Kingcome Inlet,,03-17-00-2,,,sunny,,,10:50,17:54,15,2.7,"boat, viewer, rake",turbid,2,choppy,60,3,,,1,0.95,,,,,,,,,1,0.05,,,,0.15,"small spot spawn
+few gulls in the area",
+TRUE,3/27/2000,3/23/2000,3/27/2000,Hardy Bay,,27-03-00-01,,Daphne Point,overcast,9:30,15:30,13:02,20:05,5.6,10.1,"boat, viewer, rake, hipchain",clear,10,calm,113,20,,,,,2,1,,,,,,,,,,,,0.25,"heavy bird predation 
+note: kelp was mostly macrocystis -- some laminaria",
+TRUE,3/27/2000,,,Hardy Bay,,27-03-00-01,,Daphne Point,overcast,9:30,15:30,13:02,20:05,5.6,10.1,"boat, viewer, rake, hipchain",clear,10,calm,554,20,1,0.05,,,1,0.9,1,0.05,,,,,1,0.05,,,,0.2,"heavy bird predation 
+note: kelp was mostly macrocystis -- some laminaria",
+TRUE,3/27/2000,,,Hardy Bay,,27-03-00-01,,Daphne Point,overcast,9:30,15:30,13:02,20:05,5.6,10.1,"boat, viewer, rake, hipchain",clear,10,calm,100,40,,,,,1.5,1,,,,,,,,,,,,0.2,"heavy bird predation 
+note: kelp was mostly macrocystis -- some laminaria",
+TRUE,3/27/2000,,,Hardy Bay,,27-03-00-01,,Daphne Point,overcast,9:30,15:30,13:02,20:05,5.6,10.1,"boat, viewer, rake, hipchain",clear,10,calm,525,40,1,0.05,1,0.05,2,0.85,,,,,,,,,,,,0.25,"heavy bird predation 
+note: kelp was mostly macrocystis -- some laminaria",
+TRUE,3/27/2000,,,Hardy Bay,,27-03-00-01,,Daphne Point,overcast,9:30,15:30,13:02,20:05,5.6,10.1,"boat, viewer, rake, hipchain",clear,10,calm,80,15,,,,,1,1,,,,,,,,,,,,0.3,"heavy bird predation 
+note: kelp was mostly macrocystis -- some laminaria",
+TRUE,3/27/2000,,,Hardy Bay,,27-03-00-01,,Daphne Point,overcast,9:30,15:30,13:02,20:05,5.6,10.1,"boat, viewer, rake, hipchain",clear,10,calm,271,10,,,,,1.5,1,,,,,,,,,,,,0.2,"heavy bird predation 
+note: kelp was mostly macrocystis -- some laminaria",
+TRUE,3/27/2000,3/22/2000,3/24/2000,Knight Inlet,,2,G,,sunny,,,,,,,"boat, viewer, rake",clear,3,calm,400,5,,,1.5,,,,,,,,,,0.5,,,,,0.25,,
+TRUE,3/27/2000,3/22/2000,3/24/2000,Knight Inlet,,2,F,,sunny,,,,,,,"boat, viewer, rake",clear,3,calm,300,3,,,1,,,,,,,,,,0.5,,,,,0.4,,
+TRUE,3/27/2000,3/22/2000,3/24/2000,Knight Inlet,,2,E,,sunny,,,,,,,"boat, viewer, rake",clear,3,calm,200,3.5,,,1,,,,,,,,,,0.5,,,,,0.4,,
+TRUE,3/27/2000,3/15/2000,3/16/2000,Knight Inlet,,2,A,,sunny,,,,,,,"boat, viewer, rake",clear,3,calm,75,3,,,0.25,,,,,,,,,,,,,,,0.25,,
+TRUE,3/27/2000,3/15/2000,3/16/2000,Knight Inlet,,2,B,,sunny,,,,,,,"boat, viewer, rake",clear,3,calm,250,4,,,1,,,,,,,,,,,,,,,0.25,,
+TRUE,3/27/2000,3/15/2000,3/16/2000,Knight Inlet,,2,B1,,sunny,,,,,,,"boat, viewer, rake",clear,3,calm,200,3,,,0.25,,,,,,,,,,,,,,,0.25,,
+TRUE,3/28/2000,3/23/2000,3/27/2000,Hardy Bay,,27-03-00-01,,Daphne Point,overcast,9:30,15:30,13:02,20:05,5.6,10.1,"boat, viewer, rake, hipchain",clear,10,calm,278,10,1,0.05,1,0.05,0.5,0.8,0.5,0.05,,,,,1,0.05,,,,0.3,"heavy bird predation 
+note: kelp was mostly macrocystis -- some laminaria",
+TRUE,3/28/2000,,,Hardy Bay,,27-03-00-01,,Daphne Point,overcast,9:30,15:30,13:02,20:05,5.6,10.1,"boat, viewer, rake, hipchain",clear,10,calm,37,5,,,0.5,0.4,0.25,0.6,,,,,,,,,,,,0.25,"heavy bird predation 
+note: kelp was mostly macrocystis -- some laminaria",
+TRUE,3/28/2000,,,Hardy Bay,,27-03-00-01,,Daphne Point,overcast,9:30,15:30,13:02,20:05,5.6,10.1,"boat, viewer, rake, hipchain",clear,10,calm,120,10,,,,,0.5,1,,,,,,,,,,,,0.3,"heavy bird predation 
+note: kelp was mostly macrocystis -- some laminaria",
+TRUE,3/29/2000,3/28/2000,,Masterman Island,,29-03-00-01,,,overcast,12:00,14:30,15:33,,5.5,,"boat, viewer, rake",clear,10,choppy,193,6,,,1,0.4,2,0.6,,,,,,,,,,,,0.1,heavy bird predation,
+TRUE,3/29/2000,3/28/2000,,Masterman Island,,29-03-00-01,,,overcast,12:00,14:30,15:33,,5.5,,"boat, viewer, rake",clear,10,choppy,30,2,,,0.5,0.95,,,,,,,,,1,0.05,,,,0.2,heavy bird predation,
+TRUE,3/29/2000,3/27/2000,3/28/2000,Knight Inlet,,2,C,,sunny,,,,,,,"boat, viewer, rake",clear,3,calm,100,8,,,1,0.9,,,,,,,,,0.5,0.1,,,,0.2,,
+TRUE,3/29/2000,3/27/2000,3/28/2000,Knight Inlet,,2,C,,sunny,,,,,,,"boat, viewer, rake",clear,3,calm,150,4,,,2,0.8,,,,,,,,,2,0.2,,,,0.2,,
+TRUE,3/29/2000,3/27/2000,3/28/2000,Knight Inlet,,2,C,,sunny,,,,,,,"boat, viewer, rake",clear,3,calm,30,6,,,1.5,0.8,,,,,,,,,1,0.2,,,,0.2,,
+TRUE,3/29/2000,3/27/2000,3/28/2000,Knight Inlet,,2,C,,sunny,,,,,,,"boat, viewer, rake",clear,3,calm,230,5,,,3,0.9,,,,,,,,,1.5,0.1,,,,0.1,,
+TRUE,3/29/2000,3/27/2000,3/29/2000,Knight Inlet,,2,D,,sunny,,,,,,,"boat, viewer, rake",clear,3,calm,160,10,,,2.5,0.9,,,,,,,,,0.5,0.1,,,,0.2,,
+TRUE,3/29/2000,3/27/2000,3/29/2000,Knight Inlet,,2,D,,sunny,,,,,,,"boat, viewer, rake",clear,3,calm,150,3,,,0.5,0.9,,,,,,,,,0.5,0.1,,,,0.3,,
+TRUE,4/8/2000,3/31/2000,4/1/2000,Thompson Sound,,08-04-00-02,,,sunny,11:00,3:30,11:00,,2.6,,"boat, viewer, rake",clear,10,calm,100,2,,,,,,,,,,,,,,,,,,,spawn was 7-8 days old very few birds in the area,
+TRUE,4/8/2000,3/31/2000,4/1/2000,Thompson Sound,,08-04-00-02,,,sunny,11:00,3:30,11:00,,2.6,,"boat, viewer, rake",clear,10,calm,450,3,,,,,,,,,,,,,,,,,,,spawn was 7-8 days old very few birds in the area,
+TRUE,4/8/2000,3/31/2000,4/1/2000,Thompson Sound,,08-04-00-02,,,sunny,11:00,3:30,11:00,,2.6,,"boat, viewer, rake",clear,10,calm,100,4,,,,,,,,,,,,,,,,,,,spawn was 7-8 days old very few birds in the area,
+TRUE,4/8/2000,3/31/2000,4/1/2000,Thompson Sound,,08-04-00-02,,,sunny,11:00,3:30,11:00,,2.6,,"boat, viewer, rake",clear,10,calm,274,6,,,,,,,,,,,,,,,,,,,spawn was 7-8 days old very few birds in the area,
+TRUE,4/8/2000,3/31/2000,4/1/2000,Thompson Sound,,08-04-00-02,,,sunny,11:00,3:30,11:00,,2.6,,"boat, viewer, rake",clear,10,calm,350,6,,,,,,,,,,,,,,,,,,,spawn was 7-8 days old very few birds in the area,
+TRUE,4/8/2000,3/31/2000,4/1/2000,Thompson Sound,,08-04-00-02,,,sunny,11:00,3:30,11:00,,2.6,,"boat, viewer, rake",clear,10,calm,750,2,,,,,,,,,,,,,,,,,,,spawn was 7-8 days old very few birds in the area,
+TRUE,4/8/2000,3/31/2000,4/1/2000,Thompson Sound,,08-04-00-02,,,sunny,11:00,3:30,11:00,,2.6,,"boat, viewer, rake",clear,10,calm,50,4,,,5,0.9,,,,,,,,,2,0.1,,,,0.1,"
+old spawn very few birds",
+TRUE,4/8/2000,3/31/2000,4/1/2000,Thompson Sound,,08-04-00-02,,,sunny,11:00,3:30,11:00,,2.6,,"boat, viewer, rake",clear,10,calm,134,1,0.5,0.3,0.5,0.7,,,,,,,,,,,,,,0.2,"
+old spawn very few birds",
+TRUE,4/8/2000,4/8/2000,,Tribune Channel,,08-04-00-01,,Brown Point,sunny,9:30,10:30,11:00,,2.6,,"boat, viewer, rake",clear,10,calm,250,2,,,3,0.8,2,0.1,,,,,,,1,0.1,,,,0.15,"these areas had just spawned this morning 
+few birds",
+TRUE,4/8/2000,4/8/2000,,Tribune Channel,,08-04-00-01,,Brown Point,sunny,9:30,10:30,11:00,,2.6,,"boat, viewer, rake",clear,10,calm,20,20,,,,,2,0.1,,,,,,,,,,,,0.1,"these areas had just spawned this morning 
+few birds",
+TRUE,4/8/2000,4/8/2000,,Tribune Channel,,08-04-00-01,,Brown Point,sunny,9:30,10:30,11:00,,2.6,,"boat, viewer, rake",clear,10,calm,71,1,,,1,0.95,,,,,,,,,1,0.05,,,,0.15,"these areas had just spawned this morning 
+few birds",
+TRUE,4/8/2000,4/8/2000,,Tribune Channel,,08-04-00-01,,Brown Point,sunny,9:30,10:30,11:00,,2.6,,"boat, viewer, rake",clear,10,calm,31,1,,,0.5,1,,,,,,,,,,,,,,0.2,"these areas had just spawned this morning 
+few birds",
+TRUE,4/10/2000,4/5/2000,,Kingcome Inlet,,10-04-00-01,,Upton Point,sunny,9:30,2:45,12:55,,3.5,,"boat, viewer, rake",clear,5,calm,243,1,,,0.25,1,,,,,,,,,,,,,,0.3,"spawn was deep on the bottom kelp column
+no birds",
+TRUE,4/10/2000,4/5/2000,,Kingcome Inlet,,10-04-00-01,,Upton Point,sunny,9:30,2:45,12:55,,3.5,,"boat, viewer, rake",clear,5,calm,410,2,,,0.5,0.2,1,0.7,0.5,0.5,,,,,1,0.5,,,,0.25,"spawn was deep on the bottom kelp column
+no birds",
+TRUE,4/10/2000,4/5/2000,,Kingcome Inlet,,10-04-00-01,,Upton Point,sunny,9:30,2:45,12:55,,3.5,,"boat, viewer, rake",clear,5,calm,70,3,,,1,0.8,0.5,0.2,,,,,,,,,,,,0.15,"spawn was deep on the bottom kelp column
+no birds",
+TRUE,3/3/2001,3/2/2001,,Knight Inlet,westside ,,,Below Axe Point,sunny,,,,,,,boat ,milty,2,calm ,45.5,2,,,2,0.8,,,,,,,,,1,0.2,,,,0.05,,
+TRUE,3/3/2001,3/2/2001,,Knight Inlet,westside ,,,Below Axe Point,sunny,,,,,,,boat ,milty,2,calm ,22.5,2,,,2,0.95,,,,,,,,,1,0.05,,,,0.05,,
+TRUE,3/3/2001,3/2/2001,,Knight Inlet,westside ,,,Axe Point ,sunny,,,,,,,boat ,milty,2,calm ,12,1,,,0.25,1,,,,,,,,,,,,,,0.05,,
+TRUE,3/3/2001,3/2/2001,,Knight Inlet,westside ,,,Axe Point ,sunny,,,,,,,boat ,milty,2,calm ,335,2,,,1.5,0.85,,,,,,,,,1,0.05,,,,0.2,,
+TRUE,3/3/2001,3/2/2001,,Knight Inlet,westside ,,,Axe Point ,sunny,,,,,,,boat ,milty,2,calm ,400,1,,,1,0.9,,,,,,,,,1,0.1,,,,0.3,,
+TRUE,3/3/2001,3/2/2001,,Knight Inlet,westside ,,,Up to Deer Creek ,sunny,,,,,,,boat ,milty,2,calm ,76,10.5,,,2.5,0.8,,,,,,,,,2,0.1,,,,0.1,,
+TRUE,3/3/2001,3/2/2001,,Knight Inlet,westside ,,,Above Deer Creek ,sunny,,,,,,,boat ,milty,2,calm ,273,4,,,0.5,0.9,,,,,,,,,1,0.2,,,,0.2,,
+TRUE,3/3/2001,3/2/2001,,Knight Inlet,westside ,,,Above Deer Creek ,,,,,,,,,,,,290,0.5,,,0.5,1,,,,,,,,,,,,,,0.05,very bottom of kelp column,
+TRUE,3/3/2001,3/2/2001,,Knight Inlet,westside ,,,Above Deer Creek ,,,,,,,,,,,,640,1,,,0.5,0.8,,,,,,,,,1,0.2,,,,0.15,,
+TRUE,3/3/2001,3/2/2001,,Knight Inlet,westside ,,,Above Deer Creek ,,,,,,,,,,,,300,3,,,1,0.9,,,,,,,,,1,0.1,,,,0.2,,
+TRUE,3/3/2001,3/2/2001,,Knight Inlet,westside ,,,Above Deer Creek ,,,,,,,,,,,,601,1.5,,,1,0.95,,,,,,,,,1,0.05,,,,0.2,sport boundary sign ,
+TRUE,3/4/2001,2/25/2001,,Knight Inlet ,westside ,,,Near the head,sunny,10:45,,,,,,boat ,milty,2,calm ,75,1,,,0.25,1,,,,,,,,,,,,,,0.3,rockweed was covered in glacial silt from the head of the inlet to Hatchet Pt westside. Some places herring had tried to spawn on it but eggs didn't stick. Boat wake was muddying up the water as silt washed off of kelps. No birds in the area?,
+TRUE,3/4/2001,2/25/2001,,Knight Inlet ,westside ,,,Near the head,sunny,10:45,,,,,,boat ,milty,2,calm ,21,2,,,1,0.9,,,,,,,,,1,0.1,,,,0.2,,
+TRUE,3/4/2001,2/25/2001,,Knight Inlet ,westside ,,,Near the head,sunny,10:45,,,,,,boat ,milty,2,calm ,20,0.5,,,0.25,1,,,,,,,,,,,,,,0.2,,
+TRUE,3/4/2001,2/25/2001,,Knight Inlet ,westside ,,,Near the head,sunny,10:45,,,,,,boat ,milty,2,calm ,35,1.5,,,0.5,0.95,,,,,,,,,1,0.05,,,,0.15,,
+TRUE,3/4/2001,2/25/2001,,Knight Inlet ,westside ,,,Hatchet Pt ,sunny,10:45,,,,,,boat ,milty,2,calm ,20,1,,,0.25,1,,,,,,,,,,,,,,0.1,,
+TRUE,3/4/2001,2/25/2001,,Knight Inlet ,eastside ,,,Rubble Pt (towards the head),,,,,,,,,,,,235,1.5,,,1,0.9,,,,,,,,,1,0.1,,,,0.2,,
+TRUE,3/4/2001,2/25/2001,,Knight Inlet ,eastside ,,,Rubble Pt (towards the head),,,,,,,,,,,,160,1,,,0.25,1,,,,,,,,,,,,,,0.3,,
+TRUE,3/4/2001,2/25/2001,,Knight Inlet ,eastside ,,,Rubble Pt (towards the head),,,,,,,,,,,,50,0.5,,,0.25,1,,,,,,,,,,,,,,0.1,,
+TRUE,3/4/2001,2/25/2001,,Knight Inlet ,,,,Wahshihlas Bay ,,,,,,,,,,,,76,6,,,1.5,0.9,,,,,,,,,1,0.1,,,,0.1,,
+TRUE,3/4/2001,2/25/2001,,Knight Inlet ,,,,Wahshihlas Bay ,,,,,,,,,,,,256,2,,,1,0.95,,,,,,,,,1,0.05,,,,0.2,,
+TRUE,3/4/2001,2/25/2001,,Knight Inlet ,,,,Wahshihlas Bay ,,,,,,,,,,,,137,1,,,1.5,0.9,,,,,,,,,1,0.1,,,,0.3,,
+TRUE,3/4/2001,2/25/2001,,Knight Inlet ,,,,Wahshihlas Bay ,,,,,,,,,,,,30,5,,,2.5,0.9,,,,,,,,,2,0.1,,,,0.05,,
+TRUE,3/4/2001,2/25/2001,,Knight Inlet ,eastside ,,,Rubble Pt (seaward),,,,,,,,,,,,300,6,,,3.5,0.8,,,,,,,,,2,0.2,,,,0.1,,
+TRUE,3/4/2001,2/25/2001,,Knight Inlet ,eastside ,,,Rubble Pt (seaward),,,,,,,,,,,,878,1.5,,,1.5,0.95,,,,,,,,,1,0.05,,,,0.2,,
+TRUE,3/4/2001,2/25/2001,,Knight Inlet ,eastside ,,,Rubble Pt (seaward),,,,,,,,,,,,200,1.5,,,1.5,0.95,,,,,,,,,1,0.05,,,,0.1,,
+TRUE,3/4/2001,2/25/2001,,Knight Inlet ,eastside ,,,Rubble Pt (seaward),,,,,,,,,,,,141,5,,,1.5,0.9,,,,,,,,,1,0.1,,,,0.1,,
+TRUE,3/4/2001,2/25/2001,,Knight Inlet ,eastside ,,,Rubble Pt (seaward),,,,,,,,,,,,300,3,,,1,0.9,,,,,,,,,1,0.1,,,,0.2,,
+TRUE,3/4/2001,2/25/2001,,Knight Inlet ,eastside ,,,Rubble Pt (seaward),,,,,,,,,,,,20,10,,,2,0.9,,,,,,,,,1,0.1,,,,0.05,,
+TRUE,3/4/2001,2/25/2001,,Knight Inlet ,eastside ,,,Rubble Pt (seaward),,,,,,,,,,,,30,1,,,0.5,1,,,,,,,,,,,,,,0.05,,
+TRUE,3/4/2001,2/25/2001,,Knight Inlet ,eastside ,,,Rubble Pt (seaward),,,,,,,,,,,,43,3,,,1.5,0.9,,,,,,,,,1,0.1,,,,0.1,,
+TRUE,3/4/2001,2/25/2001,,Knight Inlet ,eastside ,,,Rubble Pt (seaward),,,,,,,,,,,,25,2,,,1,0.95,,,,,,,,,1,0.05,,,,0.1,,
+TRUE,3/4/2001,2/25/2001,,Knight Inlet ,eastside ,,,Rubble Pt (seaward),,,,,,,,,,,,300,4,,,2,0.95,,,,,,,,,1,0.05,,,,0.15,,
+TRUE,3/4/2001,2/25/2001,,Knight Inlet ,eastside ,,,Rubble Pt (seaward),,,,,,,,,,,,1325,3,,,2.5,0.9,,,,,,,,,1,0.1,,,,0.2,,
+TRUE,3/4/2001,2/25/2001,,Knight Inlet ,eastside ,,,Rubble Pt (seaward),,,,,,,,,,,,325,2,,,1,0.95,,,,,,,,,1,0.05,,,,0.1,,
+TRUE,3/4/2001,2/25/2001,,Knight Inlet ,eastside ,,,Rubble Pt (seaward),,,,,,,,,,,,170,3,,,2,0.9,,,,,,,,,1,0.1,,,,0.15,,
+TRUE,3/4/2001,2/25/2001,,Knight Inlet ,eastside ,,,Rubble Pt (seaward),,,,,,,,,,,,225,2,,,1,0.9,,,,,,,,,1,0.1,,,,0.2,,
+TRUE,3/4/2001,2/25/2001,,Knight Inlet ,eastside ,,,Rubble Pt (seaward),,,,,,,,,,,,12,3,,,1,0.9,,,,,,,,,1,0.1,,,,0.1,,
+TRUE,3/4/2001,2/25/2001,,Knight Inlet ,eastside ,,,Rubble Pt (seaward),,,,,,,,,,,,650,2,,,1.5,0.9,,,,,,,,,1,0.1,,,,0.15,,
+TRUE,3/4/2001,2/25/2001,,Knight Inlet ,eastside ,,,Rubble Pt (seaward),,,,,,,,,,,,60,5,,,3,0.8,,,,,,,,,2,0.2,,,,0.05,,
+TRUE,3/4/2001,2/25/2001,,Knight Inlet ,eastside ,,,Rubble Pt (seaward),,,,,,,,,,,,50,2,,,0.5,0.95,,,,,,,,,1,0.05,,,,0.2,,
+TRUE,3/4/2001,2/25/2001,,Knight Inlet ,,,,Ahnauhti,,,,,,,,,,,,70,8,,,2,0.8,,,,,,,,,1,0.2,,,,0.1,,
+TRUE,3/4/2001,2/25/2001,,Knight Inlet ,,,,Ahnauhti,,,,,,,,,,,,130,3,,,1,0.95,,,,,,,,,1,0.05,,,,0.2,,
+TRUE,3/4/2001,2/25/2001,,Knight Inlet ,,,,Ahnauhti,,,,,,,,,,,,85,30,,,1,0.95,,,,,,,,,1,0.05,,,,0.15,,
+TRUE,3/4/2001,2/25/2001,,Knight Inlet ,,,,Ahnauhti,,,,,,,,,,,,68,2,,,0.5,1,,,,,,,,,,,,,,0.2,,
+TRUE,3/4/2001,2/25/2001,,Knight Inlet ,,,,Ahnauhti,,,,,,,,,,,,45,1,,,0.25,1,,,,,,,,,,,,,,0.1,,
+TRUE,3/4/2001,2/25/2001,,Knight Inlet ,,,,Ahnauhti,,,,,,,,,,,,180,0.5,,,0.25,1,,,,,,,,,,,,,,0.2,"river mouth, bottom of kelp column ",
+TRUE,3/7/2001,3/4/2001,3/5/2001,Wakeman Sound ,,,,,,,,,,,,,,,,117,31,,,1,0.9,,,,,,,,,1,0.05,1,0.05,wood,0.2,,
+TRUE,3/7/2001,3/4/2001,3/5/2001,Wakeman Sound ,,,,,,,,,,,,,,,,431,21,,,1.5,0.8,,,,,,,,,1,0.15,1,0.05,wood,0.1,,
+TRUE,3/7/2001,3/4/2001,3/5/2001,Wakeman Sound ,,,,,,,,,,,,,,,,46,40,0.5,0.9,0.25,0.1,,,,,,,,,,,,,,0.15,,
+TRUE,3/7/2001,3/4/2001,3/5/2001,Wakeman Sound ,,,,,,,,,,,,,,,,18,64,,,3.5,0.75,,,,,,,,,2,0.2,2,0.05,wood,0.05,,
+TRUE,3/7/2001,3/4/2001,3/5/2001,Wakeman Sound ,,,,,,,,,,,,,,,,40,4,,,2.5,0.8,,,,,,,,,2,0.1,2,0.1,wood,0.1,,
+TRUE,3/7/2001,3/4/2001,3/5/2001,Wakeman Sound ,,,,,,,,,,,,,,,,183,5,,,2.5,0.8,,,,,,,,,2,0.15,1,0.05,wood,0.15,,
+TRUE,3/7/2001,3/4/2001,3/5/2001,Wakeman Sound ,,,,,,,,,,,,,,,,46,15,,,3,0.8,,,,,,,,,2,0.2,,,,0.05,,
+TRUE,3/7/2001,3/4/2001,3/5/2001,Wakeman Sound ,,,,,,,,,,,,,,,,117,3,,,1.5,0.9,,,,,,,,,1,0.1,,,,0.1,,
+TRUE,3/7/2001,3/4/2001,3/5/2001,Wakeman Sound ,,,,,,,,,,,,,,,,230,18,,,1.5,0.8,,,,,,,,,1,0.2,,,,0.05,,
+TRUE,3/7/2001,3/4/2001,3/5/2001,Wakeman Sound ,,,,,,,,,,,,,,,,235,5,,,1.5,0.95,,,,,,,,,1,0.05,,,,0.15,,
+TRUE,3/7/2001,3/4/2001,3/5/2001,Wakeman Sound ,,,,,,,,,,,,,,,,220,4,,,1.5,0.8,,,,,1,0.05,,,1,0.1,,,,0.1,,
+TRUE,3/7/2001,3/4/2001,3/5/2001,Wakeman Sound ,,,,,,,,,,,,,,,,159,3,,,1,0.9,,,,,,,,,1,0.1,,,,0.2,,
+TRUE,3/7/2001,3/4/2001,3/5/2001,Wakeman Sound ,,,,,,,,,,,,,,,,31,4,,,1.5,0.9,,,,,,,,,1,0.1,,,,0.15,,
+TRUE,4/2/2001,3/23/2001,,Beaver Harbour ,,1,,,sunny,11:00,4:30,3:14,,3.7,,"walk, boat, viewer, rake, other (hipchain)",clear,10,calm,105,6,,,1,0.95,,,,,,,,,1,0.05,,,,0.1,,
+TRUE,4/2/2001,3/23/2001,,Beaver Harbour ,,1,,,sunny,11:00,4:30,3:14,,3.7,,"walk, boat, viewer, rake, other (hipchain)",clear,10,calm,78,5,0.5,0.05,0.5,0.9,,,,,,,,,1,0.05,,,,0.25,,
+TRUE,4/2/2001,3/23/2001,,Beaver Harbour ,,1,,,sunny,11:00,4:30,3:14,,3.7,,"walk, boat, viewer, rake, other (hipchain)",clear,10,calm,81,8,,,0.5,0.9,,,,,,,,,0.5,0.05,,,,0.15,,
+TRUE,4/2/2001,3/23/2001,,Beaver Harbour ,,1,,,sunny,11:00,4:30,3:14,,3.7,,"walk, boat, viewer, rake, other (hipchain)",clear,10,calm,250,20,0.5,1,,,,,,,,,,,,,,,,0.1,,
+TRUE,4/2/2001,3/23/2001,,Beaver Harbour ,,1,,,sunny,11:00,4:30,3:14,,3.7,,"walk, boat, viewer, rake, other (hipchain)",clear,10,calm,295,28,0.25,1,,,,,,,,,,,,,,,,0.2,,
+TRUE,4/2/2001,3/23/2001,,Beaver Harbour ,,1,,,sunny,11:00,4:30,3:14,,3.7,,"walk, boat, viewer, rake, other (hipchain)",clear,10,calm,350,10,0.1,1,,,,,,,,,,,,,,,,0.25,,
+TRUE,4/5/2001,4/3/2001,4/4/2001,Thomspon Sound ,,1,,Cornes Pocket ,raining ,7:00,9:30,6:03,12:04,5,15,"walk, boat, viewer, rake ",clear ,5,calm ,30,5,,,1.5,0.85,,,,,,,,,1,0.05,,,,0.1,"lots of gulls in the area, est 150 tons of herring in Sackville Is area, kelp spawn was bull kelp or Vineria (Vinaria?)",
+TRUE,4/5/2001,4/3/2001,4/4/2001,Thomspon Sound ,,1,,Old Camp,raining ,7:00,9:30,6:03,12:04,5,15,"walk, boat, viewer, rake ",clear ,5,calm ,106,3,,,2.5,0.8,,,,,,,,,1.5,0.2,,,,0.15,"lots of gulls in the area, est 150 tons of herring in Sackville Is area, kelp spawn was bull kelp or Vineria (Vinaria?)",
+TRUE,4/5/2001,4/5/2001,,Thomspon Sound ,,1,,,raining ,7:00,9:30,6:03,12:04,5,15,"walk, boat, viewer, rake ",clear ,5,calm ,83,3,,,1.5,0.9,,,,,,,,,1,0.1,,,,0.15,"lots of gulls in the area, est 150 tons of herring in Sackville Is area, kelp spawn was bull kelp or Vineria (Vinaria?)",
+TRUE,4/5/2001,4/3/2001,4/4/2001,Thomspon Sound ,,1,,,raining ,7:00,9:30,6:03,12:04,5,15,"walk, boat, viewer, rake ",clear ,5,calm ,121,2,,,1.5,0.95,,,,,,,,,1,0.05,,,,0.2,"lots of gulls in the area, est 150 tons of herring in Sackville Is area, kelp spawn was bull kelp or Vineria (Vinaria?)",
+TRUE,4/5/2001,4/3/2001,4/4/2001,Thomspon Sound ,,1,,Vinera ,raining ,7:00,9:30,6:03,12:04,5,15,"walk, boat, viewer, rake ",clear ,5,calm ,114,30,,,,,2,1,,,,,,,,,,,,0.35,"lots of gulls in the area, est 150 tons of herring in Sackville Is area, kelp spawn was bull kelp or Vineria (Vinaria?)",
+TRUE,4/6/2001,4/3/2001,4/4/2001,Wakeman Sound ,,Fr-1,,Frederic Creek ,sunny,10:00,10:30,,,,,"walk, boat, viewer, rake ",milty,3,calm,26,15,,,0.5,0.95,,,,,,,,,1,0.05,,,,0.05,,
+TRUE,4/6/2001,4/3/2001,4/4/2001,Wakeman Sound ,,Fr-1,,Frederic Creek ,sunny,10:00,10:30,,,,,"walk, boat, viewer, rake ",milty,3,calm,45,21,,,1.5,0.95,,,,,,,,,1,0.05,,,,0.1,,
+TRUE,4/6/2001,4/3/2001,4/4/2001,Wakeman Sound ,,1,,Upton Pt,sunny,7:00,10:30,5:51,6:09,3.8,2.2,"boat, viewer, rake, walk",milty,3,milty,3082,5,,,2.5,0.9,,,,,,,,,1.5,0.1,,,,0.15,,
+TRUE,4/6/2001,4/3/2001,4/4/2001,Wakeman Sound ,,1,,Upton Pt,sunny,7:00,10:30,5:51,6:09,3.8,2.2,"boat, viewer, rake, walk",milty,3,milty,115,8,,,3.5,0.95,,,,,,,,,2,0.05,,,,0.1,,
+TRUE,4/6/2001,4/3/2001,4/4/2001,Wakeman Sound ,,1,,Upton Pt,sunny,7:00,10:30,5:51,6:09,3.8,2.2,"boat, viewer, rake, walk",milty,3,milty,1606,3,,,2,0.95,,,,,,,,,1,0.05,,,,0.15,,
+TRUE,4/6/2001,4/3/2001,4/4/2001,Wakeman Sound ,,1,,Upton Pt,sunny,7:00,10:30,5:51,6:09,3.8,2.2,"boat, viewer, rake, walk",milty,3,milty,131,10,,,2.5,0.95,,,,,,,,,2,0.05,,,,0.05,,
+TRUE,4/6/2001,4/3/2001,4/4/2001,Wakeman Sound ,,1,,Upton Pt,sunny,7:00,10:30,5:51,6:09,3.8,2.2,"boat, viewer, rake, walk",milty,3,milty,592,4,,,1.5,0.95,,,,,,,,,1,0.05,,,,0.1,,
+TRUE,4/6/2001,4/3/2001,4/4/2001,Wakeman Sound ,,1,,Upton Pt,sunny,7:00,10:30,5:51,6:09,3.8,2.2,"boat, viewer, rake, walk",milty,3,milty,175,3,,,0.5,0.95,,,,,,,,,1,0.05,,,,0.15,,
+TRUE,4/6/2001,4/3/2001,4/4/2001,Kingcome Inlet ,,K1,,,sunny,,,5:51,6:09,3.8,2.2,"boat, viewer, rake",milty,3,calm ,2749,1.5,,,0.5,0.9,,,,,,,,,1,0.1,,,,0.3,,
+TRUE,4/6/2001,4/3/2001,4/4/2001,Kingcome Inlet ,,K1,,,sunny,,,5:51,6:09,3.8,2.2,"boat, viewer, rake",milty,3,calm ,965,2,,,1,0.9,,,,,,,,,1,0.1,,,,0.2,,
+TRUE,4/6/2001,4/3/2001,4/4/2001,Kingcome Inlet ,,K1,,,sunny,,,5:51,6:09,3.8,2.2,"boat, viewer, rake",milty,3,calm ,799,2,,,2,0.9,,,,,,,,,2,0.1,,,,0.2,,
+TRUE,4/6/2001,4/3/2001,4/4/2001,Kingcome Inlet ,,K1,,,sunny,,,5:51,6:09,3.8,2.2,"boat, viewer, rake",milty,3,calm ,460,3,,,1,0.9,,,,,,,,,1,0.1,,,,0.35,,
+TRUE,4/6/2001,4/3/2001,4/4/2001,Kingcome Inlet ,,K1,,,sunny,,,5:51,6:09,3.8,2.2,"boat, viewer, rake",milty,3,calm ,187,3,,,2.5,0.9,,,,,,,,,2,0.1,,,,0.2,,
+TRUE,4/6/2001,4/3/2001,4/4/2001,Kingcome Inlet ,,K1,,,sunny,,,5:51,6:09,3.8,2.2,"boat, viewer, rake",milty,3,calm ,90,20,,,3,0.95,,,,,,,,,2,0.05,,,,0.1,,
+TRUE,4/6/2001,4/3/2001,4/4/2001,Kingcome Inlet ,,K2,,,sunny,2:45,7:30,5:51,6:09,3.8,2.2,"boat, viewer, rake",milty,3,calm ,1600,3,,,0.5,0.9,,,,,,,,,1,0.1,,,,0.2,,
+TRUE,4/6/2001,4/3/2001,4/4/2001,Kingcome Inlet ,,K2,,,sunny,2:45,7:30,5:51,6:09,3.8,2.2,"boat, viewer, rake",milty,3,calm ,1930,2,,,0.25,0.95,,,,,,,,,1,0.05,,,,0.3,,
+TRUE,4/6/2001,4/3/2001,4/4/2001,Kingcome Inlet ,,K2,,,sunny,2:45,7:30,5:51,6:09,3.8,2.2,"boat, viewer, rake",milty,3,calm ,78,3,,,1.5,0.8,,,,,,,,,1,0.2,,,,0.1,,
+TRUE,4/6/2001,4/3/2001,4/4/2001,Kingcome Inlet ,,K2,,,sunny,2:45,7:30,5:51,6:09,3.8,2.2,"boat, viewer, rake",milty,3,calm ,125,4,,,2,0.9,,,,,,,,,1,0.1,,,,0.1,,
+TRUE,4/6/2001,4/3/2001,4/4/2001,Kingcome Inlet ,,K2,,,sunny,2:45,7:30,5:51,6:09,3.8,2.2,"boat, viewer, rake",milty,3,calm ,60,4,,,3.5,0.95,,,,,,,,,2,0.05,,,,0.05,,
+TRUE,4/6/2001,4/3/2001,4/4/2001,Kingcome Inlet ,,K2,,,sunny,2:45,7:30,5:51,6:09,3.8,2.2,"boat, viewer, rake",milty,3,calm ,30,4,,,2,0.9,,,,,,,,,1,0.1,,,,0.15,,
+TRUE,4/10/2001,4/3/2001,4/5/2001,Knight Inlet,,"K1, K2",,,sunny,8:37,,,,2.6,,"walk, boat, viewer, rake",milty,3,calm,333,1,,,0.25,0.95,,,,,,,,,1,0.05,,,,0.2,"spawn was estimated 1 week old.
+second hit for some spots above
+Axe point - first spawn was long gone
+very few birds",
+TRUE,4/10/2001,4/3/2001,4/5/2001,Knight Inlet,,"K1, K2",,,sunny,8:37,,,,2.6,,"walk, boat, viewer, rake",milty,3,calm,47,2,,,0.25,0.95,,,,,,,,,1,0.05,,,,0.2,"spawn was estimated 1 week old.
+second hit for some spots above
+Axe point - first spawn was long gone
+very few birds",
+TRUE,4/10/2001,4/3/2001,4/5/2001,Knight Inlet,,"K1, K2",,,sunny,8:37,,,,2.6,,"walk, boat, viewer, rake",milty,3,calm,273,2,,,0.5,0.9,,,,,,,,,1,0.1,,,,0.15,"spawn was estimated 1 week old.
+second hit for some spots above
+Axe point - first spawn was long gone
+very few birds",
+TRUE,4/10/2001,4/3/2001,4/5/2001,Knight Inlet,,"K1, K2",,,sunny,8:37,,,,2.6,,"walk, boat, viewer, rake",milty,3,calm,76,10,,,2.5,0.95,,,,,,,,,1,0.05,,,,0.05,"spawn was estimated 1 week old.
+second hit for some spots above
+Axe point - first spawn was long gone
+very few birds",
+TRUE,4/10/2001,4/3/2001,4/5/2001,Knight Inlet,,"K1, K2",,,sunny,8:37,,,,2.6,,"walk, boat, viewer, rake",milty,3,calm,121,3,,,0.5,1,,,,,,,,,,,,,,0.15,"spawn was estimated 1 week old.
+second hit for some spots above
+Axe point - first spawn was long gone
+very few birds",
+TRUE,4/10/2001,4/3/2001,4/5/2001,Knight Inlet,,"K1, K2",,,sunny,8:37,,,,2.6,,"walk, boat, viewer, rake",milty,3,calm,45,5,,,1,0.95,,,,,,,,,1,0.05,,,,0.1,"spawn was estimated 1 week old.
+second hit for some spots above
+Axe point - first spawn was long gone
+very few birds",
+TRUE,4/11/2001,3/23/2001,3/25/2001,Knight Inlet,,,,,sunny,8:00,1:45,9:15,,3,,"walk, boat, viewer, rake",milty,3,calm,125,0.5,,,0.25,1,,,,,,,,,,,,,,0.1,some eggs were hatched,
+TRUE,4/11/2001,3/23/2001,3/25/2001,Knight Inlet,,,,,sunny,8:00,1:45,9:15,,3,,"walk, boat, viewer, rake",milty,3,calm,50,1,,,0.25,1,,,,,,,,,,,,,,0.05,some eggs were hatched,
+TRUE,4/11/2001,3/23/2001,3/25/2001,Knight Inlet,,,,,sunny,8:00,1:45,9:15,,3,,"walk, boat, viewer, rake",milty,3,calm,160,3,,,0.5,0.95,,,,,,,,,1,0.05,,,,0.1,some eggs were hatched,
+TRUE,4/11/2001,3/23/2001,3/25/2001,Knight Inlet,,,,,sunny,8:00,1:45,9:15,,3,,"walk, boat, viewer, rake",milty,3,calm,200,10,0.5,0.95,,,,,,,,,,,0.25,0.05,,,,0.1,some eggs were hatched,
+TRUE,4/11/2001,3/23/2001,3/25/2001,Knight Inlet,,,,,sunny,8:00,1:45,9:15,,3,,"walk, boat, viewer, rake",milty,3,calm,50,50,,,0.5,0.95,,,,,,,,,1,0.05,,,,0.15,some eggs were hatched,
+TRUE,4/11/2001,3/23/2001,3/25/2001,Knight Inlet,,,,,sunny,8:00,1:45,9:15,,3,,"walk, boat, viewer, rake",milty,3,calm,105,25,,,,,1,1,,,,,,,,,,,,0.1,some eggs were hatched,
+TRUE,4/12/2001,3/25/2001,,Sargeaunt Pass,,S1,,,overcast,7:30,8:15,9:56,,3.7,,"boat, viewer",clear,10,calm,60,3,,,2,0.9,,,,,,,,,1,0.1,,,,0.1,"some eggs were hatched
+no birds",
+TRUE,4/12/2001,3/25/2001,,Sargeaunt Pass,,S1,,,overcast,7:30,8:15,9:56,,3.7,,"boat, viewer",clear,10,calm,60,10,,,,,1,1,,,,,,,,,,,,0.1,"some eggs were hatched
+no birds",
+TRUE,4/18/2001,4/3/2001,4/6/2001,Hardy Bay,,1,,,raining ,12:45,3:30,,,,4.7,"walk, boat, viewer, rake ",,5,choppy ,50,5,,,0.5,0.95,,,,,,,,,1,0.05,,,,0.15,"well eyed, day or two from hatching; still spawn on kelp in pond (open) 500lbs total dead on bottom of ponds; #1 had more than #2(100lbs)",
+TRUE,4/18/2001,4/3/2001,4/6/2001,Hardy Bay,,1,,,raining ,12:45,3:30,,,,4.7,"walk, boat, viewer, rake ",,5,choppy ,30,3,,,0.25,1,,,,,,,,,,,,,,0.2,"well eyed, day or two from hatching; still spawn on kelp in pond (open) 500lbs total dead on bottom of ponds; #1 had more than #2(100lbs)",
+TRUE,4/18/2001,4/3/2001,4/6/2001,Hardy Bay,,1,,,raining ,12:45,3:30,,,,4.7,"walk, boat, viewer, rake ",,5,choppy ,80,25,0.25,0.05,1,0.95,,,,,,,,,,,,,,0.25,"well eyed, day or two from hatching; still spawn on kelp in pond (open) 500lbs total dead on bottom of ponds; #1 had more than #2(100lbs)",
+TRUE,3/28/2002,3/19/2002,,Wakeman Sound,east_side,E1,,,overcast,6:56,19:14,,,3.5,2.7,"boat, viewer, rake, hipchain",,2,calm,220,2,,,0.25,1,,,,,,,,,,,,,,0.15,"from dock on seaward on east side
+spawn date is March 19, 2002 to March 21, 2002",
+TRUE,3/28/2002,3/19/2002,,Wakeman Sound,east_side,E1,,,overcast,6:56,19:14,,,3.5,2.7,"boat, viewer, rake, hipchain",,2,calm,75,1,,,0.15,1,,,,,,,,,,,,,,0.15,"from dock on seaward on east side
+spawn date is March 19, 2002 to March 21, 2002",
+TRUE,3/28/2002,3/19/2002,,Wakeman Sound,east_side,E1,,,overcast,6:56,19:14,,,3.5,2.7,"boat, viewer, rake, hipchain",,2,calm,50,3,,,0.5,1,,,,,,,,,,,,,,0.15,"from dock on seaward on east side
+spawn date is March 19, 2002 to March 21, 2002",
+TRUE,3/28/2002,3/19/2002,,Wakeman Sound,east_side,E1,,,overcast,6:56,19:14,,,3.5,2.7,"boat, viewer, rake, hipchain",,2,calm,210,1,,,0.25,0.95,,,,,,,,,1,0.05,,,,0.2,"from dock on seaward on east side
+spawn date is March 19, 2002 to March 21, 2002",
+TRUE,3/28/2002,3/19/2002,,Wakeman Sound,east_side,E1,,,overcast,6:56,19:14,,,3.5,2.7,"boat, viewer, rake, hipchain",,2,calm,150,2,,,1.5,0.8,,,,,,,,,1,0.2,,,,0.1,"from dock on seaward on east side
+spawn date is March 19, 2002 to March 21, 2002",
+TRUE,3/28/2002,3/19/2002,,Wakeman Sound,east_side,E1,,,overcast,6:56,19:14,,,3.5,2.7,"boat, viewer, rake, hipchain",,2,calm,100,4,,,2,0.8,,,,,,,,,1,0.2,,,,0.1,"from dock on seaward on east side
+spawn date is March 19, 2002 to March 21, 2002",
+TRUE,3/28/2002,3/19/2002,,Wakeman Sound,east_side,E1,,,overcast,6:56,19:14,,,3.5,2.7,"boat, viewer, rake, hipchain",,2,calm,125,7,,,1.5,0.7,,,1,0.05,,,,,1,0.25,,,,0.1,"spawn date is March 19, 2002 to March 21, 2002",
+TRUE,3/28/2002,3/19/2002,,Wakeman Sound,east_side,E1,,,overcast,6:56,19:14,,,3.5,2.7,"boat, viewer, rake, hipchain",,2,calm,40,9,,,2,0.85,,,1,0.05,,,,,1,0.1,,,,0.05,"spawn date is March 19, 2002 to March 21, 2002",
+TRUE,3/28/2002,3/19/2002,,Wakeman Sound,east_side,E1,,,overcast,6:56,19:14,,,3.5,2.7,"boat, viewer, rake, hipchain",,2,calm,200,5,,,1.5,0.8,,,,,,,,,1,0.2,,,,0.1,"spawn date is March 19, 2002 to March 21, 2002",
+TRUE,3/28/2002,3/19/2002,,Wakeman Sound,east_side,E1,,,overcast,6:56,19:14,,,3.5,2.7,"boat, viewer, rake, hipchain",,2,calm,125,3,,,0.5,0.9,,,,,,,,,1,0.1,,,,0.1,"spawn date is March 19, 2002 to March 21, 2002",
+TRUE,3/28/2002,3/19/2002,,Wakeman Sound,east_side,E1,,,overcast,6:56,19:14,,,3.5,2.7,"boat, viewer, rake, hipchain",,2,calm,260,3,,,1,0.95,,,,,,,,,1,0.05,,,,0.15,"spawn date is March 19, 2002 to March 21, 2002",
+TRUE,3/28/2002,3/19/2002,,Wakeman Sound,east_side,E1,,,overcast,6:56,19:14,,,3.5,2.7,"boat, viewer, rake, hipchain",,2,calm,60,1,,,0.15,1,,,,,,,,,,,,,,0.05,"spawn date is March 19, 2002 to March 21, 2002",
+TRUE,3/29/2002,3/19/2002,,Wakeman Sound,east_side,E1,,,raining,,,,,3.2,,"walk, boat, viewer, rake",glacial,2,calm,462,5,,,0.25,0.95,,,,,,,,,1,0.05,,,,0.1,"started at creek seaward to heli-camp tie-up
+spawn started March 19 out by heli-camp tie up. progressed on March 20 in old boom area and continued on March 21 on east side (head)
+survey was done on March 28 and 29 (morning and afternoon low ties)
+predation: bird action low to med. on black bear by Upton point on every low tide.",
+TRUE,3/29/2002,3/19/2002,,Wakeman Sound,east_side,E1,,,raining,,,,,3.2,,"walk, boat, viewer, rake",glacial,2,calm,220,23,,,0.25,0.9,,,0.25,0.05,,,,,1,0.05,,,,0.1,"started at creek seaward to heli-camp tie-up
+spawn started March 19 out by heli-camp tie up. progressed on March 20 in old boom area and continued on March 21 on east side (head)
+survey was done on March 28 and 29 (morning and afternoon low ties)
+predation: bird action low to med. on black bear by Upton point on every low tide.",
+TRUE,3/29/2002,3/19/2002,,Wakeman Sound,east_side,E1,,,raining,,,,,3.2,,"walk, boat, viewer, rake",glacial,2,calm,60,20,,,0.5,0.95,,,,,,,,,,,1,0.05,,0.05,"started at creek seaward to heli-camp tie-up
+spawn started March 19 out by heli-camp tie up. progressed on March 20 in old boom area and continued on March 21 on east side (head)
+survey was done on March 28 and 29 (morning and afternoon low ties)
+predation: bird action low to med. on black bear by Upton point on every low tide.",
+TRUE,3/29/2002,3/21/2002,,Wakeman Sound,west_side,W1,,,raining,7:37,,,,2.8,,"viewer, rake, hipchain",,2,calm,250,5,,,0.5,0.8,,,,,,,,,1,0.2,,,,0.1,"spawn date started on morning of March 21 and continued on March 22 and March 23 on the west side. survey was done on March 29 on morning and afternoon low tides. No spawn on tide flats on up the river due to tide conditions (lots of the area went at low water or last end of tide)
+start at Frederick cr",
+TRUE,3/29/2002,3/21/2002,,Wakeman Sound,west_side,W1,,,raining,7:37,,,,2.8,,"viewer, rake, hipchain",,2,calm,300,6,,,1,0.8,,,,,,,,,1,0.2,,,,0.15,"spawn date started on morning of March 21 and continued on March 22 and March 23 on the west side. survey was done on March 29 on morning and afternoon low tides. No spawn on tide flats on up the river due to tide conditions (lots of the area went at low water or last end of tide)
+start at Frederick cr",
+TRUE,3/29/2002,3/21/2002,,Wakeman Sound,west_side,W1,,,raining,7:37,,,,2.8,,"viewer, rake, hipchain",,2,calm,100,9,,,0.75,0.8,,,,,,,,,1,0.2,,,,0.1,"spawn date started on morning of March 21 and continued on March 22 and March 23 on the west side. survey was done on March 29 on morning and afternoon low tides. No spawn on tide flats on up the river due to tide conditions (lots of the area went at low water or last end of tide)
+start at Frederick cr",
+TRUE,3/29/2002,3/21/2002,,Wakeman Sound,west_side,W1,,,raining,7:37,,,,2.8,,"viewer, rake, hipchain",,2,calm,480,5,,,1,0.8,,,,,,,,,1,0.2,,,,0.2,"spawn date started on morning of March 21 and continued on March 22 and March 23 on the west side. survey was done on March 29 on morning and afternoon low tides. No spawn on tide flats on up the river due to tide conditions (lots of the area went at low water or last end of tide)
+start at Frederick cr",
+TRUE,3/29/2002,3/21/2002,,Wakeman Sound,west_side,W1,,,raining,7:37,,,,2.8,,"viewer, rake, hipchain",,2,calm,260,4,,,1,0.9,,,,,,,,,1,0.1,,,,0.1,"spawn date started on morning of March 21 and continued on March 22 and March 23 on the west side. survey was done on March 29 on morning and afternoon low tides. No spawn on tide flats on up the river due to tide conditions (lots of the area went at low water or last end of tide)
+start at Frederick cr",
+TRUE,3/29/2002,3/21/2002,,Wakeman Sound,west_side,W1,,,raining,7:37,,,,2.8,,"viewer, rake, hipchain",,2,calm,60,10,,,2.5,0.8,,,,,,,,,2,0.2,,,,0.05,"spawn date started on morning of March 21 and continued on March 22 and March 23 on the west side. survey was done on March 29 on morning and afternoon low tides. No spawn on tide flats on up the river due to tide conditions (lots of the area went at low water or last end of tide)
+start at Frederick cr",
+TRUE,3/29/2002,3/21/2002,,Wakeman Sound,west_side,W1,,,raining,7:37,,,,2.8,,"boat, viewer, rake, hipchain",,2,calm,540,6,,,3,0.8,,,,,,,,,2,0.2,,,,0.05,,
+TRUE,3/29/2002,3/21/2002,,Wakeman Sound,west_side,W1,,,raining,7:37,,,,2.8,,"boat, viewer, rake, hipchain",,2,calm,100,3,,,5,0.7,,,,,,,,,3,0.3,,,,0,,
+TRUE,3/29/2002,3/21/2002,,Wakeman Sound,west_side,W2,,,raining,7:37,,,,2.8,,"boat, viewer, rake, hipchain",,2,calm,1439,4,,,2.5,0.75,,,,,,,,,2,0.25,,,,0.1,,
+TRUE,3/29/2002,3/21/2002,,Wakeman Sound,west_side,W2,,,raining,7:37,,,,2.8,,"boat, viewer, rake, hipchain",,2,calm,1400,4,,,2,0.8,,,,,,,,,1,0.2,,,,0.1,,
+TRUE,3/29/2002,3/21/2002,,Wakeman Sound,west_side,W2,,,raining,7:37,,,,2.8,,"boat, viewer, rake, hipchain",,2,calm,100,8,,,4,0.7,,,,,,,,,3,0.3,,,,0,,
+TRUE,3/29/2002,3/21/2002,,Wakeman Sound,west_side,W2,,,raining,7:37,,,,2.8,,"boat, viewer, rake, hipchain",,2,calm,1217,6,,,1,0.85,,,,,,,,,1,0.15,,,,0.05,,
+TRUE,3/30/2002,3/23/2002,,Kingcome Inlet,,K1,,,raining,8:18,,,,2.6,,"boat, viewer, rake",glacial,3,calm,61,10,,,6,0.7,,,2,0.1,2,0.1,,,3,0.1,,,,0,"started at Upton point
+heavy bird predation",
+TRUE,3/30/2002,3/23/2002,,Kingcome Inlet,,K1,,,raining,8:18,,,,2.6,,"boat, viewer, rake",glacial,3,calm,30,14,,,6,0.8,,,2,0.1,,,,,3,0.1,,,,0,"started at Upton point
+heavy bird predation",
+TRUE,3/30/2002,3/23/2002,,Kingcome Inlet,,K1,,,raining,8:18,,,,2.6,,"boat, viewer, rake",glacial,3,calm,30,10,,,4,0.8,,,2,0.05,2,0.05,,,2,0.1,,,,0,"started at Upton point
+heavy bird predation",
+TRUE,3/30/2002,3/23/2002,,Kingcome Inlet,,K1,,,raining,8:18,,,,2.6,,"boat, viewer, rake",glacial,3,calm,935,6,,,2.5,0.8,,,1,0.1,,,,,1,0.1,,,,0.1,"started at Upton point
+heavy bird predation",
+TRUE,3/30/2002,3/23/2002,,Kingcome Inlet,,K1,,,raining,8:18,,,,2.6,,"boat, viewer, rake",glacial,3,calm,572,5,,,1,0.85,,,1,0.05,,,,,1,0.1,,,,0.15,"started at Upton point
+heavy bird predation",
+TRUE,3/30/2002,3/23/2002,,Kingcome Inlet,,K1,,,raining,8:18,,,,2.6,,"boat, viewer, rake",glacial,3,calm,581,3,,,0.5,0.9,,,,,,,,,1,0.1,,,,0.2,"started at Upton point
+heavy bird predation",
+TRUE,4/8/2002,3/31/2002,4/2/2002,Tribune Channel,,T1,,Loaf Point,,,,,,,,,,,,120,2,,,0.5,0.9,,,,0.1,,,,,,,,,,0.1,,
+TRUE,4/8/2002,3/31/2002,4/2/2002,Tribune Channel,,T1,,Loaf Point,,,,,,,,,,,,75,10,,,,,1.5,1,,,,,,,,,,,,0.25,,
+TRUE,4/8/2002,3/31/2002,4/2/2002,Tribune Channel,,T1,,Loaf Point,,,,,,,,,,,,35,3,,,1,0.9,,,,0.1,,,,,,,,,,0.1,,
+TRUE,4/8/2002,3/31/2002,4/2/2002,Tribune Channel,,T1,,Loaf Point,,,,,,,,,,,,318,1,,,0.25,0.95,,,,0.05,,,,,,,,,,0.35,,
+TRUE,4/8/2002,3/31/2002,4/2/2002,Tribune Channel,,T1,,Loaf Point,,,,,,,,,,,,120,2,,,0.5,0.95,,,,,,,,,,0.05,,,,0.1,,
+TRUE,4/8/2002,3/31/2002,4/2/2002,Tribune Channel,,T1,,Loaf Point,,,,,,,,,,,,200,2,,,0.25,0.9,,,,0.05,,,,,,0.05,,,,0.05,,
+TRUE,4/8/2002,3/31/2002,4/2/2002,Tribune Channel,,T1,,Loaf Point,,,,,,,,,,,,40,10,,,1,0.9,,,,,,,,,,0.1,,,,0.1,,
+TRUE,4/8/2002,3/31/2002,4/2/2002,Tribune Channel,,T1,,Loaf Point,,,,,,,,,,,,42,2,,,1,0.95,,,,,,,,,,0.05,,,,0.1,,
+TRUE,4/8/2002,3/31/2002,4/2/2002,Tribune Channel,,T1,,Loaf Point,,,,,,,,,,,,92,1,,,1,0.95,,,,,,,,,,0.05,,,,0.15,,
+TRUE,4/8/2002,3/31/2002,,Tribune Channel,,B1,,Bond Sound,,,,,,,,,,,,20,1,,,0.25,1,,,,,,,,,,,,,,0.05,"we saw this area go off, just a light cover
+very light spawn we likely would have missed it if we hadn't seen it spawn (very bottom of kelp column)",
+TRUE,4/8/2002,3/31/2002,,Tribune Channel,,B1,,Bond Sound,,,,,,,,,,,,10,1,,,0.15,1,,,,,,,,,,,,,,0.2,"we saw this area go off, just a light cover
+very light spawn we likely would have missed it if we hadn't seen it spawn (very bottom of kelp column)",
+TRUE,4/8/2002,3/31/2002,,Tribune Channel,,B1,,Bond Sound,,,,,,,,,,,,28,1.5,,,0.25,1,,,,,,,,,,,,,,0.1,"we saw this area go off, just a light cover
+very light spawn we likely would have missed it if we hadn't seen it spawn (very bottom of kelp column)",
+TRUE,4/9/2002,3/31/2002,4/2/2002,Tribune Channel,,T1,,Brown Point,,,,,,,,,,,,30,1,,,0.5,1,,,,,,,,,,,,,,0.05,,
+TRUE,4/9/2002,3/31/2002,4/2/2002,Tribune Channel,,T1,,Brown Point,,,,,,,,,,,,20,2,,,1,0.95,,,,,,,,,,0.05,,,,0.1,,
+TRUE,4/9/2002,3/31/2002,4/2/2002,Tribune Channel,,T1,,Brown Point,,,,,,,,,,,,40,2,,,1.5,0.9,,,,,,,,,,0.1,,,,0.1,,
+TRUE,4/9/2002,3/31/2002,4/2/2002,Tribune Channel,,T1,,Brown Point,,,,,,,,,,,,70,10,,,1,,,1,,,,,,,,,,,,0.3,,
+TRUE,4/9/2002,3/31/2002,4/2/2002,Tribune Channel,,T1,,Brown Point,,,,,,,,,,,,120,2,,,1,0.95,,,,,,,,,,0.5,,,,0.2,,
+TRUE,4/9/2002,3/31/2002,4/2/2002,Tribune Channel,,T1,,Brown Point,,,,,,,,,,,,500,2,,,0.5,1,,,,,,,,,,,,,,0.2,,
+TRUE,4/9/2002,3/31/2002,4/2/2002,Tribune Channel,,T1,,Brown Point,,,,,,,,,,,,350,1,,,0.5,1,,,,,,,,,,,,,,0.1,,
+TRUE,4/9/2002,3/31/2002,4/2/2002,Tribune Channel,,T1,,Brown Point,,,,,,,,,,,,47,3,,,1,0.9,,,,,,,,,,0.1,,,,0.1,,
+TRUE,4/9/2002,3/30/2002,4/2/2002,Thompson Sound,,TS1,,creek,,,,,,,,,,,,725,2,,,1.5,0.9,,,,,,,,,1,0.1,,,,0.2,,
+TRUE,4/9/2002,3/30/2002,4/2/2002,Thompson Sound,,TS1,,creek,,,,,,,,,,,,110,2,,,1,0.95,,,,,,,,,1,0.05,,,,0.2,,
+TRUE,4/9/2002,3/30/2002,4/2/2002,Thompson Sound,,TS1,,creek,,,,,,,,,,,,30,4,,,1.5,0.9,,,,,,,,,1,0.1,,,,0.1,,
+TRUE,4/9/2002,3/30/2002,4/2/2002,Thompson Sound,,TS1,,creek,,,,,,,,,,,,60,2,,,0.5,0.95,,,,,,,,,1,0.05,,,,0.1,,
+TRUE,4/9/2002,3/30/2002,4/2/2002,Thompson Sound,,TS1,,creek,,,,,,,,,,,,20,4,,,1,0.95,,,,,,,,,1,0.05,,,,0.05,,
+TRUE,4/9/2002,3/30/2002,4/2/2002,Thompson Sound,,TS1,,creek,,,,,,,,,,,,20,30,,,,,,,,,,,,,3,1,,,,0.3,,
+TRUE,4/9/2002,3/30/2002,4/2/2002,Thompson Sound,,TS1,,creek,,,,,,,,,,,,10,2,,,2,0.9,,,,,,,,,1,0.1,,,,0.05,,
+TRUE,4/9/2002,3/30/2002,4/2/2002,Thompson Sound,,TS1,,creek,,,,,,,,,,,,300,3,,,1,0.95,,,,,,,,,1,0.05,,,,0.1,,
+TRUE,4/9/2002,3/30/2002,4/2/2002,Thompson Sound,,TS1,,creek,,,,,,,,,,,,60,5,,,1,0.8,,,,,,,,,,,,,,0.1,2/0.2 wood,
+TRUE,4/9/2002,3/30/2002,4/2/2002,Thompson Sound,,TS1,,creek,,,,,,,,,,,,95,15,1,0.1,1.5,0.8,,,,,,,,,1,0.1,,,,0.2,,
+TRUE,4/9/2002,3/30/2002,4/2/2002,Thompson Sound,,TS1,,creek,,,,,,,,,,,,60,15,1,0.1,1,0.9,,,,,,,,,,,,,,0.1,,
+TRUE,4/9/2002,3/30/2002,4/2/2002,Thompson Sound,,TS1,,creek,,,,,,,,,,,,30,10,1,0.1,1.5,0.9,,,,,,,,,,,,,,0.1,,
+TRUE,4/9/2002,3/30/2002,4/2/2002,Thompson Sound,,TS1,,creek,,,,,,,,,,,,130,3,,,1,0.9,,,,,,,,,1,0.1,,,,0.15,,
+TRUE,4/9/2002,3/30/2002,4/2/2002,Thompson Sound,,TS1,,creek,,,,,,,,,,,,420,1,,,0.5,0.95,,,,,,,,,1,0.05,,,,0.1,,
+TRUE,4/9/2002,3/30/2002,4/2/2002,Thompson Sound,,TS1,,creek,,,,,,,,,,,,130,1,,,1,0.9,,,,,,,,,1,0.1,,,,0.2,,
+TRUE,4/9/2002,3/30/2002,4/2/2002,Thompson Sound,,TS1,,creek,,,,,,,,,,,,20,2,,,1.5,0.95,,,,,,,,,1,0.05,,,,0.1,,
+TRUE,4/9/2002,3/30/2002,4/2/2002,Thompson Sound,,TS1,,creek,,,,,,,,,,,,40,10,,,,,2,1,,,,,,,,,,,,0.15,,
+TRUE,4/9/2002,3/30/2002,4/2/2002,Thompson Sound,,TS1,,creek,,,,,,,,,,,,20,1,,,1,0.95,,,,,,,,,1,0.05,,,,0.1,,
+TRUE,4/10/2002,4/2/2002,,Beaver Harbour,,BH1,,,overcast,8:00,11:00,7:25,,5.9,,"walk, boat, viewer, rake",clear,5,choppy,720,10,,,,,1,1,,,,,,,,,,,,0.3,,
+TRUE,4/10/2002,4/2/2002,,Beaver Harbour,,BH1,,,overcast,8:00,11:00,7:25,,5.9,,"walk, boat, viewer, rake",clear,5,choppy,30,4,,,0.5,0.9,,,,,,,,,1,0.1,,,,0.15,,
+TRUE,4/10/2002,4/2/2002,,Beaver Harbour,,BH1,,,overcast,8:00,11:00,7:25,,5.9,,"walk, boat, viewer, rake",clear,5,choppy,20,2,,,1,0.95,,,,,,,,,1,0.05,,,,0.1,,
+TRUE,4/16/2002,4/15/2002,4/16/2002,Tribune Channel,,T2,,,sunny,11:00,12:00,10:33,,3.3,,"boat, viewer, rake",clear,5,calm,70,6,,,,,1,1,,,,,,,,,,,,0.2,"all spawn observed was recorded
+this was the second spawn in this area, must have just happened lots of birds in the area
+",
+TRUE,4/16/2002,4/15/2002,4/16/2002,Tribune Channel,,T2,,,sunny,11:00,12:00,10:33,,3.3,,"boat, viewer, rake",clear,5,calm,40,6,,,,,2,1,,,,,,,,,,,,0.1,"all spawn observed was recorded
+this was the second spawn in this area, must have just happened lots of birds in the area
+",
+TRUE,4/16/2002,4/15/2002,4/16/2002,Tribune Channel,,T2,,,sunny,11:00,12:00,10:33,,3.3,,"boat, viewer, rake",clear,5,calm,50,1,,,1.5,0.9,,,,,,,,,1,0.1,,,,0.1,"all spawn observed was recorded
+this was the second spawn in this area, must have just happened lots of birds in the area
+",
+TRUE,4/16/2002,4/15/2002,4/16/2002,Tribune Channel,,T2,,,sunny,11:00,12:00,10:33,,3.3,,"boat, viewer, rake",clear,5,calm,50,1,,,0.5,0.95,,,,,,,,,1,0.05,,,,0.15,"all spawn observed was recorded
+this was the second spawn in this area, must have just happened lots of birds in the area
+",
+TRUE,4/16/2002,4/15/2002,4/16/2002,Tribune Channel,,T2,,,sunny,11:00,12:00,10:33,,3.3,,"boat, viewer, rake",clear,5,calm,65,2,,,1,0.9,,,,,,,,,1,0.1,,,,0.1,"all spawn observed was recorded
+this was the second spawn in this area, must have just happened lots of birds in the area
+",
+TRUE,4/18/2002,3/27/2002,3/29/2002,Knight Inlet,west_side,W1,,,sunny,9:00,15:00,11:45,,4.1,,"walk, boat, viewer, rake",glacial,0,calm,125,20,,,3,0.9,,,,,,,,,1,0.1,,,,0.2,25% hatched,
+TRUE,4/18/2002,3/27/2002,3/29/2002,Knight Inlet,west_side,W1,,,sunny,9:00,15:00,11:45,,4.1,,"walk, boat, viewer, rake",glacial,0,calm,230,3,,,1,0.95,,,,,,,,,1,0.05,,,,0.2,25% hatched,
+TRUE,4/18/2002,3/27/2002,3/29/2002,Knight Inlet,west_side,W1,,,sunny,9:00,15:00,11:45,,4.1,,"walk, boat, viewer, rake",glacial,0,calm,374,2,,,0.5,0.95,,,,,,,,,1,0.05,,,,0.15,25% hatched,
+TRUE,4/18/2002,3/27/2002,3/29/2002,Knight Inlet,west_side,W1,,,sunny,9:00,15:00,11:45,,4.1,,"walk, boat, viewer, rake",glacial,0,calm,57,18,,,2,0.9,,,,,,,,,1,0.1,,,,0.05,25% hatched,
+TRUE,4/18/2002,3/27/2002,3/29/2002,Knight Inlet,west_side,W1,,,sunny,9:00,15:00,11:45,,4.1,,"walk, boat, viewer, rake",glacial,0,calm,60,4,,,1.5,0.9,,,,,,,,,1,0.1,,,,0.1,25% hatched,
+TRUE,4/18/2002,3/27/2002,3/29/2002,Knight Inlet,west_side,W1,,,sunny,9:00,15:00,11:45,,4.1,,"walk, boat, viewer, rake",glacial,0,calm,72,2,,,1,0.95,,,,,,,,,1,0.05,,,,0.1,25% hatched,
+TRUE,4/18/2002,3/27/2002,3/29/2002,Knight Inlet,east_side,E1,,,sunny,9:00,15:00,11:45,,4.1,,"walk, boat, viewer, rake",glacial,0,calm,500,4,,,,,1.5,0.9,,,,,,,1,0.1,,,,0.2,25% hatched,
+TRUE,4/18/2002,3/27/2002,3/29/2002,Knight Inlet,east_side,E1,,,sunny,9:00,15:00,11:45,,4.1,,"walk, boat, viewer, rake",glacial,0,calm,60,3,,,,,1,0.9,,,,,,,1,0.1,,,,0.1,25% hatched,
+TRUE,4/18/2002,3/27/2002,3/29/2002,Knight Inlet,east_side,E1,,,sunny,9:00,15:00,11:45,,4.1,,"walk, boat, viewer, rake",glacial,0,calm,50,2,,,,,1,0.9,,,,,,,1,0.1,,,,0.1,25% hatched,
+TRUE,4/18/2002,3/27/2002,3/29/2002,Knight Inlet,east_side,E1,,,sunny,9:00,15:00,11:45,,4.1,,"walk, boat, viewer, rake",glacial,0,calm,170,4,,,,,2,0.8,,,,,,,1,0.2,,,,0.1,25% hatched,
+TRUE,4/18/2002,3/27/2002,,Knight Inlet,west_side,W2,,Bakers,sunny,,,,,4.1,,"walk, boat, viewer, rake",glacial,0,calm,25,2,,,1.5,0.95,,,,,,,,,1,0.05,,,,0.2,"30% hatched
+estimated spawn date is March 27, 2002 to March 29, 2002",
+TRUE,4/18/2002,3/27/2002,,Knight Inlet,west_side,W2,,Bakers,sunny,,,,,4.1,,"walk, boat, viewer, rake",glacial,0,calm,60,2,,,0.5,0.95,,,,,,,,,1,0.05,,,,0.3,"30% hatched
+estimated spawn date is March 27, 2002 to March 29, 2002",
+TRUE,4/18/2002,3/27/2002,,Knight Inlet,west_side,W2,,Bakers,sunny,,,,,4.1,,"walk, boat, viewer, rake",glacial,0,calm,60,1,,,0.25,1,,,,,,,,,,,,,,0.2,"30% hatched
+estimated spawn date is March 27, 2002 to March 29, 2002",
+TRUE,4/18/2002,3/27/2002,,Knight Inlet,west_side,W2,,Bakers,sunny,,,,,4.1,,"walk, boat, viewer, rake",glacial,0,calm,150,1,,,0.25,0.95,,,,,,,,,1,0.05,,,,0.2,"30% hatched
+estimated spawn date is March 27, 2002 to March 29, 2002",
+TRUE,4/18/2002,3/27/2002,,Knight Inlet,west_side,W2,,Axe,sunny,,,,,4.1,,"walk, boat, viewer, rake",glacial,0,calm,150,1,,,0.5,0.9,,,,,,,,,1,0.1,,,,0.1,"30% hatched
+estimated spawn date is March 27, 2002 to March 29, 2002",
+TRUE,4/18/2002,3/27/2002,,Knight Inlet,west_side,W2,,Hill CR,sunny,,,,,4.1,,"walk, boat, viewer, rake",glacial,0,calm,210,1,,,0.25,0.95,,,,,,,,,1,0.05,,,,0.15,"25% hatched
+estimated spawn date is March 27, 2002 to March 29, 2002",
+TRUE,4/18/2002,3/27/2002,,Knight Inlet,west_side,W2,,Hill CR,sunny,,,,,4.1,,"walk, boat, viewer, rake",glacial,0,calm,250,1,,,0.5,0.9,,,,,,,,,1,0.1,,,,0.2,"25% hatched
+estimated spawn date is March 27, 2002 to March 29, 2002",
+TRUE,4/18/2002,3/27/2002,,Knight Inlet,west_side,W2,,CR Mouth,sunny,,,,,4.1,,"walk, boat, viewer, rake",glacial,0,calm,220,15,,,1.5,0.9,,,,,,,,,1,0.1,,,,0.1,"25% hatched
+estimated spawn date is March 27, 2002 to March 29, 2002",
+TRUE,4/18/2002,3/27/2002,,Knight Inlet,west_side,W2,,CR Mouth,sunny,,,,,4.1,,"walk, boat, viewer, rake",glacial,0,calm,1000,6,,,1,0.9,,,,,,,,,1,0.1,,,,0.15,"25% hatched
+estimated spawn date is March 27, 2002 to March 29, 2002",
+TRUE,4/18/2002,3/27/2002,,Knight Inlet,west_side,W2,,CR Mouth,sunny,,,,,4.1,,"walk, boat, viewer, rake",glacial,0,calm,2119,1,,,0.5,0.95,,,,,,,,,1,0.05,,,,0.3,"25% hatched
+estimated spawn date is March 27, 2002 to March 29, 2002",
+TRUE,4/18/2002,3/27/2002,,Knight Inlet,west_side,W2,,CR Mouth,sunny,,,,,4.1,,"walk, boat, viewer, rake",glacial,0,calm,70,2,,,1.5,0.95,,,,,,,,,1,0.05,,,,0.1,"25% hatched
+estimated spawn date is March 27, 2002 to March 29, 2002",
+TRUE,4/18/2002,3/27/2002,,Knight Inlet,west_side,W2,,North West,,,,,,,,,,,,20,1,,,0.5,0.95,,,,,,,,,1,0.05,,,,0.1,,
+TRUE,4/18/2002,3/27/2002,,Knight Inlet,west_side,W2,,North West,,,,,,,,,,,,50,5,,,1,0.9,,,,,,,,,1,0.1,,,,0.1,,
+TRUE,4/18/2002,3/27/2002,,Knight Inlet,west_side,W2,,Bakers Cabin,sunny,,,,,4.1,,"walk, boat, viewer, rake",glacial,0,calm,25,2,,,1.5,0.95,,,,,,,,,1,0.05,,,,0.2,,
+TRUE,4/18/2002,3/27/2002,,Knight Inlet,west_side,W2,,Bakers Cabin,sunny,,,,,4.1,,"walk, boat, viewer, rake",glacial,0,calm,60,2,,,0.5,0.95,,,,,,,,,1,0.05,,,,0.3,,
+TRUE,4/18/2002,3/27/2002,,Knight Inlet,west_side,W2,,Bakers Cabin,sunny,,,,,4.1,,"walk, boat, viewer, rake",glacial,0,calm,60,1,,,0.25,1,,,,,,,,,,,,,,0.2,,
+TRUE,4/18/2002,3/27/2002,,Knight Inlet,west_side,W2,,Bakers Cabin,sunny,,,,,4.1,,"walk, boat, viewer, rake",glacial,0,calm,150,1,,,0.25,0.95,,,,,,,,,1,0.05,,,,0.2,,
+TRUE,4/18/2002,3/27/2002,,Knight Inlet,west_side,W2,,Bakers Cabin,sunny,,,,,4.1,,"walk, boat, viewer, rake",glacial,0,calm,150,1,,,0.5,0.9,,,,,,,,,1,0.1,,,,0.1,,
+TRUE,4/18/2002,3/27/2002,,Franklin Flats,,FF1,,,sunny,9:00,15:00,11:45,,4.1,,"walk, boat, viewer, rake",glacial,0,calm,430,20,,,1,0.9,,,,,,,,,1,0.1,,,,0.1,"25% hatched
+day or so after our last visit
+estimated spawn date is March 27, 2002 to March 29, 2002",
+TRUE,4/18/2002,3/27/2002,,Franklin Flats,,FF1,,,sunny,9:00,15:00,11:45,,4.1,,"walk, boat, viewer, rake",glacial,0,calm,250,20,,,0.5,0.95,,,,,,,,,1,0.05,,,,0.15,"25% hatched
+day or so after our last visit
+estimated spawn date is March 27, 2002 to March 29, 2002",
+TRUE,4/18/2002,3/27/2002,,Franklin Flats,,FF1,,,sunny,9:00,15:00,11:45,,4.1,,"walk, boat, viewer, rake",glacial,0,calm,1560,1,,,0.25,0.95,,,,,,,,,1,0.05,,,,0.2,"25% hatched
+day or so after our last visit
+estimated spawn date is March 27, 2002 to March 29, 2002",
+TRUE,4/18/2002,3/27/2002,,Franklin Flats,,FF1,,,sunny,9:00,15:00,11:45,,4.1,,"walk, boat, viewer, rake",glacial,0,calm,100,3,,,1,0.9,,,,,,,,,1,0.1,,,,0.15,"25% hatched
+day or so after our last visit
+estimated spawn date is March 27, 2002 to March 29, 2002",
+TRUE,4/19/2002,3/27/2002,,Knight Inlet,west_side,W3,,,sunny,12:55,,,,4.9,,"walk, boat, viewer, rake",glacial,0,calm,55,2,,,1,0.9,,,,,,,,,1,0.1,,,,0.15,"all spawn was recorded
+estimated spawn date is March 27, 2002 to March 29, 2002",
+TRUE,4/19/2002,3/27/2002,,Knight Inlet,west_side,W3,,,sunny,12:55,,,,4.9,,"walk, boat, viewer, rake",glacial,0,calm,60,1,,,1,0.8,,,,,,,,,1,0.2,,,,0.1,"all spawn was recorded
+estimated spawn date is March 27, 2002 to March 29, 2002",
+TRUE,4/19/2002,3/27/2002,,Knight Inlet,west_side,W3,,,sunny,12:55,,,,4.9,,"walk, boat, viewer, rake",glacial,0,calm,30,2,,,0.5,0.95,,,,,,,,,1,0.05,,,,0.2,"all spawn was recorded
+estimated spawn date is March 27, 2002 to March 29, 2002",
+TRUE,4/19/2002,3/27/2002,,Knight Inlet,west_side,W3,,,sunny,12:55,,,,4.9,,"walk, boat, viewer, rake",glacial,0,calm,55,2,,,1.5,0.9,,,,,,,,,1,0.1,,,,0.1,"all spawn was recorded
+estimated spawn date is March 27, 2002 to March 29, 2002",
+TRUE,4/19/2002,3/27/2002,,Knight Inlet,west_side,W3,,,sunny,12:55,,,,4.9,,"walk, boat, viewer, rake",glacial,0,calm,100,3,,,2,0.8,,,,,,,,,1,0.1,,,,0.15,"all spawn was recorded
+estimated spawn date is March 27, 2002 to March 29, 2002",
+TRUE,4/19/2002,3/27/2002,,Knight Inlet,west_side,W3,,,sunny,12:55,,,,4.9,,"walk, boat, viewer, rake",glacial,0,calm,350,NA,,,0.5,0.9,,,,,,,,,1,0.1,,,,0.2,"all spawn was recorded
+estimated spawn date is March 27, 2002 to March 29, 2002",
+TRUE,4/19/2002,3/27/2002,,Knight Inlet,west_side,W3,,,sunny,12:55,,,,4.9,,"walk, boat, viewer, rake",glacial,0,calm,210,2,,,0.25,1,,,,,,,,,,,,,,0.3,"all spawn was recorded
+estimated spawn date is March 27, 2002 to March 29, 2002",
+TRUE,4/19/2002,3/27/2002,,Knight Inlet,west_side,W3,,,sunny,12:55,,,,4.9,,"walk, boat, viewer, rake",glacial,0,calm,80,1,,,0.1,0.9,,,,,,,,,1,0.1,,,,0.15,"all spawn was recorded
+estimated spawn date is March 27, 2002 to March 29, 2002",
+TRUE,4/19/2002,3/27/2002,,Knight Inlet,west_side,W3,,,sunny,12:55,,,,4.9,,"walk, boat, viewer, rake",glacial,0,calm,130,1,,,0.5,0.95,,,,,,,,,1,0.05,,,,0.1,"all spawn was recorded
+estimated spawn date is March 27, 2002 to March 29, 2002",
+TRUE,4/19/2002,3/27/2002,,Knight Inlet,west_side,W3,,,sunny,12:55,,,,4.9,,"walk, boat, viewer, rake",glacial,0,calm,110,10,,,1.5,0.8,,,,,,,,,1,0.2,,,,0.05,"all spawn was recorded
+estimated spawn date is March 27, 2002 to March 29, 2002",
+TRUE,4/19/2002,3/27/2002,,Knight Inlet,west_side,W3,,,sunny,12:55,,,,4.9,,"walk, boat, viewer, rake",glacial,0,calm,40,5,,,1.5,0.8,,,,,,,,,,,1,0.2,,0.05,"all spawn was recorded
+estimated spawn date is March 27, 2002 to March 29, 2002
+0 - spawn on wood?",
+TRUE,3/17/2003,3/2/2003,,Knight Inlet,east_side,,E1,,,,,,,,,,,,,10,1,,,2.5,0.75,,,,,,,,,2,0.25,,,,0.05,,
+TRUE,3/17/2003,3/2/2003,,Knight Inlet,east_side,,E2,,,,,,,,,,,,,10,1,,,1.5,0.85,,,,,,,,,1,0.15,,,,0.15,,
+TRUE,3/17/2003,3/2/2003,,Knight Inlet,east_side,,E3,,,,,,,,,,,,,30,0.5,,,1,0.95,,,,,,,,,1,0.05,,,,0.05,,
+TRUE,3/17/2003,3/2/2003,,Knight Inlet,east_side,,E4,,,,,,,,,,,,,100,1,,,0.5,1,,,,,,,,,,,,,,0.3,,
+TRUE,3/17/2003,3/2/2003,,Knight Inlet,east_side,,E5,,,,,,,,,,,,,60,1,,,1,0.95,,,,,,,,,1,0.05,,,,0.15,,
+TRUE,3/17/2003,3/2/2003,,Knight Inlet,east_side,,E6,,,,,,,,,,,,,300,0.5,,,0.25,1,,,,,,,,,,,,,,0.3,,
+TRUE,3/17/2003,3/2/2003,,Knight Inlet,east_side,,E7,,,,,,,,,,,,,150,1,,,0.5,1,,,,,,,,,,,,,,0.2,,
+TRUE,3/17/2003,3/2/2003,,Knight Inlet,east_side,,E8,,,,,,,,,,,,,907,1.5,,,1.5,0.7,,,,,,,,,1,0.3,,,,0.3,,
+TRUE,3/17/2003,3/2/2003,,Knight Inlet,east_side,,E9,,,,,,,,,,,,,3574,1.5,,,1.5,0.8,,,,,,,,,1,0.2,,,,0.1,,
+TRUE,3/17/2003,3/2/2003,,Knight Inlet,east_side,,E10,,,,,,,,,,,,,10,2,,,2,0.9,,,,,,,,,1,0.1,,,,0.05,,
+TRUE,3/17/2003,3/2/2003,,Knight Inlet,east_side,,E11,,,,,,,,,,,,,30,4,,,2,0.9,,,,,,,,,1,0.1,,,,0.1,,
+TRUE,3/17/2003,3/2/2003,,Knight Inlet,east_side,,E12,,,,,,,,,,,,,60,6,,,2,0.8,,,,,,,,,1,0.1,,,,0.05,,
+TRUE,3/17/2003,3/2/2003,,Knight Inlet,east_side,,E16,,,,,,,,,,,,,400,2,,,1.5,0.9,,,,,,,,,1,0.1,,,,0.3,,
+TRUE,3/17/2003,3/2/2003,,Knight Inlet,east_side,,E17,,,,,,,,,,,,,100,2,,,0.5,1,,,,,,,,,,,,,,0.2,,
+TRUE,3/17/2003,3/2/2003,,Knight Inlet,east_side,,E18,,,,,,,,,,,,,100,1,,,0.25,1,,,,,,,,,,,,,,0.25,,
+TRUE,3/18/2003,3/2/2003,,Knight Inlet,west_side,,W1,,,,,,,,,,,,,402,3,,,4,0.8,,,,,,,,,2,0.2,,,,0.1,,
+TRUE,3/18/2003,3/2/2003,,Knight Inlet,west_side,,W2,,,,,,,,,,,,,507,2,,,2.5,0.75,,,,,,,,,2,0.25,,,,0.15,,
+TRUE,3/18/2003,3/2/2003,,Knight Inlet,west_side,,W3,,,,,,,,,,,,,30,5,,,2.5,0.9,,,,,,,,,1,0.1,,,,0.05,,
+TRUE,3/18/2003,3/2/2003,,Knight Inlet,west_side,,W4,,,,,,,,,,,,,210,3,,,2,0.75,,,,,,,,,1,0.05,,,,0.1,,
+TRUE,3/18/2003,3/2/2003,,Knight Inlet,west_side,,W5,,,,,,,,,,,,,337,1,,,2.5,0.9,,,,,,,,,2,0.1,,,,0.1,,
+TRUE,3/18/2003,3/2/2003,,Knight Inlet,west_side,,W6,,,,,,,,,,,,,175,4,,,5,0.9,,,,,,,,,2,0.1,,,,0.05,,
+TRUE,3/18/2003,3/2/2003,,Knight Inlet,west_side,,W7,,,,,,,,,,,,,200,5,,,3,0.9,,,,,,,,,1,0.1,,,,0.05,,
+TRUE,3/18/2003,3/2/2003,,Knight Inlet,west_side,,W8,,,,,,,,,,,,,100,3,,,3,0.9,,,,,,,,,1,0.1,,,,0.1,,
+TRUE,3/18/2003,3/2/2003,,Knight Inlet,west_side,,W9,,,,,,,,,,,,,448,1,,,2,0.95,,,,,,,,,1,0.05,,,,0.2,,
+TRUE,3/18/2003,3/2/2003,,Knight Inlet,west_side,,W10,,,,,,,,,,,,,1004,1,,,2,1,,,,,,,,,,,,,,0.4,,
+TRUE,3/18/2003,3/2/2003,,Knight Inlet,west_side,,W11,,,,,,,,,,,,,550,1.5,,,2,0.9,,,,,,,,,1,0.1,,,,0.35,,
+TRUE,3/18/2003,3/2/2003,,Knight Inlet,west_side,,W12,,,,,,,,,,,,,150,1.5,,,1,0.9,,,,,,,,,1,0.1,,,,0.1,2 spotes = 150 total length,
+TRUE,3/18/2003,3/2/2003,,Knight Inlet,west_side,,W13,,,,,,,,,,,,,633,1,,,4,0.9,,,,,,,,,2,0.1,,,,0.4,,
+TRUE,3/18/2003,3/2/2003,,Knight Inlet,west_side,,W14,,,,,,,,,,,,,320,2,,,4,0.8,,,,,,,,,2,0.2,,,,0.2,,
+TRUE,3/18/2003,3/2/2003,,Knight Inlet,west_side,,W15,,,,,,,,,,,,,30,1,,,1,0.9,,,,,,,,,1,0.1,,,,0.1,,
+TRUE,3/18/2003,3/2/2003,,Knight Inlet,west_side,,W16,,,,,,,,,,,,,20,2,,,1,0.95,,,,,,,,,1,0.05,,,,0.15,,
+TRUE,3/18/2003,3/2/2003,,Knight Inlet,west_side,,W17,,,,,,,,,,,,,150,1,,,2,0.9,,,,,,,,,1,0.1,,,,0.15,,
+TRUE,3/18/2003,3/2/2003,,Knight Inlet,west_side,,W18,,,,,,,,,,,,,1000,1,,,1.5,0.95,,,,,,,,,1,0.05,,,,0.2,,
+TRUE,3/18/2003,3/2/2003,,Knight Inlet,west_side,,W19,,,,,,,,,,,,,60,15,,,3.5,0.9,,,,,,,,,2,0.1,,,,0.05,"estimated 40% mortality due to frost
+dead eggs found on April 11, 12, 13 survey",
+TRUE,3/18/2003,3/2/2003,,Knight Inlet,west_side,,W20,,,,,,,,,,,,,110,6,,,2.5,0.9,,,,,,,,,1,0.2,,,,0.25,"estimated 40% mortality due to frost
+dead eggs found on April 11, 12, 13 survey",
+TRUE,3/18/2003,3/2/2003,,Knight Inlet,west_side,,W21,,,,,,,,,,,,,85,3,,,2,0.95,,,,,,,,,1,0.05,,,,0.1,,
+TRUE,3/18/2003,3/2/2003,,Knight Inlet,east_side,,E13,,,,,,,,,,,,,250,6,,,5,0.7,,,,,,,,,2,0.3,,,,0.1,"estimated 25% dead eggs due to frost was found on April 11, 12, 13 survey
+new",
+TRUE,3/18/2003,3/2/2003,,Knight Inlet,east_side,,E14,,,,,,,,,,,,,300,4,,,4,0.7,,,,,,,,,2,0.3,,,,0.1,,
+TRUE,3/18/2003,3/2/2003,,Knight Inlet,east_side,,E15,,,,,,,,,,,,,60,10,,,6,0.6,,,,,,,,,2,0.4,,,,0.05,new,
+TRUE,3/24/2003,3/14/2003,3/15/2003,Wakeman Sound,east_side,,E1,,,12:30,,,,3.9,,,,,,70,12,,,0.25,1,,,,,,,,,,,,,,0.15,1st spawn east side,
+TRUE,3/24/2003,3/14/2003,3/15/2003,Wakeman Sound,east_side,,E2,,,12:30,,,,3.9,,,,,,210,5,,,1,0.9,,,,,,,,,1,0.1,,,,0.1,1st spawn east side,
+TRUE,3/24/2003,3/14/2003,3/15/2003,Wakeman Sound,east_side,,E3,,,12:30,,,,3.9,,,,,,110,8,,,0.5,0.95,,,,,,,,,1,0.05,,,,0.1,1st spawn east side,
+TRUE,3/24/2003,3/14/2003,3/15/2003,Wakeman Sound,east_side,,E4,,,12:30,,,,3.9,,,,,,754,5,,,1,0.95,,,,,,,,,1,0.05,,,,0.2,1st spawn east side,
+TRUE,3/24/2003,3/14/2003,3/15/2003,Wakeman Sound,east_side,,E5,,,12:30,,,,3.9,,,,,,457,2,,,2,1,,,,,,,,,,,,,,0.2,1st spawn east side,
+TRUE,3/24/2003,3/14/2003,3/15/2003,Wakeman Sound,east_side,,E6,,,12:30,,,,3.9,,,,,,548,3,,,2.5,0.9,,,,,,,,,1,0.1,,,,0.1,1st spawn east side,
+TRUE,3/24/2003,3/14/2003,3/15/2003,Wakeman Sound,east_side,,E7,,,12:30,,,,3.9,,,,,,1543,5,,,3,0.75,,,,,,,,,2,0.2,1,0.05,,0.1,1st spawn east side,
+TRUE,3/24/2003,3/14/2003,3/15/2003,Wakeman Sound,east_side,,E8,,,12:30,,,,3.9,,,,,,702,6,,,4,0.9,,,,,,,,,2,0.1,,,,0.1,1st spawn east side,
+TRUE,3/24/2003,3/14/2003,3/15/2003,Wakeman Sound,east_side,,E9,,,12:30,,,,3.9,,,,,,450,15,,,4,0.8,,,,,,,,,2,0.1,2,0.1,,0.1,1st spawn east side,
+TRUE,3/24/2003,3/14/2003,3/15/2003,Wakeman Sound,east_side,,E10,,,12:30,,,,3.9,,,,,,963,4,,,3,0.7,,,,,,,,,2,0.2,1.5,0.05,,0.1,1st spawn east side,
+TRUE,3/24/2003,3/14/2003,3/15/2003,Wakeman Sound,east_side,,E11,,,12:30,,,,3.9,,,,,,991,2,,,1.5,0.8,,,,,,,,,1,0.2,,,,0.3,1st spawn east side,
+TRUE,4/3/2003,3/29/2003,,Beaver Harbour,,,BH1,,sunny,8:22,,,,3.7,,"walk, boat, viewer, rake, hipchain",clear,5,calm,122,8,,,0.5,0.7,,,1,0.3,,,,,,,,,,0.1,,
+TRUE,4/3/2003,3/29/2003,,Beaver Harbour,,,BH2,,sunny,8:22,,,,3.7,,"walk, boat, viewer, rake, hipchain",clear,5,calm,160,30,0.25,1,,,,,,,,,,,,,,,,0.25,,
+TRUE,4/3/2003,3/29/2003,,Beaver Harbour,,,BH3,,sunny,8:22,,,,3.7,,"walk, boat, viewer, rake, hipchain",clear,5,calm,,,,,,,,,,,,,,,,,,,,,BH3 spawn was reported but couldn't find it. must have been very light spot spawn.,
+TRUE,4/3/2003,3/29/2003,,Beaver Harbour,,,BH4,,sunny,8:22,,,,3.7,,"walk, boat, viewer, rake, hipchain",clear,5,calm,200,10,,,,,,,,,,,,,,,5,1,,0,"BH4 was the two herring ponds, pawn on web",
+TRUE,4/8/2003,4/1/2003,,Knight Inlet ,,,DB-1,Duncan Bight ,,,,12:15,,5.5,,,,,,84,2,,,0.5,0.95,,,,,,,,,1,0.05,,,,0.1,"spawn was reported bu the Cape hazo on April 1, 2003",
+TRUE,4/8/2003,4/1/2003,,Knight Inlet ,,,DB-2,Duncan Bight ,,,,12:15,,5.5,,,,,,114,3,,,1,0.8,,,,,,,,,1,0.2,,,,0.1,"spawn was reported bu the Cape hazo on April 1, 2003",
+TRUE,4/9/2003,4/3/2003,4/4/2003,Wakeman Sound,west_side,W1-7,W1,,overcast,13:59,,,,6,,"walk, boat, viewer, rake, hipchain",clear,3,calm,230,20,1,0.7,1,0.2,,,,,,,,,,,1,0.1,,0.2,0 = wood,
+TRUE,4/9/2003,4/3/2003,4/4/2003,Wakeman Sound,west_side,W1-7,W2,,overcast,13:59,,,,6,,"walk, boat, viewer, rake, hipchain",clear,3,calm,91,12,,,1,0.9,,,,,,,,,,,1,0.1,,0.1,0 = wood,
+TRUE,4/9/2003,4/3/2003,4/4/2003,Wakeman Sound,west_side,W1-7,W3,,overcast,13:59,,,,6,,"walk, boat, viewer, rake, hipchain",clear,3,calm,154,18,0.5,0.5,1,0.95,,,,,,,,,,,,,,0.15,,
+TRUE,4/9/2003,4/3/2003,4/4/2003,Wakeman Sound,west_side,W1-7,W4,,overcast,13:59,,,,6,,"walk, boat, viewer, rake, hipchain",clear,3,calm,4484,2,,,2,0.7,,,,,,,,,1,0.3,,,,0.1,,
+TRUE,4/9/2003,4/3/2003,4/4/2003,Wakeman Sound,west_side,W1-7,W5,,overcast,13:59,,,,6,,"walk, boat, viewer, rake, hipchain",clear,3,calm,6891,2,,,1.5,0.7,,,,,,,,,1,0.3,,,,0.15,,
+TRUE,4/9/2003,4/3/2003,4/4/2003,Wakeman Sound,west_side,W1-7,W6,,overcast,13:59,,,,6,,"walk, boat, viewer, rake, hipchain",clear,3,calm,1019,2,,,1.5,0.7,,,,,,,,,1,0.3,,,,0.15,,
+TRUE,4/9/2003,4/3/2003,4/4/2003,Wakeman Sound,west_side,W1-7,W7,,overcast,13:59,,,,6,,"walk, boat, viewer, rake, hipchain",clear,3,calm,735,1,,,1,0.95,,,,,,,,,1,0.05,,,,0.2,,
+TRUE,4/10/2003,4/7/2003,,Thompson Sound,,,W1,,raining,,,,,,,"walk, boat, viewer, rake, hipchain",clear,3,choppy,572,2,,,2,0.95,,,,,,,,,1,0.05,,,,0.3,"lots of bird predation
+had to leave the rest until wind goes down. too rough as we got to the outer sound.",
+TRUE,4/10/2003,4/7/2003,,Thompson Sound,,,W2,,raining,,,,,,,"walk, boat, viewer, rake, hipchain",clear,3,choppy,10,2,,,2,0.9,,,,,,,,,1,0.1,,,,0.1,"lots of bird predation
+had to leave the rest until wind goes down. too rough as we got to the outer sound.",
+TRUE,4/10/2003,4/7/2003,,Thompson Sound,,,W3,,raining,,,,,,,"walk, boat, viewer, rake, hipchain",clear,3,choppy,80,2,,,2.5,0.9,,,,,,,,,1,0.1,,,,0.05,"lots of bird predation
+had to leave the rest until wind goes down. too rough as we got to the outer sound.",
+TRUE,4/10/2003,4/7/2003,,Thompson Sound,,,W4,,raining,,,,,,,"walk, boat, viewer, rake, hipchain",clear,3,choppy,263,1,,,1,0.9,,,,,,,,,1,0.1,,,,0.15,"lots of bird predation
+had to leave the rest until wind goes down. too rough as we got to the outer sound.",
+TRUE,4/10/2003,4/7/2003,,Thompson Sound,,,W5,,raining,,,,,,,"walk, boat, viewer, rake, hipchain",clear,3,choppy,60,1,,,0.5,0.95,,,,,,,,,1,0.05,,,,0.1,"lots of bird predation
+had to leave the rest until wind goes down. too rough as we got to the outer sound.",
+TRUE,4/11/2003,4/7/2003,,Thompson Sound,,,W6,,sunny,16.27,,,,5.6,,"walk, boat, viewer, rake, hipchain",clear,3,calm,570,3,,,4,0.8,,,,,,,,,1,0.1,1,0.1,,0.2,"heavy bird predation
+0 == barnacles
+W8 and W10 are the total of spot spawns",
+TRUE,4/11/2003,4/7/2003,,Thompson Sound,,,W7,,sunny,16.27,,,,5.6,,"walk, boat, viewer, rake, hipchain",clear,3,calm,140,10,,,,,2,1,,,,,,,,,,,,0.3,"heavy bird predation
+0 == barnacles
+W8 and W10 are the total of spot spawns",
+TRUE,4/11/2003,4/7/2003,,Thompson Sound,,,W8,,sunny,16.27,,,,5.6,,"walk, boat, viewer, rake, hipchain",clear,3,calm,300,1,,,0.5,0.9,,,,,,,,,1,0.1,,,,0.2,"heavy bird predation
+0 == barnacles
+W8 and W10 are the total of spot spawns",
+TRUE,4/11/2003,4/7/2003,,Thompson Sound,,,W9,,sunny,16.27,,,,5.6,,"walk, boat, viewer, rake, hipchain",clear,3,calm,291,4,,,2.5,0.8,,,,,,,,,1,0.1,1,0.1,,0.2,"heavy bird predation
+0 == barnacles
+W8 and W10 are the total of spot spawns",
+TRUE,4/11/2003,4/7/2003,,Thompson Sound,,,W10,,sunny,16.27,,,,5.6,,"walk, boat, viewer, rake, hipchain",clear,3,calm,130,2,,,3,0.7,,,,,,,,,1,0.1,1,0.2,,0.1,"heavy bird predation
+0 == barnacles
+W8 and W10 are the total of spot spawns",
+TRUE,4/11/2003,4/7/2003,,Thompson Sound,,,W11,,sunny,16.27,,,,5.6,,"walk, boat, viewer, rake, hipchain",clear,3,calm,1312,3,,,2.5,0.7,,,,,,,,,1,0.1,1,0.2,,0.2,"heavy bird predation
+0 == barnacles
+W8 and W10 are the total of spot spawns",
+TRUE,4/12/2003,4/1/2003,4/2/2003,Knight Inlet,east_side,,E1,,,,,,,,,,,,,30,2,,,2,0.95,,,,,,,,,1,0.05,,,,0.05,"10% eyed-up, 7-10 days",
+TRUE,4/12/2003,4/1/2003,4/2/2003,Knight Inlet,east_side,,E2,,,,,,,,,,,,,30,2,,,2,0.95,,,,,,,,,1,0.05,,,,0.1,"10% eyed-up, 7-10 days",
+TRUE,4/12/2003,4/1/2003,4/2/2003,Knight Inlet,east_side,,E3,,,,,,,,,,,,,60,3,,,3,0.9,,,,,,,,,1,0.1,,,,0.1,"10% eyed-up, 7-10 days",
+TRUE,4/12/2003,4/1/2003,4/2/2003,Knight Inlet,east_side,,E4,,,,,,,,,,,,,200,1,,,2.5,0.8,,,,,,,,,1,0.2,,,,0.2,"10% eyed-up, 7-10 days",
+TRUE,4/12/2003,4/1/2003,4/2/2003,Knight Inlet,east_side,,E5,,,,,,,,,,,,,45,1,,,0.5,0.95,,,,,,,,,1,0.05,,,,0.3,"10% eyed-up, 7-10 days",
+TRUE,4/12/2003,4/1/2003,4/2/2003,Knight Inlet,east_side,,E6,,,,,,,,,,,,,30,1,,,0.5,1,,,,,,,,,,,,,,0.2,"10% eyed-up, 7-10 days",
+TRUE,4/12/2003,4/1/2003,4/2/2003,Knight Inlet,east_side,,E7,,,,,,,,,,,,,18,1,,,1,1,,,,,,,,,,,,,,0.2,"10% eyed-up, 7-10 days",
+TRUE,4/12/2003,4/1/2003,4/2/2003,Knight Inlet,east_side,,E8,,,,,,,,,,,,,60,1,,,1.5,0.95,,,,,,,,,1,0.05,,,,0.1,"10% eyed-up, 7-10 days",
+TRUE,4/12/2003,4/1/2003,4/2/2003,Knight Inlet,east_side,,E9,,,,,,,,,,,,,30,2,,,1,0.9,,,,,,,,,1,0.1,,,,0.15,"10% eyed-up, 7-10 days",
+TRUE,4/12/2003,4/1/2003,4/2/2003,Knight Inlet,east_side,,E10,,,,,,,,,,,,,30,2,,,1,0.9,,,,,,,,,1,0.1,,,,0.15,"10% eyed-up, 7-10 days",
+TRUE,4/12/2003,4/1/2003,4/2/2003,Knight Inlet,east_side,,E11,,,,,,,,,,,,,10,1,,,1,0.95,,,,,,,,,1,0.05,,,,0.1,"10% eyed-up, 7-10 days",
+TRUE,4/12/2003,4/1/2003,4/2/2003,Knight Inlet,east_side,,E12,,,,,,,,,,,,,5,1,,,0.25,1,,,,,,,,,,,,,,0.15,"10% eyed-up, 7-10 days",
+TRUE,4/12/2003,4/1/2003,4/2/2003,Knight Inlet,east_side,,E13,,,,,,,,,,,,,20,3,,,1,1,,,,,,,,,,,,,,0.2,"10% eyed-up, 7-10 days",
+TRUE,4/12/2003,4/1/2003,4/2/2003,Knight Inlet,east_side,,E14,,,,,,,,,,,,,60,2,,,1.5,0.95,,,,,,,,,1,0.05,,,,0.15,"10% eyed-up, 7-10 days",
+TRUE,4/12/2003,4/1/2003,4/2/2003,Knight Inlet,east_side,,E15,,,,,,,,,,,,,45,10,,,3,0.9,,,,,,,,,1,0.1,,,,0.05,"10% eyed-up, 7-10 days",
+TRUE,4/12/2003,4/1/2003,4/2/2003,Knight Inlet,east_side,,E16,,,,,,,,,,,,,140,5,,,2.5,0.95,,,,,,,,,1,0.05,,,,0.1,"10% eyed-up, 7-10 days",
+TRUE,4/12/2003,4/1/2003,4/2/2003,Knight Inlet,east_side,,E17,,,,,,,,,,,,,30,1,,,0.5,0.95,,,,,,,,,1,0.05,,,,0.1,"10% eyed-up, 7-10 days",
+TRUE,4/12/2003,4/1/2003,4/2/2003,Knight Inlet,west_side,,W1,,,,,,,,,,,,,120,3,,,2,0.8,,,,,,,,,1,0.2,,,,0.15,"10% eyed-up, 7-10 days",
+TRUE,4/12/2003,4/1/2003,4/2/2003,Knight Inlet,west_side,,W2,,,,,,,,,,,,,200,2,,,2,0.9,,,,,,,,,1,0.1,,,,0.1,"10% eyed-up, 7-10 days",
+TRUE,4/12/2003,4/1/2003,4/2/2003,Knight Inlet,west_side,,W3,,,,,,,,,,,,,400,2,,,2.5,0.9,,,,,,,,,1,0.1,,,,0.2,"10% eyed-up, 7-10 days",
+TRUE,4/29/2003,4/29/2003,,Wakeman Sound,,,,,,,,,,,,,,,,30,1,,,2,1,,,,,,,,,,,,,,0.05,"fallers trail, small area ",
+TRUE,5/2/2003,4/28/2003,4/29/2003,Kingcome Inlet,,K1,,,sunny,7:00,9:00,8:47,,3.2,,boat,clear,3,calm,5147,1.5,,,3,0.7,,,,,,,,,2,0.3,,,,0.1,"lots of bird predation
+spawn was observed and recorded by Bill Proctor on a fishing trip May 2, 2003",
+TRUE,5/9/2003,5/9/2003,,Wakeman Sound,,1,,,,,,,,,,,,,,10,10,,,,,,,,,,,,,,,4,1,,0.05,0 == wood + limbs,
+TRUE,6/2/2003,6/1/2003,,Port McNeill,,,PM1,,,,,,,,,,,,,16,8,,,6,1,,,,,,,,,,,,,,0,"piles 3'x26; deep = 1x8m = 16
+last finger",
+TRUE,6/2/2003,6/1/2003,,Port McNeill,,,PM2,,,,,,,,,,,,,33,1.5,,,2,0.6,,,,,,,,,2,0.4,,,,0.05,"piles 3'x26; deep = 1x8m = 16
+last finger",
+TRUE,6/2/2003,6/1/2003,,Port McNeill,,,PM3,,,,,,,,,,,,,21,2,,,1,0.7,0.5,0.1,,,,,,,1,0.2,,,,0.05,"piles 3'x26; deep = 1x8m = 16
+last finger",
+TRUE,3/8/2004,3/6/2004,,Tribune Channel,,1,,Bond Sound,overcast,10:30,11:30,8:15,,4.1,,"walk, boat, viewer, rake",clear,2,choppy,50,2,,,1.5,0.4,,,,,,,,,1,0.3,1,0.3,barnacles ,0.1,"0 = barnacles
+150 seagulls on beach",
+TRUE,3/8/2004,3/6/2004,,Tribune Channel,,1,,Bond Sound,overcast,10:30,11:30,8:15,,4.1,,"walk, boat, viewer, rake",clear,2,choppy,100,2,,,1.5,0.7,,,,,,,,,1,0.15,1,0.15,barnacles ,0.15,"0 = barnacles
+150 seagulls on beach",
+TRUE,3/8/2004,3/6/2004,,Tribune Channel,,1,,Bond Sound,overcast,10:30,11:30,8:15,,4.1,,"walk, boat, viewer, rake",clear,2,choppy,50,2,,,1.5,0.9,,,,,,,,,1,0.1,,,barnacles ,0.1,"0 = barnacles
+150 seagulls on beach",
+TRUE,3/9/2004,3/1/2004,3/4/2004,Knight Inlet,,West1,W1,,sunny,10:30,12:00,8:45,,3.4,,"boat, viewer, rake ",milty,1,calm,154,2,,,2.5,0.8,,,,,,,,,2,0.2,,,,0.2,"all spawn observed was surveyed
+no birds in the area at time of survey",
+TRUE,3/9/2004,3/1/2004,3/4/2004,Knight Inlet,,West1,W2,,sunny,10:30,12:00,8:45,,3.4,,"boat, viewer, rake ",milty,1,calm,50,2,,,1.5,0.9,,,,,,,,,1,0.1,,,,0.2,"all spawn observed was surveyed
+no birds in the area at time of survey",
+TRUE,3/9/2004,3/1/2004,3/4/2004,Knight Inlet,,West1,W3,,sunny,10:30,12:00,8:45,,3.4,,"boat, viewer, rake ",milty,1,calm,80,2,,,1,0.95,,,,,,,,,1,0.05,,,,0.2,"all spawn observed was surveyed
+no birds in the area at time of survey",
+TRUE,3/9/2004,3/1/2004,3/4/2004,Knight Inlet,,West1,W4,,sunny,10:30,12:00,8:45,,3.4,,"boat, viewer, rake ",milty,1,calm,15,4,,,2.5,0.8,,,,,,,,,2,0.2,,,,0.1,"all spawn observed was surveyed
+no birds in the area at time of survey",
+TRUE,3/9/2004,3/9/2004,,Knight Inlet,,GB1,GB1,,sunny,9:00,10:00,8:45,,3.4,,"boat, viewer, rake",milty,1,calm,280,2,,,0.5,0.95,,,,,,,,,1,0.05,,,,0.3,"lots of bird predation. area had just spawned, milk in tide. lines just above spawn area.",
+TRUE,3/9/2004,3/9/2004,,Knight Inlet,,GB2,GB2,,sunny,9:00,10:00,8:45,,3.4,,"boat, viewer, rake",milty,1,calm,300,3,,,1,0.9,,,,,,,,,1,0.1,,,,0.15,"lots of bird predation. area had just spawned, milk in tide. lines just above spawn area.",
+TRUE,3/9/2004,3/1/2004,3/4/2004,Knight Inlet,,West2,W5,,sunny,10:30,12:00,8:45,,3.4,,"boat, viewer, rake",milty,1,calm,537,2,,,1,0.95,,,,,,,,,1,0.05,,,,0.2,"all spawn observed was surveyed.
+no birds in the area at time of survey.",
+TRUE,3/9/2004,3/1/2004,3/4/2004,Knight Inlet,,West2,W6,,sunny,10:30,12:00,8:45,,3.4,,"boat, viewer, rake",milty,1,calm,414,2,,,3,0.9,,,,,,,,,2,0.1,,,,0.25,"all spawn observed was surveyed.
+no birds in the area at time of survey.",
+TRUE,3/9/2004,3/1/2004,3/4/2004,Knight Inlet,,West2,W7,,sunny,10:30,12:00,8:45,,3.4,,"boat, viewer, rake",milty,1,calm,512,1,,,1,0.95,,,,,,,,,1,0.05,,,,0.3,"all spawn observed was surveyed.
+no birds in the area at time of survey.",
+TRUE,3/9/2004,3/1/2004,3/4/2004,Knight Inlet,,West2,W8,,sunny,10:30,12:00,8:45,,3.4,,"boat, viewer, rake",milty,1,calm,30,1,,,0.25,0.95,,,,,,,,,1,0.05,,,,0.25,"all spawn observed was surveyed.
+no birds in the area at time of survey.",
+TRUE,3/9/2004,3/1/2004,3/4/2004,Knight Inlet,,West2,W9,,sunny,10:30,12:00,8:45,,3.4,,"boat, viewer, rake",milty,1,calm,30,1,,,0.25,1,,,,,,,,,,,,,,0.1,"all spawn observed was surveyed.
+no birds in the area at time of survey.",
+TRUE,3/9/2004,3/1/2004,3/4/2004,Knight Inlet,,West2,W10,,sunny,10:30,12:00,8:45,,3.4,,"boat, viewer, rake",milty,1,calm,497,1,,,0.5,0.9,,,,,,,,,1,0.05,,,,0.2,"all spawn observed was surveyed.
+no birds in the area at time of survey.",
+TRUE,3/9/2004,3/1/2004,3/4/2004,Knight Inlet,,West2,W11,,sunny,10:30,12:00,8:45,,3.4,,"boat, viewer, rake",milty,1,calm,337,6,,,1.5,0.9,,,,,,,,,1,0.1,,,,0.1,"all spawn observed was surveyed.
+no birds in the area at time of survey.",
+TRUE,3/10/2004,3/6/2004,,Knight Inlet,,West4,FF1,,sunny,11:00,14:00,9:26,,3.3,,"walk, boat, viewer, rake",milty,1,calm,368,10,,,2.5,0.8,,,2,0.1,,,,,1,0.1,,,,0.05,"all spawn observed was surveyed
+no birds in the area at time of survey",
+TRUE,3/10/2004,3/6/2004,,Knight Inlet,,West4,E1,,sunny,11:00,14:00,9:26,,3.3,,"walk, boat, viewer, rake",milty,1,calm,635,2,,,2,0.9,,,,,,,,,1,0.1,,,,0.2,"all spawn observed was surveyed
+no birds in the area at time of survey",
+TRUE,3/10/2004,3/6/2004,,Knight Inlet,,West4,E2,,sunny,11:00,14:00,9:26,,3.3,,"walk, boat, viewer, rake",milty,1,calm,1129,4,,,4,0.9,,,,,,,,,3,0.1,,,,0.1,"all spawn observed was surveyed
+no birds in the area at time of survey",
+TRUE,3/10/2004,3/1/2004,3/4/2004,Knight Inlet,,West4,W17,,sunny,11:00,14:00,9:26,,3.3,,"walk, boat, viewer, rake",milty,1,calm,125,5,,,3.5,0.9,,,,,,,,,2,0.1,,,,0.1,"all spawn observed was surveyed
+no birds in the area at time of survey",
+TRUE,3/10/2004,3/1/2004,3/4/2004,Knight Inlet,,West4,W18,,sunny,11:00,14:00,9:26,,3.3,,"walk, boat, viewer, rake",milty,1,calm,1169,5,,,1,0.95,,,,,,,,,1,0.05,,,,0.2,"all spawn observed was surveyed
+no birds in the area at time of survey",
+TRUE,3/10/2004,3/1/2004,3/4/2004,Knight Inlet,west_side,West3,W12,,sunny,7:00,11:00,9:26,,3.3,,"boat, viewer, rake",milty,1,calm,200,1,,,0.25,0.9,,,,,,,,,1,0.1,,,,0.25,"all was surveyed.
+no birds in area at time of survey.
+map West3 ""includes"" west side W12 to W16 and east side E3 to E7",
+TRUE,3/10/2004,3/1/2004,3/4/2004,Knight Inlet,west_side,West3,W13,,sunny,7:00,11:00,9:26,,3.3,,"boat, viewer, rake",milty,1,calm,280,1,,,1,0.9,,,,,,,,,1,0.1,,,,0.4,"all was surveyed.
+no birds in area at time of survey.
+map West3 ""includes"" west side W12 to W16 and east side E3 to E7",
+TRUE,3/10/2004,3/1/2004,3/4/2004,Knight Inlet,west_side,West3,W14,,sunny,7:00,11:00,9:26,,3.3,,"boat, viewer, rake",milty,1,calm,286,2,,,3,0.8,,,,,,,,,1,0.2,,,,0.2,"all was surveyed.
+no birds in area at time of survey.
+map West3 ""includes"" west side W12 to W16 and east side E3 to E7",
+TRUE,3/10/2004,3/1/2004,3/4/2004,Knight Inlet,west_side,West3,W15,,sunny,7:00,11:00,9:26,,3.3,,"boat, viewer, rake",milty,1,calm,150,4,,,4,0.8,,,,,,,,,2,0.2,,,,0.1,"all was surveyed.
+no birds in area at time of survey.
+map West3 ""includes"" west side W12 to W16 and east side E3 to E7",
+TRUE,3/10/2004,3/1/2004,3/4/2004,Knight Inlet,west_side,West3,W16,,sunny,7:00,11:00,9:26,,3.3,,"boat, viewer, rake",milty,1,calm,1650,1,,,1,0.8,,,,,,,,,1,0.2,,,,0.3,"all was surveyed.
+no birds in area at time of survey.
+map West3 ""includes"" west side W12 to W16 and east side E3 to E7",
+TRUE,3/10/2004,3/6/2004,,Knight Inlet,east_side,West3,E3,,sunny,7:00,11:00,9:26,,3.3,,"boat, viewer, rake",milty,1,calm,241,3,,,2,0.9,,,,,,,,,1,0.1,,,,0.25,"all was surveyed.
+no birds in the area at time of survey.",
+TRUE,3/10/2004,3/1/2004,3/4/2004,Knight Inlet,east_side,West3,E4,,sunny,7:00,11:00,9:26,,3.3,,"boat, viewer, rake",milty,1,calm,300,1,,,0.25,1,,,,,,,,,,,,,,0.3,"all was surveyed.
+no birds in the area at time of survey.",
+TRUE,3/10/2004,3/6/2004,,Knight Inlet,east_side,West3,E5,,sunny,7:00,11:00,9:26,,3.3,,"boat, viewer, rake",milty,1,calm,50,10,,,2,0.9,,,,,,,,,1,0.1,,,,0.1,"all was surveyed.
+no birds in the area at time of survey.",
+TRUE,3/10/2004,3/6/2004,,Knight Inlet,east_side,West3,E6,,sunny,7:00,11:00,9:26,,3.3,,"boat, viewer, rake",milty,1,calm,20,6,,,1,0.95,,,,,,,,,1,0.05,,,,0.1,"all was surveyed.
+no birds in the area at time of survey.",
+TRUE,3/10/2004,3/1/2004,3/4/2004,Knight Inlet,east_side,West3,E7,,sunny,7:00,11:00,9:26,,3.3,,"boat, viewer, rake",milty,1,calm,1920,1,,,0.5,0.95,,,,,,,,,1,0.05,,,,0.45,"all was surveyed.
+no birds in the area at time of survey.",
+TRUE,3/10/2004,3/6/2004,,Knight Inlet,,East1,E8,,sunny,11:00,14:00,9:26,,3.3,,"walk, boat, viewer, rake",milty,1,calm,420,1,,,0.5,0.95,,,,,,,,,1,0.05,,,,0.3,"all spawn observed was surveyed.
+E11 and E12 few birds in the area. fish still in the area just off shore.",
+TRUE,3/10/2004,3/9/2004,,Knight Inlet,,East1,E9,,sunny,11:00,14:00,9:26,,3.3,,"walk, boat, viewer, rake",milty,1,calm,50,10,,,1.5,0.9,,,,,,,,,1,0.1,,,,0.1,"all spawn observed was surveyed.
+E11 and E12 few birds in the area. fish still in the area just off shore.",
+TRUE,3/10/2004,3/9/2004,,Knight Inlet,,East1,E10,,sunny,11:00,14:00,9:26,,3.3,,"walk, boat, viewer, rake",milty,1,calm,100,10,,,1.5,0.9,,,,,,,,,2,0.1,,,,0.1,"all spawn observed was surveyed.
+E11 and E12 few birds in the area. fish still in the area just off shore.",
+TRUE,3/10/2004,3/9/2004,,Knight Inlet,,East1,E11,,sunny,11:00,14:00,9:26,,3.3,,"walk, boat, viewer, rake",milty,1,calm,30,5,,,3,0.8,,,,,,,,,2,0.2,,,,0.1,"all spawn observed was surveyed.
+E11 and E12 few birds in the area. fish still in the area just off shore.",
+TRUE,3/10/2004,3/9/2004,,Knight Inlet,,East1,E12,,sunny,11:00,14:00,9:26,,3.3,,"walk, boat, viewer, rake",milty,1,calm,30,2,,,3,0.9,,,,,,,,,1,0.1,,,,0.1,"all spawn observed was surveyed.
+E11 and E12 few birds in the area. fish still in the area just off shore.",
+TRUE,3/10/2004,3/6/2004,,Knight Inlet,,East1,E13,,sunny,11:00,14:00,9:26,,3.3,,"walk, boat, viewer, rake",milty,1,calm,30,3,,,1.5,0.95,,,,,,,,,1,0.05,,,,0.15,"all spawn observed was surveyed.
+E11 and E12 few birds in the area. fish still in the area just off shore.",
+TRUE,3/10/2004,3/6/2004,,Knight Inlet,,East1,E14,,sunny,11:00,14:00,9:26,,3.3,,"walk, boat, viewer, rake",milty,1,calm,50,2,,,2,0.95,,,,,,,,,1,0.05,,,,0.1,"all spawn observed was surveyed.
+E11 and E12 few birds in the area. fish still in the area just off shore.",
+TRUE,3/10/2004,3/8/2004,3/9/2004,Knight Inlet,,East2,E15,,sunny,11:00,14:00,9:26,,3.3,,"walk, boat, viewer, rake",milty,1,calm,121,3,,,2,0.8,,,,,,,,,1,0.2,,,,0.1,"all spawn observed was surveyed.
+E17, E18, E19 (old dump site, Ahnuhati)
+heavy bird predation, fish were still in area just off shore of of gillnet reach",
+TRUE,3/10/2004,3/8/2004,3/9/2004,Knight Inlet,,East2,E16,,sunny,11:00,14:00,9:26,,3.3,,"walk, boat, viewer, rake",milty,1,calm,220,2,,,2.5,0.9,,,,,,,,,2,0.1,,,,0.1,"all spawn observed was surveyed.
+E17, E18, E19 (old dump site, Ahnuhati)
+heavy bird predation, fish were still in area just off shore of of gillnet reach",
+TRUE,3/10/2004,3/9/2004,,Knight Inlet,,East2,E17,,sunny,11:00,14:00,9:26,,3.3,,"walk, boat, viewer, rake",milty,1,calm,150,2,,,1,0.95,,,,,,,,,1,0.05,,,,0.2,"all spawn observed was surveyed.
+E17, E18, E19 (old dump site, Ahnuhati)
+heavy bird predation, fish were still in area just off shore of of gillnet reach",
+TRUE,3/10/2004,3/9/2004,,Knight Inlet,,East2,E18,,sunny,11:00,14:00,9:26,,3.3,,"walk, boat, viewer, rake",milty,1,calm,80,4,,,1.5,0.9,,,,,,,,,1,0.1,,,,0.15,"all spawn observed was surveyed.
+E17, E18, E19 (old dump site, Ahnuhati)
+heavy bird predation, fish were still in area just off shore of of gillnet reach",
+TRUE,3/10/2004,3/9/2004,,Knight Inlet,,East2,E19,,sunny,11:00,14:00,9:26,,3.3,,"walk, boat, viewer, rake",milty,1,calm,237,2,,,1,0.95,,,,,,,,,1,0.05,,,,0.15,"all spawn observed was surveyed.
+E17, E18, E19 (old dump site, Ahnuhati)
+heavy bird predation, fish were still in area just off shore of of gillnet reach",
+TRUE,3/15/2004,3/14/2004,,Wakeman Sound,,Wake1,W1,,sunny,10:30,18:00,15:14,,4.8,,"boat, viewer, rake",milty,2,choppy,131,1,,,1,0.95,,,,,,,,,1,0.05,,,,0.2,"all spawn observed was surveyed
+heavy bird predation",
+TRUE,3/15/2004,3/14/2004,,Wakeman Sound,,Wake1,W2,,sunny,10:30,18:00,15:14,,4.8,,"boat, viewer, rake",milty,2,choppy,238,3,,,2.5,0.8,,,,,,,,,1,0.2,,,,0.15,"all spawn observed was surveyed
+heavy bird predation",
+TRUE,3/15/2004,3/14/2004,,Wakeman Sound,,Wake1,W3,,sunny,10:30,18:00,15:14,,4.8,,"boat, viewer, rake",milty,2,choppy,207,1,,,0.5,1,,,,,,,,,,,,,,0.4,"all spawn observed was surveyed
+heavy bird predation",
+TRUE,3/15/2004,3/14/2004,,Wakeman Sound,,Wake1,W4,,sunny,10:30,18:00,15:14,,4.8,,"boat, viewer, rake",milty,2,choppy,668,3,,,2,0.8,,,,,,,,,1,0.2,,,,0.1,"all spawn observed was surveyed
+heavy bird predation",
+TRUE,3/15/2004,3/14/2004,,Wakeman Sound,,Wake2,W5,,sunny,10:30,18:00,15:14,,4.8,,"boat, viewer, rake",milty,2,choppy,680,2,,,1.5,0.9,,,,,,,,,1,0.1,,,,0.1,"all spawn observed was surveyed
+light bird predation",
+TRUE,3/15/2004,3/14/2004,,Wakeman Sound,,Wake2,W6,,sunny,10:30,18:00,15:14,,4.8,,"boat, viewer, rake",milty,2,choppy,150,2,,,2,0.9,,,,,,,,,1,0.1,,,,0.1,"all spawn observed was surveyed
+light bird predation",
+TRUE,3/15/2004,3/14/2004,,Wakeman Sound,,Wake2,W7,,sunny,10:30,18:00,15:14,,4.8,,"boat, viewer, rake",milty,2,choppy,100,2,,,2,0.9,,,,,,,,,1,0.1,,,,0.15,"all spawn observed was surveyed
+light bird predation",
+TRUE,3/15/2004,3/14/2004,,Wakeman Sound,,Wake2,W8,,sunny,10:30,18:00,15:14,,4.8,,"boat, viewer, rake",milty,2,choppy,390,1,,,0.5,0.95,,,,,,,,,1,0.05,,,,0.2,"all spawn observed was surveyed
+light bird predation",
+TRUE,3/15/2004,3/14/2004,,Wakeman Sound,,Wake2,W9,,sunny,10:30,18:00,15:14,,4.8,,"boat, viewer, rake",milty,2,choppy,75,2,,,2,0.9,,,,,,,,,1,0.1,,,,0.1,"all spawn observed was surveyed
+light bird predation",
+TRUE,3/15/2004,3/14/2004,,Wakeman Sound,,Wake2,W10,,sunny,10:30,18:00,15:14,,4.8,,"boat, viewer, rake",milty,2,choppy,420,2,,,0.5,0.95,,,,,,,,,1,0.05,,,,0.2,"all spawn observed was surveyed
+light bird predation",
+TRUE,3/15/2004,3/14/2004,,Wakeman Sound,,Wake3,W11,,sunny,10:30,18:00,15:14,,4.8,,"boat, viewer, rake",milty,2,choppy,3341,1,,,0.25,0.95,,,,,,,,,1,0.05,,,,0.3,"all spawn observed was surveyed
+light bird predation
+W11 large area on map Wake2 and Wake3",
+TRUE,3/16/2004,3/14/2004,,Wakeman Sound,,Wake4,W12,,overcast,12:00,18:00,16:20,,4.1,,"walk, boat, viewer, rake",milty,2,choppy,30,4,,,2,0.8,,,,,,,,,1,0.2,,,,0.1,"all spawn observed was surveyed
+no bird predation",
+TRUE,3/16/2004,3/14/2004,,Wakeman Sound,,Wake4,W13,,overcast,12:00,18:00,16:20,,4.1,,"walk, boat, viewer, rake",milty,2,choppy,1905,2,,,0.25,0.95,,,,,,,,,1,0.05,,,,0.3,"all spawn observed was surveyed
+no bird predation",
+TRUE,3/16/2004,3/14/2004,,Wakeman Sound,,Wake4,W14,,overcast,12:00,18:00,16:20,,4.1,,"walk, boat, viewer, rake",milty,2,choppy,50,3,,,2.5,0.9,,,,,,,,,1,0.1,,,,0.1,"all spawn observed was surveyed
+no bird predation",
+TRUE,3/16/2004,3/14/2004,,Wakeman Sound,,Wake5,W15,,overcast,12:00,18:00,16:20,,4.1,,"walk, boat, viewer, rake",milty,2,choppy,1000,1,,,0.5,0.9,,,,,,,,,1,0.1,,,,0.2,"all spawn observed was surveyed
+no bird predation",
+TRUE,3/16/2004,3/14/2004,,Wakeman Sound,,Wake5,W16,,overcast,12:00,18:00,16:20,,4.1,,"walk, boat, viewer, rake",milty,2,choppy,420,1,,,0.5,0.9,,,1,0.05,,,,,1,0.05,,,,0.25,"all spawn observed was surveyed
+no bird predation",
+TRUE,3/16/2004,3/14/2004,,Wakeman Sound,,Wake5,W17,,overcast,12:00,18:00,16:20,,4.1,,"walk, boat, viewer, rake",milty,2,choppy,100,3,,,1.5,0.9,,,,,,,,,1,0.1,,,,0.25,"all spawn observed was surveyed
+no bird predation",
+TRUE,3/16/2004,3/14/2004,,Wakeman Sound,,Wake5,W18,,overcast,12:00,18:00,16:20,,4.1,,"walk, boat, viewer, rake",milty,2,choppy,30,2,,,1,0.95,,,,,,,,,1,0.05,,,,0.1,"all spawn observed was surveyed
+no bird predation",
+TRUE,3/16/2004,3/14/2004,,Wakeman Sound,,Wake5,W19,,overcast,12:00,18:00,16:20,,4.1,,"walk, boat, viewer, rake",milty,2,choppy,50,1,,,0.5,0.95,,,,,,,,,1,0.05,,,,0.1,"all spawn observed was surveyed
+no bird predation",
+TRUE,3/16/2004,3/14/2004,,Wakeman Sound,,Wake5,W20,,overcast,12:00,18:00,16:20,,4.1,,"walk, boat, viewer, rake",milty,2,choppy,165,1,,,1,0.95,,,,,,,,,1,0.05,,,,0.2,"all spawn observed was surveyed
+no bird predation",
+TRUE,3/16/2004,3/14/2004,,Wakeman Sound,,Wake5,W21,,overcast,12:00,18:00,16:20,,4.1,,"walk, boat, viewer, rake",milty,2,choppy,100,1,,,0.5,1,,,,,,,,,,,,,,0.15,"all spawn observed was surveyed
+no bird predation",
+TRUE,3/30/2004,3/29/2004,,Kingcome Inlet,,1,K1,,overcast,11:00,17:00,15:27,,6,,"walk, boat, viewer, rake",milty,2,calm,150,4,,,3,0.8,,,,,,,,,2,0.2,,,,0.2,"all spawn observed was surveyed
+heavy bird predation",
+TRUE,3/30/2004,3/29/2004,,Kingcome Inlet,,1,K2,,overcast,11:00,17:00,15:27,,6,,"walk, boat, viewer, rake",milty,2,calm,305,2,,,1.5,0.9,,,,,,,,,1,0.1,,,,0.1,"all spawn observed was surveyed
+heavy bird predation",
+TRUE,3/30/2004,3/29/2004,,Kingcome Inlet,,1,K3,,overcast,11:00,17:00,15:27,,6,,"walk, boat, viewer, rake",milty,2,calm,20,2,,,0.5,0.95,,,,,,,,,1,0.05,,,,0.1,"all spawn observed was surveyed
+heavy bird predation",
+TRUE,3/30/2004,3/29/2004,,Kingcome Inlet,,1,K4,,overcast,11:00,17:00,15:27,,6,,"walk, boat, viewer, rake",milty,2,calm,60,2,,,1,0.9,,,,,,,,,1,0.1,,,,0.15,"all spawn observed was surveyed
+heavy bird predation",
+TRUE,3/30/2004,3/29/2004,,Kingcome Inlet,,1,K5,,overcast,11:00,17:00,15:27,,6,,"walk, boat, viewer, rake",milty,2,calm,160,2,,,2,0.9,,,,,,,,,2,0.1,,,,0.1,"all spawn observed was surveyed
+heavy bird predation",
+TRUE,3/30/2004,3/29/2004,,Kingcome Inlet,,1,K6,,overcast,11:00,17:00,15:27,,6,,"walk, boat, viewer, rake",milty,2,calm,100,4,,,3,0.9,,,,,,,,,2,0.1,,,,0.1,"all spawn observed was surveyed
+heavy bird predation",
+TRUE,3/30/2004,3/29/2004,,Kingcome Inlet,,1,K7,,overcast,11:00,17:00,15:27,,6,,"walk, boat, viewer, rake",milty,2,calm,136,4,,,3,0.8,,,,,,,,,2,0.2,,,,0.1,"all spawn observed was surveyed
+heavy bird predation",
+TRUE,3/30/2004,3/29/2004,,Kingcome Inlet,,1,K8,,overcast,11:00,17:00,15:27,,6,,"walk, boat, viewer, rake",milty,2,calm,243,45,,,3.5,0.9,,,,,,,,,2,0.1,,,,0.05,"all spawn observed was surveyed
+heavy bird predation",
+TRUE,3/30/2004,3/29/2004,,Kingcome Inlet,,1,K9,,overcast,11:00,17:00,15:27,,6,,"walk, boat, viewer, rake",milty,2,calm,150,2,,,1.5,0.95,,,,,,,,,1,0.05,,,,0.15,"all spawn observed was surveyed
+heavy bird predation",
+TRUE,3/30/2004,3/29/2004,,Kingcome Inlet,,1,K10,,overcast,11:00,17:00,15:27,,6,,"walk, boat, viewer, rake",milty,2,calm,127,1,,,0.5,0.9,,,,,,,,,1,0.1,,,,0.1,"all spawn observed was surveyed
+heavy bird predation",
+TRUE,4/1/2004,3/31/2004,4/1/2004,Adeane Point,,A1,A1,,sunny,16:45,17:30,17:07,,4.1,,"walk, boat, viewer, rake",milty,1,calm,83,4,,,2.5,0.9,,,1,0.05,,,,,1,0.05,,,,0.1,"all spawn observed was surveyed
+light bird predation ",
+TRUE,4/1/2004,3/31/2004,4/1/2004,Adeane Point,,A1,A2,,sunny,16:45,17:30,17:07,,4.1,,"walk, boat, viewer, rake",milty,1,calm,293,3,,,2,0.8,,,,,,,,,1,0.2,,,,0.15,"all spawn observed was surveyed
+light bird predation ",
+TRUE,4/1/2004,3/31/2004,4/1/2004,Adeane Point,,A1,A3,,sunny,16:45,17:30,17:07,,4.1,,"walk, boat, viewer, rake",milty,1,calm,50,4,,,2,0.9,,,,,,,,,1,0.1,,,,0.1,"all spawn observed was surveyed
+light bird predation ",
+TRUE,4/1/2004,3/31/2004,4/1/2004,Adeane Point,,A1,A4,,sunny,16:45,17:30,17:07,,4.1,,"walk, boat, viewer, rake",milty,1,calm,30,3,,,3,0.9,,,,,,,,,2,0.1,,,,0.1,"all spawn observed was surveyed
+light bird predation ",
+TRUE,4/1/2004,3/31/2004,4/1/2004,Adeane Point,,A1,A5,,sunny,16:45,17:30,17:07,,4.1,,"walk, boat, viewer, rake",milty,1,calm,60,3,,,2,0.8,,,,,,,,,1,0.2,,,,0.15,"all spawn observed was surveyed
+light bird predation ",
+TRUE,4/1/2004,3/31/2004,4/1/2004,Adeane Point,,A1,A6,,sunny,16:45,17:30,17:07,,4.1,,"walk, boat, viewer, rake",milty,1,calm,121,2,,,1,0.9,,,,,,,,,1,0.1,,,,0.2,"all spawn observed was surveyed
+light bird predation ",
+TRUE,4/1/2004,3/31/2004,4/1/2004,Adeane Point,,A1,A7,,sunny,16:45,17:30,17:07,,4.1,,"walk, boat, viewer, rake",milty,1,calm,90,3,,,2,0.95,,,,,,,,,1,0.05,,,,0.15,"all spawn observed was surveyed
+light bird predation ",
+TRUE,4/1/2004,4/1/2004,,Knight Inlet,,G1,G1,Glendale Cove,sunny,17:30,18:15,17:07,,4.1,,"walk, boat, viewer, rake",milty,1,calm,45,2,,,1,0.9,,,,,,,,,1,0.1,,,,0.2,"all spawn was surveyed
+heavy bird predation 
+we saw the spawn in progress on morning of April 1 on the way up the Inlet. surveyed it just before dark on the way down that night",
+TRUE,4/1/2004,4/1/2004,,Knight Inlet,,G1,G2,Glendale Cove,sunny,17:30,18:15,17:07,,4.1,,"walk, boat, viewer, rake",milty,1,calm,60,3,,,3,0.8,,,,,,,,,2,0.2,,,,0.15,"all spawn was surveyed
+heavy bird predation 
+we saw the spawn in progress on morning of April 1 on the way up the Inlet. surveyed it just before dark on the way down that night",
+TRUE,4/1/2004,4/1/2004,,Knight Inlet,,G1,G3,Glendale Cove,sunny,17:30,18:15,17:07,,4.1,,"walk, boat, viewer, rake",milty,1,calm,20,1,,,1,0.95,,,,,,,,,1,0.05,,,,0.1,"all spawn was surveyed
+heavy bird predation 
+we saw the spawn in progress on morning of April 1 on the way up the Inlet. surveyed it just before dark on the way down that night",
+TRUE,4/2/2004,3/30/2004,,Tribune Channel,,TB1,1,Brown Pt to Loaf Pt,sunny,16:30,18:30,17:42,,3.7,,"walk, boat, viewer, rake",clear,3,calm,60,3,,,3,0.8,,,,,,,,,2,0.2,,,,0.2,"spawn date: March 30, 2004 to April 1, 2004
+all spawn observed was surveyed
+light to medium spawn
+bird predation",
+TRUE,4/2/2004,3/30/2004,,Tribune Channel,,TB1,2,Brown Pt to Loaf Pt,sunny,16:30,18:30,17:42,,3.7,,"walk, boat, viewer, rake",clear,3,calm,60,2,,,2,0.9,,,1,0.05,,,,,1,0.05,,,,0.1,"spawn date: March 30, 2004 to April 1, 2004
+all spawn observed was surveyed
+light to medium spawn
+bird predation",
+TRUE,4/2/2004,3/30/2004,,Tribune Channel,,TB1,3,Brown Pt to Loaf Pt,sunny,16:30,18:30,17:42,,3.7,,"walk, boat, viewer, rake",clear,3,calm,80,1,,,1.5,0.95,,,,,,,,,1,0.05,,,,0.1,"spawn date: March 30, 2004 to April 1, 2004
+all spawn observed was surveyed
+light to medium spawn
+bird predation",
+TRUE,4/2/2004,3/30/2004,,Tribune Channel,,TB1,4,Brown Pt to Loaf Pt,sunny,16:30,18:30,17:42,,3.7,,"walk, boat, viewer, rake",clear,3,calm,25,1,,,1,0.95,,,,,,,,,1,0.05,,,,0.05,"spawn date: March 30, 2004 to April 1, 2004
+all spawn observed was surveyed
+light to medium spawn
+bird predation",
+TRUE,4/2/2004,3/30/2004,,Tribune Channel,,TB1,5,Brown Pt to Loaf Pt,sunny,16:30,18:30,17:42,,3.7,,"walk, boat, viewer, rake",clear,3,calm,25,1,,,1,0.95,,,,,,,,,1,0.05,,,,0.05,"spawn date: March 30, 2004 to April 1, 2004
+all spawn observed was surveyed
+light to medium spawn
+bird predation",
+TRUE,4/2/2004,3/30/2004,,Tribune Channel,,TB1,6,Brown Pt to Loaf Pt,sunny,16:30,18:30,17:42,,3.7,,"walk, boat, viewer, rake",clear,3,calm,10,1,,,2,0.95,,,,,,,,,1,0.05,,,,0.05,"spawn date: March 30, 2004 to April 1, 2004
+all spawn observed was surveyed
+light to medium spawn
+bird predation",
+TRUE,4/2/2004,3/30/2004,,Tribune Channel,,TB1,7,Brown Pt to Loaf Pt,sunny,16:30,18:30,17:42,,3.7,,"walk, boat, viewer, rake",clear,3,calm,45,1,,,1,0.95,,,,,,,,,1,0.05,,,,0.1,"spawn date: March 30, 2004 to April 1, 2004
+all spawn observed was surveyed
+light to medium spawn
+bird predation",
+TRUE,4/2/2004,3/30/2004,,Tribune Channel,,TB1,8,Brown Pt to Loaf Pt,sunny,16:30,18:30,17:42,,3.7,,"walk, boat, viewer, rake",clear,3,calm,132,10,,,,,1.5,1,,,,,,,,,,,,0.25,"spawn date: March 30, 2004 to April 1, 2004
+all spawn observed was surveyed
+light to medium spawn
+bird predation",
+TRUE,4/2/2004,3/30/2004,,Tribune Channel,,TB1,9,Brown Pt to Loaf Pt,sunny,16:30,18:30,17:42,,3.7,,"walk, boat, viewer, rake",clear,3,calm,30,2,,,2,0.9,,,,,,,,,1,0.1,,,,0.1,"spawn date: March 30, 2004 to April 1, 2004
+all spawn observed was surveyed
+light to medium spawn
+bird predation",
+TRUE,4/2/2004,3/30/2004,,Tribune Channel,,TB1,10,Brown Pt to Loaf Pt,sunny,16:30,18:30,17:42,,3.7,,"walk, boat, viewer, rake",clear,3,calm,95,1,,,2.5,0.85,,,,,,,,,1,0.15,,,,0.05,"spawn date: March 30, 2004 to April 1, 2004
+all spawn observed was surveyed
+light to medium spawn
+bird predation",
+TRUE,4/2/2004,3/30/2004,,Tribune Channel,,TB1,11,Brown Pt to Loaf Pt,sunny,16:30,18:30,17:42,,3.7,,"walk, boat, viewer, rake",clear,3,calm,30,1,,,1,0.95,,,,,,,,,1,0.05,,,,0.05,"spawn date: March 30, 2004 to April 1, 2004
+all spawn observed was surveyed
+light to medium spawn
+bird predation",
+TRUE,4/2/2004,3/30/2004,,Tribune Channel,,TB1,12,Brown Pt to Loaf Pt,sunny,16:30,18:30,17:42,,3.7,,"walk, boat, viewer, rake",clear,3,calm,39,12,,,5,0.8,,,2,0.1,,,,,2,0.1,,,,0.05,"spawn date: March 30, 2004 to April 1, 2004
+all spawn observed was surveyed
+light to medium spawn
+bird predation",
+TRUE,4/2/2004,3/30/2004,,Tribune Channel,,TB1,13,Brown Pt to Loaf Pt,sunny,16:30,18:30,17:42,,3.7,,"walk, boat, viewer, rake",clear,3,calm,859,2,,,2,0.8,,,1,0.1,,,,,1,0.1,,,,0.2,"spawn date: March 30, 2004 to April 1, 2004
+all spawn observed was surveyed
+light to medium spawn
+bird predation",
+TRUE,4/2/2004,3/30/2004,,Tribune Channel,,TB1,14,Brown Pt to Loaf Pt,sunny,16:30,18:30,17:42,,3.7,,"walk, boat, viewer, rake",clear,3,calm,45,2,,,2,0.9,,,,,,,,,1,0.1,,,,0.2,"spawn date: March 30, 2004 to April 1, 2004
+all spawn observed was surveyed
+light to medium spawn
+bird predation",
+TRUE,4/2/2004,3/30/2004,,Tribune Channel,,TB1,15,Brown Pt to Loaf Pt,sunny,16:30,18:30,17:42,,3.7,,"walk, boat, viewer, rake",clear,3,calm,200,1,,,2,0.7,,,1,0.1,,,,,1,0.2,,,,0.1,"spawn date: March 30, 2004 to April 1, 2004
+all spawn observed was surveyed
+light to medium spawn
+bird predation",
+TRUE,4/2/2004,3/30/2004,,Tribune Channel,,TB1,16,Brown Pt to Loaf Pt,sunny,16:30,18:30,17:42,,3.7,,"walk, boat, viewer, rake",clear,3,calm,147,4,,,3,0.8,,,1,0.1,,,,,2,0.1,,,,0.05,"spawn date: March 30, 2004 to April 1, 2004
+all spawn observed was surveyed
+light to medium spawn
+bird predation",
+TRUE,4/2/2004,3/30/2004,,Tribune Channel,,TB1,17,Brown Pt to Loaf Pt,sunny,16:30,18:30,17:42,,3.7,,"walk, boat, viewer, rake",clear,3,calm,250,1,,,1.5,0.9,,,,,,,,,1,0.1,,,,0.15,"spawn date: March 30, 2004 to April 1, 2004
+all spawn observed was surveyed
+light to medium spawn
+bird predation",
+TRUE,4/2/2004,3/29/2004,,Thompson Sound,,1,T1,,sunny,14:30,16:30,18:17,,4.3,,"walk, boat, viewer, rake",clear,3,calm,50,2,,,1,0.95,,,,,,,,,1,0.05,,,,0.2,"spawn date: March 29, 2004 to April 1, 2004
+all spawn observed was surveyed
+heavy bird predation",
+TRUE,4/2/2004,3/29/2004,,Thompson Sound,,1,T2,,sunny,14:30,16:30,18:17,,4.3,,"walk, boat, viewer, rake",clear,3,calm,100,1,,,1.5,0.9,,,,,,,,,1,0.1,,,,0.15,"spawn date: March 29, 2004 to April 1, 2004
+all spawn observed was surveyed
+heavy bird predation",
+TRUE,4/2/2004,3/29/2004,,Thompson Sound,,1,T3,,sunny,14:30,16:30,18:17,,4.3,,"walk, boat, viewer, rake",clear,3,calm,130,1,,,1.5,0.9,,,,,,,,,1,0.1,,,,0.1,"spawn date: March 29, 2004 to April 1, 2004
+all spawn observed was surveyed
+heavy bird predation",
+TRUE,4/2/2004,3/29/2004,,Thompson Sound,,1,T4,,sunny,14:30,16:30,18:17,,4.3,,"walk, boat, viewer, rake",clear,3,calm,100,4,,,4,0.8,,,,,,,,,2,0.2,,,,0.05,"spawn date: March 29, 2004 to April 1, 2004
+all spawn observed was surveyed
+heavy bird predation",
+TRUE,4/2/2004,3/29/2004,,Thompson Sound,,1,T5,,sunny,14:30,16:30,18:17,,4.3,,"walk, boat, viewer, rake",clear,3,calm,1037,2,,,2.5,0.9,,,,,,,,,1,0.1,,,,0.3,"spawn date: March 29, 2004 to April 1, 2004
+all spawn observed was surveyed
+heavy bird predation",
+TRUE,4/2/2004,3/29/2004,,Thompson Sound,,1,T6,,sunny,14:30,16:30,18:17,,4.3,,"walk, boat, viewer, rake",clear,3,calm,40,1,,,2,0.9,,,,,,,,,1,0.1,,,,0.1,"spawn date: March 29, 2004 to April 1, 2004
+all spawn observed was surveyed
+heavy bird predation",
+TRUE,4/2/2004,3/29/2004,,Thompson Sound,,1,T7,,sunny,14:30,16:30,18:17,,4.3,,"walk, boat, viewer, rake",clear,3,calm,121,1,,,2,0.8,,,,,,,,,1,0.2,,,,0.1,"spawn date: March 29, 2004 to April 1, 2004
+all spawn observed was surveyed
+heavy bird predation",
+TRUE,4/2/2004,3/29/2004,,Thompson Sound,,1,T8,,sunny,14:30,16:30,18:17,,4.3,,"walk, boat, viewer, rake",clear,3,calm,90,1,,,1.5,0.95,,,,,,,,,1,0.05,,,,0.1,"spawn date: March 29, 2004 to April 1, 2004
+all spawn observed was surveyed
+heavy bird predation",
+TRUE,4/2/2004,3/29/2004,,Thompson Sound,,1,T9,,sunny,14:30,16:30,18:17,,4.3,,"walk, boat, viewer, rake",clear,3,calm,525,2,,,2,0.9,,,,,,,,,1,0.1,,,,0.2,"spawn date: March 29, 2004 to April 1, 2004
+all spawn observed was surveyed
+heavy bird predation",
+TRUE,4/2/2004,3/29/2004,,Thompson Sound,,1,T10,,sunny,14:30,16:30,18:17,,4.3,,"walk, boat, viewer, rake",clear,3,calm,60,20,,,,,1.5,1,,,,,,,,,,,,0.2,"spawn date: March 29, 2004 to April 1, 2004
+all spawn observed was surveyed
+heavy bird predation",
+TRUE,4/2/2004,3/29/2004,,Thompson Sound,,1,T11,,sunny,14:30,16:30,18:17,,4.3,,"walk, boat, viewer, rake",clear,3,calm,100,1,,,1,0.9,,,,,,,,,1,0.1,,,,0.2,"spawn date: March 29, 2004 to April 1, 2004
+all spawn observed was surveyed
+heavy bird predation
+T11 ws 3 spot spawns that equal the shown values in total",
+TRUE,4/2/2004,3/29/2004,,Thompson Sound,,1,T12,,sunny,14:30,16:30,18:17,,4.3,,"walk, boat, viewer, rake",clear,3,calm,245,1,,,0.5,0.95,,,,,,,,,1,0.05,,,,0.3,"spawn date: March 29, 2004 to April 1, 2004
+all spawn observed was surveyed
+heavy bird predation",
+TRUE,4/2/2004,3/29/2004,,Thompson Sound,,1,T13,,sunny,14:30,16:30,18:17,,4.3,,"walk, boat, viewer, rake",clear,3,calm,38,1,,,1,0.95,,,,,,,,,1,0.05,,,,0.15,"spawn date: March 31, 2004 to April 1, 2004
+all spawn observed was surveyed
+light bird predation",
+TRUE,4/2/2004,3/29/2004,,Thompson Sound,,1,T14,,sunny,14:30,16:30,18:17,,4.3,,"walk, boat, viewer, rake",clear,3,calm,30,6,,,2,0.85,,,1,0.05,,,,,1,0.1,,,,0.1,"spawn date: March 31, 2004 to April 1, 2004
+all spawn observed was surveyed
+light bird predation",
+TRUE,4/2/2004,3/29/2004,,Thompson Sound,,1,T15,,sunny,14:30,16:30,18:17,,4.3,,"walk, boat, viewer, rake",clear,3,calm,125,2,,,2,0.8,,,,,,,,,1,0.2,,,,0.2,"spawn date: March 31, 2004 to April 1, 2004
+all spawn observed was surveyed
+light bird predation",
+TRUE,4/3/2004,4/1/2004,,Kingcome Inlet,,1,1,Mackenzie Cove,sunny,15:30,16:00,18:15,,3.5,,"walk, boat, viewer, rake",milty,2,calm,268,1,,,0.25,0.95,,,,,,,,,1,0.05,,,,0.3,"spawn date: April 1, 2004 to April 2, 2004
+all spawn observed was surveyed
+heavy bird predation
+still fish in the area just off shore",
+TRUE,4/3/2004,4/1/2004,,Kingcome Inlet,,1,2,Mackenzie Cove,sunny,15:30,16:00,18:15,,3.5,,"walk, boat, viewer, rake",milty,2,calm,308,2,,,0.5,0.9,,,,,,,,,1,0.1,,,,0.2,"spawn date: April 1, 2004 to April 2, 2004
+all spawn observed was surveyed
+heavy bird predation
+still fish in the area just off shore",
+TRUE,4/3/2004,4/1/2004,4/2/2004,Reid Bay,,1,,,sunny,15:00,15:30,18:15,,3.5,,"walk, boat, viewer, rake",milty,2,calm,312,3,,,1.5,0.8,,,,,,,,,1,0.2,,,,0.3,"all spawn observed was surveyed
+light bird predation",
+TRUE,4/5/2004,4/3/2004,4/4/2004,Baronet Pass,,1,BP1,,sunny,9:00,10:45,8:17,,2.9,,"walk, boat, viewer, rake",clear,3,calm,50,10,,,,,1,1,,,,,,,,,,,,0.1,"all spawn observed was surveyed
+just a few birds in the area",
+TRUE,4/5/2004,4/3/2004,4/4/2004,Baronet Pass,,1,BP2,,sunny,9:00,10:45,8:17,,2.9,,"walk, boat, viewer, rake",clear,3,calm,103,2,,,0.5,0.95,,,,,,,,,1,0.05,,,,0.25,"all spawn observed was surveyed
+just a few birds in the area",
+TRUE,4/5/2004,4/3/2004,4/4/2004,Baronet Pass,,1,BP3,,sunny,9:00,10:45,8:17,,2.9,,"walk, boat, viewer, rake",clear,3,calm,80,2,,,1,0.9,,,,,,,,,1,0.1,,,,0.2,"all spawn observed was surveyed
+just a few birds in the area",
+TRUE,4/5/2004,4/3/2004,4/4/2004,Baronet Pass,,1,BP4,,sunny,9:00,10:45,8:17,,2.9,,"walk, boat, viewer, rake",clear,3,calm,10,1,,,2,0.8,,,,,,,,,2,0.2,,,,0.1,"all spawn observed was surveyed
+just a few birds in the area",
+TRUE,4/5/2004,4/3/2004,4/4/2004,Baronet Pass,,1,BP5,,sunny,9:00,10:45,8:17,,2.9,,"walk, boat, viewer, rake",clear,3,calm,30,10,,,,,1,1,,,,,,,,,,,,0.3,"all spawn observed was surveyed
+just a few birds in the area",
+TRUE,4/15/2004,4/8/2004,4/10/2004,Boughey Bay,,1,B1,,sunny,5:32,17:57,,,6.8,3.9,"walk, boat, viewer, rake",clear,4,calm,120,4,,,1,0.9,,,,,,,,,1,0.1,,,,0.15,"all spawn observed was surveyed
+only a few birds in the area at time of survey
+note: layers of eggs 0 = sand",
+TRUE,4/15/2004,4/8/2004,4/10/2004,Boughey Bay,,1,B2,,sunny,5:32,17:57,,,6.8,3.9,"walk, boat, viewer, rake",clear,4,calm,60,15,,,1,0.8,,,,,,,,,1,0.1,1,0.1,,0.25,"all spawn observed was surveyed
+only a few birds in the area at time of survey
+note: layers of eggs 0 = sand",
+TRUE,4/15/2004,4/8/2004,4/10/2004,Boughey Bay,,1,B3,,sunny,5:32,17:57,,,6.8,3.9,"walk, boat, viewer, rake",clear,4,calm,54,5,,,1,0.5,,,,,,,,,,,1,0.5,,0.25,"all spawn observed was surveyed
+only a few birds in the area at time of survey
+note: layers of eggs 0 = sand",
+TRUE,3/5/2005,2/26/2005,,Wakeman Sound,,"one, 01-05",1,,overcast,12:55,,,,4.9,,boat,clear,2,calm,173,3,,,1.5,0.9,,,,,,,,,1,0.1,,,,0.15,"all spawn observed was surveyed, heavy bird predation",
+TRUE,3/5/2005,2/26/2005,,Wakeman Sound,,"one, 01-05",2,,overcast,12:55,,,,4.9,,boat,clear,2,calm,60,2,,,2,0.9,,,,,,,,,1,0.05,,,,0.25,heavy bird predations,
+TRUE,3/5/2005,2/26/2005,,Wakeman Sound,,"one, 01-05",3,,overcast,12:55,,,,4.9,,boat,clear,2,calm,34,2,,,0.05,1,,,,,,,,,,,,,,0.3,heavy bird predation,
+TRUE,3/5/2005,3/2/2005,,Wakeman Sound,,"one, 01-05",4,,overcast,12:55,,,,4.9,,boat,clear,2,calm,175,3,,,1.5,0.9,,,,,,,,,1,0.1,,,,0.15,heavy bird predation ,
+TRUE,3/5/2005,3/2/2005,,Wakeman Sound,,"one, 01-05",5,,overcast,12:55,,,,4.9,,boat,clear,2,calm,,,,,,,,,,,,,,,,,,,,,,
+TRUE,3/6/2005,2/26/2005,2/28/2005,Knight Inlet ,,01-05,G,,sunny,13:00,16:00,16:47,,,3,"boat, viewer, rake, other (hidchain)",other (glacial),0.5,calm,2095,2,,,0.25,1,,,,,,,,,,,,,,0.25,"all spawn observed was surveyed, no birds ",
+TRUE,3/6/2005,2/26/2005,2/28/2005,Knight Inlet ,,01-05,H,,sunny,13:00,16:00,16:47,,,3,"boat, viewer, rake, other (hidchain)",other (glacial),0.5,calm,125,10,,,3.5,0.8,,,,,,,,,2,0.2,,,,0.1,"all spawn observed was surveyed, no birds ",
+TRUE,3/6/2005,2/26/2005,2/28/2005,Knight Inlet ,,01-05,I,,sunny,13:00,16:00,16:47,,,3,"boat, viewer, rake, other (hidchain)",other (glacial),0.5,calm,1302,1,,,0.5,0.95,,,,,,,,,1,0.05,,,,0.3,"all spawn observed was surveyed, no birds ",
+TRUE,3/6/2005,3/4/2005,3/5/2005,Knight Inlet ,,01-05,A,,overcast,14:00,18:00,15:31,,3.9,,"walk, boat, viewer, rake, other (hidchain)",other (glacial),0.5,calm,546,20,1,0.2,2.5,0.7,,,,,,,,,1,0.2,,,,0.15,"was some small areas that could have been spawned for the second time but were very lite and small (overlap on F+G), heavy bird predation",
+TRUE,3/6/2005,3/4/2005,3/5/2005,Knight Inlet ,,01-05,B,,overcast,14:00,18:00,15:31,,3.9,,"walk, boat, viewer, rake, other (hidchain)",other (glacial),0.5,calm,411,1,,,1,0.95,,,,,,,,,1,0.05,,,,0.2,"was some small areas that could have been spawned for the second time but were very lite and small (overlap on F+G), heavy bird predation",
+TRUE,3/6/2005,3/4/2005,3/5/2005,Knight Inlet ,,01-05,C,,overcast,14:00,18:00,15:31,,3.9,,"walk, boat, viewer, rake, other (hidchain)",other (glacial),0.5,calm,670,1,,,1.5,0.9,,,,,,,,,1,0.1,,,,0.3,"was some small areas that could have been spawned for the second time but were very lite and small (overlap on F+G), heavy bird predation",
+TRUE,3/6/2005,3/4/2005,3/5/2005,Knight Inlet ,,01-05,D,,overcast,14:00,18:00,15:31,,3.9,,"walk, boat, viewer, rake, other (hidchain)",other (glacial),0.5,calm,300,5,,,4,0.9,,,,,,,,,2,0.1,,,,0.1,"was some small areas that could have been spawned for the second time but were very lite and small (overlap on F+G), heavy bird predation",
+TRUE,3/6/2005,3/4/2005,3/5/2005,Knight Inlet ,,01-05,E,,overcast,14:00,18:00,15:31,,3.9,,"walk, boat, viewer, rake, other (hidchain)",other (glacial),0.5,calm,125,10,,,3.5,0.8,,,,,,,,,2,0.2,,,,0.05,"was some small areas that could have been spawned for the second time but were very lite and small (overlap on F+G), heavy bird predation",
+TRUE,3/6/2005,3/4/2005,3/5/2005,Knight Inlet ,,01-05,F,,overcast,14:00,18:00,15:31,,3.9,,"walk, boat, viewer, rake, other (hidchain)",other (glacial),0.5,calm,1116,2,,,1.5,0.95,,,,,,,,,1,0.05,,,,0.3,"was some small areas that could have been spawned for the second time but were very lite and small (overlap on F+G), heavy bird predation",
+TRUE,3/18/2005,3/15/2005,3/16/2005,Tribune Channel,,one,Smith Rock-1,,sunny,5:00,5:30,2:23,,5.8,,"boat, viewer, rake",clear,3,calm,20,1,,,0.25,1,,,,,,,,,,,,,,0.1,"all spawn observed was surveyed, few birds only, three small spawn area",
+TRUE,3/18/2005,3/15/2005,3/16/2005,Tribune Channel,,one,Smith Rock-2,,sunny,5:00,5:30,2:23,,5.8,,"boat, viewer, rake",clear,3,calm,34,2,,,0.25,0.95,,,,,,,,,1,0.05,,,,0.1,"all spawn observed was surveyed, few birds only, three small spawn area",
+TRUE,3/18/2005,3/16/2005,3/17/2005,Tribune Channel,,one,Smith Rock-3,,sunny,5:00,5:30,2:23,,5.8,,"boat, viewer, rake",clear,3,calm,10,3,,,1,0.8,,,,,,,,,1,0.2,,,,0.05,"all spawn observed was surveyed, few birds only, three small spawn area",
+TRUE,3/18/2005,3/17/2005,,Bond Sound ,,B-01-05,B-1,,sunny,13:00,15:30,2:23,,5.8,,"walk, boat, viewer, rake, other (hidchain)",clear,5,calm,210,1.5,2,0.95,,,,,,,,,,,1,0.5,,,,0.1,"all spawn observed was surveyed, heavy bird predation B-7 only (tide flats)",
+TRUE,3/18/2005,3/17/2005,,Bond Sound ,,B-01-05,B-2,,sunny,13:00,15:30,2:23,,5.8,,"walk, boat, viewer, rake, other (hidchain)",clear,5,calm,,,1.5,0.9,,,,,,,,,,,1,0.1,,,,0.25,"all spawn observed was surveyed, heavy bird predation B-7 only (tide flats)",
+TRUE,3/18/2005,3/17/2005,,Bond Sound ,,B-01-05,B-3,,sunny,13:00,15:30,2:23,,5.8,,"walk, boat, viewer, rake, other (hidchain)",clear,5,calm,,,1.5,0.9,,,,,,,,,,,1,0.1,,,,0.2,"all spawn observed was surveyed, heavy bird predation B-7 only (tide flats)",
+TRUE,3/18/2005,3/17/2005,,Bond Sound ,,B-01-05,B-4,,sunny,13:00,15:30,2:23,,5.8,,"walk, boat, viewer, rake, other (hidchain)",clear,5,calm,,,2,0.9,,,,,,,,,,,1,0.1,,,,0.1,"all spawn observed was surveyed, heavy bird predation B-7 only (tide flats)",
+TRUE,3/18/2005,3/17/2005,,Bond Sound ,,B-01-05,B-5,,sunny,13:00,15:30,2:23,,5.8,,"walk, boat, viewer, rake, other (hidchain)",clear,5,calm,,,0.5,1,,,,,,,,,,,,,,,,0.1,"all spawn observed was surveyed, heavy bird predation B-7 only (tide flats)",
+TRUE,3/18/2005,3/17/2005,,Bond Sound ,,B-01-05,B-6,,sunny,13:00,15:30,2:23,,5.8,,"walk, boat, viewer, rake, other (hidchain)",clear,5,calm,,,1,0.95,,,,,,,,,,,1,0.05,,,,0.1,"all spawn observed was surveyed, heavy bird predation B-7 only (tide flats)",
+TRUE,3/18/2005,3/17/2005,,Bond Sound ,,B-01-05,B-7,,sunny,13:00,15:30,2:23,,5.8,,"walk, boat, viewer, rake, other (hidchain)",clear,5,calm,,,1,0.9,,,,,,,,,,,1,0.1,,,,0.3,"all spawn observed was surveyed, heavy bird predation B-7 only (tide flats)",
+TRUE,3/20/2005,3/19/2005,,Belleisle Sound,,one,A,,,5:00,5:30,4:42,,5,,,,,,45,1,,,0.25,0.95,,,,,,,,,1,0.05,,,,0.3,lots of ,
+TRUE,3/21/2005,3/19/2005,3/20/2005,Wakeman Sound,,two ,A,,sunny,14:30,15:30,5:23,,4.5,,"boat, viewer, rake, other (hipchain)",other (muddy),0.5,calm,130,2,,,0.75,0.9,,,,,,,,,1,0.1,,,,0.25,"all spawn observed was surveyed, heavy bird predation ",
+TRUE,4/1/2005,,,"Kingcome Inlet, Wakeman Sound",,one ,1,,,13:00,18:00,12:36,1:58,4.1,4.2,"boat, viewer, rake, other (hipchain)",other (muddy),0.5,choppy,507,2,,,2.5,0.8,,,,,,,,,2,0.2,,,,0.2,"all spawn observed was surveyed, heavy bird predation",
+TRUE,4/1/2005,,,"Kingcome Inlet, Wakeman Sound",,one ,2,,,13:00,18:00,12:36,1:58,4.1,4.2,"boat, viewer, rake, other (hipchain)",other (muddy),0.5,choppy,846,3,,,2,0.9,,,,,,,,,1,0.1,,,,0.3,"all spawn observed was surveyed, heavy bird predation",
+TRUE,4/1/2005,,,"Kingcome Inlet, Wakeman Sound",,one ,3,,,13:00,18:00,12:36,1:58,4.1,4.2,"boat, viewer, rake, other (hipchain)",other (muddy),0.5,choppy,1200,3,,,1.5,0.95,,,,,,,,,1,0.05,,,,0.2,"all spawn observed was surveyed, heavy bird predation",
+TRUE,4/1/2005,,,"Kingcome Inlet, Wakeman Sound",,one ,4,,,13:00,18:00,12:36,1:58,4.1,4.2,"boat, viewer, rake, other (hipchain)",other (muddy),0.5,choppy,1347,2,,,1.5,0.95,,,,,,,,,1,0.05,,,,0.3,"all spawn observed was surveyed, heavy bird predation",
+TRUE,4/1/2005,,,"Kingcome Inlet, Wakeman Sound",,one ,5,,,13:00,18:00,12:36,1:58,4.1,4.2,"boat, viewer, rake, other (hipchain)",other (muddy),0.5,choppy,827,3,,,1,0.95,,,,,,,,,1,0.05,,,,0.2,"all spawn observed was surveyed, heavy bird predation",
+TRUE,4/1/2005,,,"Kingcome Inlet, Wakeman Sound",,one ,6,,,13:00,18:00,12:36,1:58,4.1,4.2,"boat, viewer, rake, other (hipchain)",other (muddy),0.5,choppy,866,3,,,2,0.9,,,,,,,,,1,0.1,,,,0.3,"all spawn observed was surveyed, heavy bird predation",
+TRUE,4/1/2005,,,"Kingcome Inlet, Wakeman Sound",,one ,7,,,13:00,18:00,12:36,1:58,4.1,4.2,"boat, viewer, rake, other (hipchain)",other (muddy),0.5,choppy,1150,1,,,0.5,0.95,,,,,,,,,1,0.05,,,,0.4,"all spawn observed was surveyed, heavy bird predation",
+TRUE,4/3/2005,3/23/2005,3/24/2005,"Tribune Channel, Thompson Sound ",,two ,1,,raining,2:00,5:30,4:16,,3.9,,"boat, viewer, rake",clear,2,choppy,70,3,,,2.5,0.8,,,,,,,,,1,0.05,,,,0.1,"all spawn observed was surveyed, lite bird predation ",
+TRUE,4/3/2005,3/23/2005,3/24/2005,"Tribune Channel, Thompson Sound ",,two ,2,,raining,2:00,5:30,4:16,,3.9,,"boat, viewer, rake",clear,2,choppy,15,2,,,2,0.95,,,,,,,,,1,0.05,,,,0.15,"all spawn observed was surveyed, lite bird predation ",
+TRUE,4/3/2005,3/23/2005,3/24/2005,"Tribune Channel, Thompson Sound ",,two ,3,,raining,2:00,5:30,4:16,,3.9,,"boat, viewer, rake",clear,2,choppy,140,2,,,2,0.9,,,,,,,,,1,0.1,,,,0.1,"all spawn observed was surveyed, lite bird predation ",
+TRUE,4/3/2005,3/23/2005,3/24/2005,"Tribune Channel, Thompson Sound ",,two ,4,,raining,2:00,5:30,4:16,,3.9,,"boat, viewer, rake",clear,2,choppy,60,1,,,1.5,0.9,,,,,,,,,1,0.1,,,,0.2,"all spawn observed was surveyed, lite bird predation ",
+TRUE,4/3/2005,3/23/2005,3/24/2005,"Tribune Channel, Thompson Sound ",,two ,5,,raining,2:00,5:30,4:16,,3.9,,"boat, viewer, rake",clear,2,choppy,100,1,,,0.5,0.95,,,,,,,,,1,0.05,,,,0.2,"all spawn observed was surveyed, lite bird predation ",
+TRUE,4/3/2005,3/23/2005,3/24/2005,"Tribune Channel, Thompson Sound ",,two ,6,,raining,2:00,5:30,4:16,,3.9,,"boat, viewer, rake",clear,2,choppy,520,1,,,0.25,1,,,,,,,,,1,0.05,,,,0.35,"all spawn observed was surveyed, lite bird predation ",
+TRUE,4/3/2005,3/23/2005,3/24/2005,"Tribune Channel, Thompson Sound ",,two ,9,,raining,2:00,5:30,4:16,,3.9,,"boat, viewer, rake",clear,2,choppy,937,1,,,0.5,0.95,,,,,,,,,1,0.05,,,,0.15,,
+TRUE,4/3/2005,3/23/2005,3/24/2005,"Tribune Channel, Thompson Sound ",,two ,10,,raining,2:00,5:30,4:16,,3.9,,"boat, viewer, rake",clear,2,choppy,60,1,,,2,0.95,,,,,,,,,1,0.05,,,,0.2,,
+TRUE,4/3/2005,3/23/2005,3/24/2005,"Tribune Channel, Thompson Sound ",,two ,11,,raining,2:00,5:30,4:16,,3.9,,"boat, viewer, rake",clear,2,choppy,30,3,,,3,0.9,,,,,,,,,2,0.1,,,,0.1,,
+TRUE,4/3/2005,3/23/2005,3/24/2005,"Tribune Channel, Thompson Sound ",,two ,12,,raining,2:00,5:30,4:16,,3.9,,"boat, viewer, rake",clear,2,choppy,20,2,,,2,0.9,,,,,,,,,1,0.1,,,,0.15,,
+TRUE,4/3/2005,3/23/2005,3/24/2005,"Tribune Channel, Thompson Sound ",,two ,7,,raining,2:00,5:30,4:16,,3.9,,"boat, viewer, rake",clear,2,choppy,100,4,,,2.5,0.9,,,,,,,,,2,0.1,,,,0.05,,
+TRUE,4/3/2005,3/23/2005,3/24/2005,"Tribune Channel, Thompson Sound ",,two ,8,,raining,2:00,5:30,4:16,,3.9,,"boat, viewer, rake",clear,2,choppy,1207,2,,,1.5,0.95,,,,,,,,,1,0.05,,,,0.15,,
+TRUE,5/6/2005,4/21/2005,4/23/2005,Wakeman Sound,,,,,,,,,,,,,,,,,2,,,2,,,,,,,,,,2,,,,,,lots of bird action ,
