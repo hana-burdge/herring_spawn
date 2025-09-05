@@ -1,4 +1,3 @@
-# Load packages
 library(ggplot2)
 library(dplyr)
 library(lubridate)
@@ -11,7 +10,7 @@ library(ggpubr)
 
 #-------------------------------------------------------------------------------
 
-# USING GLEN'S DATA
+# CLEANING GLEN'S DATA
 
 #-------------------------------------------------------------------------------
 
@@ -123,7 +122,7 @@ ggsave("figures/spawn_width.png", plot = , width = 10, height = 6, dpi = 300)
 
 #-------------------------------------------------------------------------------
 
-# USING BILLY'S BOOK DATA 
+# CLEANING BILLY'S BOOK DATA 
 
 #-------------------------------------------------------------------------------
 
@@ -186,17 +185,17 @@ ggplot(filtered_combined_data, aes(x = factor(year), y = width_per_spawn, colour
 # RUN SOME STATS ON LENGTH AND WIDTH PER SPAWN
 
 #-------------------------------------------------------------------------------
-#------------------
-# LENGTH PER SPAWN 
-#------------------
+#--------------------
+# LM LENGTH PER SPAWN 
+#--------------------
 # Finding the trend line for each section and find the p values 
 lm_length_section <- filtered_combined_data %>% 
   group_by(section) %>% 
-  # scale x and y to make them comparable 
-  mutate(length_per_spawn_scaled = scale(length_per_spawn), year_scaled = scale(year)) %>%
+  # take log and scale x and y to make them comparable 
+  mutate(log_length_per_spawn = log(length_per_spawn + 1)) %>% 
+  mutate(length_per_spawn_scaled = scale(log_length_per_spawn), year_scaled = scale(year)) %>%
   # adding the intercept, slope, and p value into the lm_length_per_section data frame 
-  mutate(lm_object = lm(length_per_spawn_scaled ~ year_scaled),
-         lm_intercept = lm(length_per_spawn_scaled ~ year_scaled)$coefficients[1],
+  mutate(lm_intercept = lm(length_per_spawn_scaled ~ year_scaled)$coefficients[1],
          lm_slope = lm(length_per_spawn_scaled ~ year_scaled)$coefficients[2],
          p_value = summary(lm(length_per_spawn_scaled ~ year_scaled))$coefficients[2,4],
          # predicting according to the model what the length_per_spawn is in different years -> this is in order to de-scale later
@@ -209,7 +208,7 @@ lm_length_section <- filtered_combined_data %>%
          predicted_length_per_spawn_upper =  predicted_length_per_spawn_upper_scaled * sd(length_per_spawn) + mean(length_per_spawn),
          predicted_length_per_spawn_lower =  predicted_length_per_spawn_lower_scaled * sd(length_per_spawn) + mean(length_per_spawn))
 
-lm_length_section %>% View()
+#lm_length_section %>% View()
 
 # Plotting again with the lm line and confidence intervals 
 lm_length_plot <- ggplot(lm_length_section, aes(x = factor(year), y = length_per_spawn, group = section)) +
@@ -224,26 +223,43 @@ lm_length_plot <- ggplot(lm_length_section, aes(x = factor(year), y = length_per
   theme_classic() +
   theme(axis.text.x = element_text(angle = 45, hjust = 1))
 
-lm_length_plot
-ggsave("figures/lm_length.png", plot = , width = 18, height = 8, dpi = 300)
-
-# RUN MODEL DIAGNOSTICS 
-#????????????????????????????????????????????????????????
-library(DHARMa)
-lm_length <- filtered_combined_data %>% 
-  group_by(section) %>% 
-  lm(length_per_spawn ~ year, data = filtered_combined_data)
-plot(simulateResiduals(lm_length))
+lm_length_plot # model looks good -> use this plot
+#ggsave("figures/lm_length.png", plot = , width = 18, height = 8, dpi = 300)
 
 
-#-------------------------
-# AVERAGE WIDTH PER SPAWN
-#-------------------------
+#-------------------------------------------------------
+# RUN MODEL DIAGNOSTICS ON LENGTH (on the scaled version)
+#-------------------------------------------------------
+
+library(car)
+library(tidyverse)
+# fit a regression model
+lm_length <- lm(length_per_spawn_scaled ~ year_scaled, data = lm_length_section)
+
+summary(lm_length)
+
+# checking for normally distributed residuals with hist
+lm_length_section$lm_length_resids <-resid(lm_length) 
+
+hist(lm_length_section$lm_length_resids) 
+
+# look again with QQ Plot
+qqPlot(lm_length_section$lm_length_resids, id = list(labels = lm_length_section$section)) 
+
+# checking for relationships between residuals and predictors
+residualPlot(lm_length, tests = FALSE) # this looks good!!
+
+
+
+#---------------------------
+# LM AVERAGE WIDTH PER SPAWN
+#---------------------------
 
 lm_width_section <- filtered_combined_data %>% 
   group_by(section) %>% 
-  # scale x and y to make them comparable 
-  mutate(width_per_spawn_scaled = scale(width_per_spawn), year_scaled = scale(year)) %>%
+  # take log and scale x and y to make them comparable 
+  mutate(log_width_per_spawn = log(width_per_spawn + 1)) %>% 
+  mutate(width_per_spawn_scaled = scale(log_width_per_spawn), year_scaled = scale(year)) %>%
   # adding the intercept, slope, and p value into the lm_width_per_section data frame 
   mutate(lm_intercept = lm(width_per_spawn_scaled ~ year_scaled)$coefficients[1],
          lm_slope = lm(width_per_spawn_scaled ~ year_scaled)$coefficients[2],
@@ -258,7 +274,7 @@ lm_width_section <- filtered_combined_data %>%
          predicted_width_per_spawn_upper =  predicted_width_per_spawn_upper_scaled * sd(width_per_spawn) + mean(width_per_spawn),
          predicted_width_per_spawn_lower =  predicted_width_per_spawn_lower_scaled * sd(width_per_spawn) + mean(width_per_spawn))
 
-lm_width_section %>% View()
+#lm_width_section %>% View()
 
 # Plotting again with the lm line and confidence intervals 
 lm_width_plot <- ggplot(lm_width_section, aes(x = factor(year), y = width_per_spawn, group = section)) +
@@ -275,12 +291,30 @@ lm_width_plot <- ggplot(lm_width_section, aes(x = factor(year), y = width_per_sp
   theme(axis.text.x = element_text(angle = 45, hjust = 1))
 
 lm_width_plot
-ggsave("figures/lm_width.png", plot = , width = 18, height = 8, dpi = 300)
+#ggsave("figures/lm_width.png", plot = , width = 18, height = 8, dpi = 300)
 
 
+#-------------------------------
+# RUN MODEL DIAGNOSTICS ON WIDTH
+#-------------------------------
 
-# RUN MODEL DIAGNOSTICS 
-#????????????????????????????????????????????????????????
+# fit a regression model
+lm_width <- lm(width_per_spawn_scaled ~ year_scaled, data = lm_width_section)
+
+summary(lm_width)
+
+# checking for normally distributed residuals with hist
+lm_width_section$lm_width_resids <-resid(lm_width) 
+
+hist(lm_width_section$lm_width_resids) 
+
+# look again with QQ Plot
+qqPlot(lm_width_section$lm_width_resids, id = list(labels = lm_width_section$section)) 
+
+# checking for relationships between residuals and predictors
+residualPlot(lm_width, tests = FALSE) # even with log this looks bad
+
+
 
 #-------------------------------------------------------------------------------
 
@@ -332,7 +366,8 @@ ggplot(glen_billy_index, aes(x = factor(year), y = spawn_index, group = section)
 lm_spawn_index <- glen_billy_index %>% 
   group_by(section) %>% 
   # scale x and y to make them comparable 
-  mutate(spawn_index_scaled = scale(spawn_index), year_scaled = scale(year)) %>%
+  mutate(log_spawn_index = log(spawn_index + 1)) %>% 
+  mutate(spawn_index_scaled = scale(log_spawn_index), year_scaled = scale(year)) %>%
   # adding the intercept, slope, and p value into the lm_width_per_section data frame 
   mutate(lm_intercept = lm(spawn_index_scaled ~ year_scaled)$coefficients[1],
          lm_slope = lm(spawn_index_scaled ~ year_scaled)$coefficients[2],
@@ -347,7 +382,7 @@ lm_spawn_index <- glen_billy_index %>%
          predicted_spawn_index_upper =  predicted_spawn_index_upper_scaled * sd(spawn_index) + mean(spawn_index),
          predicted_spawn_index_lower =  predicted_spawn_index_lower_scaled * sd(spawn_index) + mean(spawn_index))
 
-lm_spawn_index %>% View()
+#lm_spawn_index %>% View()
 
 # Plotting again with the lm line and confidence intervals 
 lm_spawn_index_plot <- ggplot(lm_spawn_index, aes(x = factor(year), y = spawn_index, group = section)) +
@@ -358,45 +393,85 @@ lm_spawn_index_plot <- ggplot(lm_spawn_index, aes(x = factor(year), y = spawn_in
   geom_ribbon(aes(ymin = predicted_spawn_index_lower, ymax = predicted_spawn_index_upper), alpha = 0.2) +
   facet_wrap(~ section, scales = "free_y", ncol = 2) +
   theme_classic() +
-  #scale_y_continuous(breaks = seq(0, 56, by = 2)) +
-  labs(x = "Year", y = "Spawn Index - Total Spawn Deposition (m^2) ") +
+  labs(x = "Year", y = "Spawn Index (Total Spawn Deposition m^2)") +
   theme_classic() +
   theme(axis.text.x = element_text(angle = 45, hjust = 1))
 
 lm_spawn_index_plot
 ggsave("figures/lm_spawn_index.png", plot = , width = 18, height = 8, dpi = 300)
 
+#-------------------------------
+# RUN MODEL DIAGNOSTICS ON INDEX
+#-------------------------------
+
+# fit a regression model
+lm_index <- lm(spawn_index_scaled ~ year_scaled, data = lm_spawn_index)
+
+summary(lm_index)
+
+# checking for normally distributed residuals with hist
+lm_spawn_index$lm_index_resids <-resid(lm_index) 
+
+hist(lm_spawn_index$lm_index_resids) 
+
+# look again with QQ Plot
+qqPlot(lm_spawn_index$lm_index_resids) 
+
+# checking for relationships between residuals and predictors
+residualPlot(lm_index, tests = FALSE) # log and non-log look bad 
+
 #-------------------------------------------------------------------------------
 
-# SPAWN START AND END DATES
+# PLOTTING SPAWN START AND END DATES
 
 #-------------------------------------------------------------------------------
 
 billy_spawn_dates <- read_csv("data/billy_start_end_dates.csv")
 
-# renaming and cleaning up the data
+# filtering for the earliest and latest spawn dates 
 glen_spawn_dates <- glen_data %>% 
-  rename(min_date = spawn_start_date,
-         max_date = spawn_end_date) %>% 
-  mutate(year = year(survey_date))  
+  mutate(year = year(survey_date)) %>%   
+  group_by(section, year) %>% 
+  mutate(min_date = min(spawn_start_date),
+         max_date = max(spawn_end_date)) 
+
+# taking only the columns that we need 
 glen_spawn_dates <- glen_spawn_dates %>% 
  select(year, section, min_date, max_date) 
 
+# changing the date format of date from year/month/day to year-month-day
 glen_spawn_dates$min_date <- format(as.Date(glen_spawn_dates$min_date, format = "%m/%d/%Y"), "%Y-%m-%d")
+glen_spawn_dates$max_date <- format(as.Date(glen_spawn_dates$max_date, format = "%m/%d/%Y"), "%Y-%m-%d")
 
 # combine billy and glen date data 
 glen_billy_dates <- rbind(billy_spawn_dates, glen_spawn_dates)
 
-# Make any 0 into NAs
+# Make any 0 into NAs and then get rid of any rows with NAs
 glen_billy_dates$min_date[glen_billy_dates$min_date == "0"] <- NA
+glen_billy_dates$max_date[glen_billy_dates$min_date == "0"] <- NA
 glen_billy_dates <- glen_billy_dates %>% 
-  filter(!is.na(min_date))
-# make into date format
+  filter(!is.na(min_date)) %>%
+  filter(!is.na(max_date))
+
+# now take only the month and date from min and max spawn dates 
 glen_billy_dates$min_date <- as.Date(as.character(glen_billy_dates$min_date), format = "%Y-%m-%d")
 glen_billy_dates$min_month_day <- format(glen_billy_dates$min_date, "%m-%d")
+glen_billy_dates$max_date <- as.Date(as.character(glen_billy_dates$max_date), format = "%Y-%m-%d")
+glen_billy_dates$max_month_day <- format(glen_billy_dates$max_date, "%m-%d")
 
-# plot to see what it looks like 
-ggplot(glen_billy_dates, aes(x = year, y = min_month_day)) +
+# plot to see what earlist spawn start date looks like 
+ggplot(glen_billy_dates, aes(x = factor(year), y = min_month_day)) +
   geom_point(alpha = 0.5) +
   facet_wrap(~ section, scales = "free_y", ncol = 2) +
-  theme_classic() 
+  labs(x = "Year", y = "Earliest Spawn Start Date") +
+  theme_classic() +
+  theme(axis.text.x = element_text(angle = 45, hjust = 1))
+
+# plot to see what latest spawn end date looks like 
+ggplot(glen_billy_dates, aes(x = factor(year), y = max_month_day)) +
+  geom_point(alpha = 0.5) +
+  facet_wrap(~ section, scales = "free_y", ncol = 2) +
+  labs(x = "Year", y = "Latest Spawn End Date") +
+  theme_classic() +
+  theme(axis.text.x = element_text(angle = 45, hjust = 1))
+
