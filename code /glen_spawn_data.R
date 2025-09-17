@@ -1,3 +1,10 @@
+# ##############################################################################
+
+# Mapping herring spawn distribution using length, width, intensity, spawn start date, and spawn index from 1936 - 2005
+# Athour: Hana Burdge
+
+# ##############################################################################
+
 library(ggplot2)
 library(dplyr)
 library(lubridate)
@@ -5,8 +12,6 @@ library(ggforce)
 library(viridis)
 library(readr)
 library(ggpubr)
-
-# Mapping herring spawn using length, width, intensity, spawn start date, and spawn index from 1936 - 2005
 
 #-------------------------------------------------------------------------------
 
@@ -391,14 +396,14 @@ lm_spawn_index_plot <- ggplot(lm_spawn_index, aes(x = factor(year), y = spawn_in
   #geom_text(aes(label = n_spawns), vjust = -0.5, size = 3) +
   geom_line(aes(x = factor(year), y = predicted_spawn_index)) +
   geom_ribbon(aes(ymin = predicted_spawn_index_lower, ymax = predicted_spawn_index_upper), alpha = 0.2) +
-  facet_wrap(~ section, scales = "free_y", ncol = 2) +
+  facet_wrap(~ section, scales = "free_y", ncol = 1) +
   theme_classic() +
   labs(x = "Year", y = "Spawn Index (Total Spawn Deposition m^2)") +
   theme_classic() +
   theme(axis.text.x = element_text(angle = 45, hjust = 1))
 
 lm_spawn_index_plot
-ggsave("figures/lm_spawn_index.png", plot = , width = 18, height = 8, dpi = 300)
+ggsave("figures/lm_spawn_index.png", plot = , width = 10, height = 20, dpi = 300)
 
 #-------------------------------
 # RUN MODEL DIAGNOSTICS ON INDEX
@@ -475,3 +480,43 @@ ggplot(glen_billy_dates, aes(x = factor(year), y = max_month_day)) +
   theme_classic() +
   theme(axis.text.x = element_text(angle = 45, hjust = 1))
 
+
+#-------------------------------------------------------------------------------
+
+# RUN SOME STATS ON START AND END DATES # how to properly scale dates?
+
+#-------------------------------------------------------------------------------
+
+lm_min_month_day <- glen_billy_dates %>% 
+  group_by(section) %>% 
+  # scale x and y to make them comparable 
+  #mutate(log_min_month_day = log(min_month_day + 1)) %>% 
+  mutate(min_month_day_scaled = scale(min_month_day), year_scaled = scale(year)) %>%
+  # adding the intercept, slope, and p value into the lm_width_per_section data frame 
+  mutate(lm_intercept = lm(min_month_day_scaled ~ year_scaled)$coefficients[1],
+         lm_slope = lm(min_month_day_scaled ~ year_scaled)$coefficients[2],
+         p_value = summary(lm(min_month_day_scaled ~ year_scaled))$coefficients[2,4],
+         # predicting according to the model what the min_month_day is in different years -> this is in orde to de-scale later
+         predicted_min_month_day_scaled = predict(lm(min_month_day_scaled ~ year_scaled)),
+         # finding the upper and lower 95% confidence intervals 
+         predicted_min_month_day_upper_scaled = predict(lm(min_month_day_scaled ~ year_scaled), interval = "confidence", level = 0.95)[,3],
+         predicted_min_month_day_lower_scaled = predict(lm(min_month_day_scaled ~ year_scaled), interval = "confidence", level = 0.95)[,2]) %>% 
+  # de-scaling the values for plotting
+  mutate(predicted_min_month_day =  predicted_min_month_day_scaled * sd(min_month_day) + mean(min_month_day),
+         predicted_min_month_day_upper =  predicted_min_month_day_upper_scaled * sd(min_month_day) + mean(min_month_day),
+         predicted_min_month_day_lower =  predicted_min_month_day_lower_scaled * sd(min_month_day) + mean(min_month_day))
+
+# Plotting again with the lm line and confidence intervals 
+lm_min_month_day_plot <- ggplot(lm_min_month_day, aes(x = factor(year), y = min_month_day, group = section)) +
+  geom_line(alpha = 0.5, size = 1) +
+  geom_point(alpha = 0.5) +
+  #geom_text(aes(label = n_spawns), vjust = -0.5, size = 3) +
+  geom_line(aes(x = factor(year), y = predicted_min_month_day)) +
+  geom_ribbon(aes(ymin = predicted_min_month_day_lower, ymax = predicted_min_month_day_upper), alpha = 0.2) +
+  facet_wrap(~ section, scales = "free_y", ncol = 2) +
+  theme_classic() +
+  labs(x = "Year", y = "Earliest Spawn Start Date") +
+  theme_classic() +
+  theme(axis.text.x = element_text(angle = 45, hjust = 1))
+
+lm_min_month_day_plot
