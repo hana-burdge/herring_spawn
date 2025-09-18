@@ -174,12 +174,11 @@ ggplot(filtered_combined_data, aes(x = factor(year), y = length_per_spawn, colou
   theme(axis.text.x = element_text(angle = 45, hjust = 1))
 
 # Plot average width per spawn for all section over time 
-ggplot(filtered_combined_data, aes(x = factor(year), y = width_per_spawn, colour = section, group = section)) +
+ggplot(filtered_combined_data, aes(x = factor(year), y = width_per_spawn, group = section)) +
   geom_line(alpha = 0.5, size = 1) +
   geom_point(alpha = 0.5) +
-  facet_wrap(~ section, scales = "free_y", ncol = 2) +
+  facet_wrap(~ section, scales = "free_y", ncol = 1) +
   theme_classic() +
-  scale_y_continuous(breaks = seq(0, max(combined_data$total_length, na.rm = TRUE), by = 5), expand = c(0, 0)) +
   labs(x = "Year", y = "Average Width per Spawn (m)") +
   theme_classic() +
   theme(axis.text.x = element_text(angle = 45, hjust = 1))
@@ -215,6 +214,23 @@ lm_length_section <- filtered_combined_data %>%
 
 #lm_length_section %>% View()
 
+lm_length_summary <- lm_length_section %>% 
+  select(section, lm_slope, p_value) %>% 
+ distinct() %>% 
+  group_by(section) 
+  
+#options(digits = 8)
+#lm_length_summary
+#section lm_slope   p_value
+# <chr>      <dbl>     <dbl>
+#  1 121     0.245   0.559    
+#  2 122    -0.485   0.000417 
+#  3 123    -0.275   0.0712   
+#  4 124    -0.159   0.353    
+#  5 125    -0.364   0.00796  
+#  6 126    -0.288   0.0312   
+#  7 127    -0.585   0.0000126
+
 # Plotting again with the lm line and confidence intervals 
 lm_length_plot <- ggplot(lm_length_section, aes(x = factor(year), y = length_per_spawn, group = section)) +
   geom_line(alpha = 0.5, size = 1) +
@@ -222,14 +238,20 @@ lm_length_plot <- ggplot(lm_length_section, aes(x = factor(year), y = length_per
   #geom_text(aes(label = n_spawns), vjust = -0.5, size = 3) +
   geom_line(aes(x = factor(year), y = predicted_length_per_spawn)) +
   geom_ribbon(aes(ymin = predicted_length_per_spawn_lower, ymax = predicted_length_per_spawn_upper), alpha = 0.2) +
-  facet_wrap(~ section, scales = "free_y", ncol = 2) +
+  facet_wrap(~ section, scales = "free_y", ncol = 1) +
   theme_classic() +
+  theme(
+    strip.text = element_text(size = 14, face = "bold")  # bigger facet labels
+  ) +
   labs(x = "Year", y = "Length per Spawn (m)") +
-  theme_classic() +
-  theme(axis.text.x = element_text(angle = 45, hjust = 1))
+  theme(axis.text.x = element_text(angle = 45, hjust = 1)) +
+  theme(axis.text.x = element_text(size = 14),
+        axis.text.y = element_text(size = 14),
+                                   axis.title.x = element_text(size = 14),
+                                   axis.title.y = element_text(size = 14))
 
 lm_length_plot # model looks good -> use this plot
-#ggsave("figures/lm_length.png", plot = , width = 18, height = 8, dpi = 300)
+ggsave("figures/lm_length.png", plot = , width = 14, height = 15, dpi = 300)
 
 
 #-------------------------------------------------------
@@ -288,7 +310,7 @@ lm_width_plot <- ggplot(lm_width_section, aes(x = factor(year), y = width_per_sp
   #geom_text(aes(label = n_spawns), vjust = -0.5, size = 3) +
   geom_line(aes(x = factor(year), y = predicted_width_per_spawn)) +
   geom_ribbon(aes(ymin = predicted_width_per_spawn_lower, ymax = predicted_width_per_spawn_upper), alpha = 0.2) +
-  facet_wrap(~ section, scales = "free_y", ncol = 2) +
+  facet_wrap(~ section, scales = "free_y", ncol = 1) +
   theme_classic() +
   #scale_y_continuous(breaks = seq(0, 56, by = 2)) +
   labs(x = "Year", y = "Average Width per Spawn (m)") +
@@ -356,7 +378,7 @@ glen_billy_index <- bind_rows(glen_data_index, billy_data)
 ggplot(glen_billy_index, aes(x = factor(year), y = spawn_index, group = section)) +
   geom_line(alpha = 0.5, size = 1) +
   geom_point(alpha = 0.5) +
-  facet_wrap(~ section, scales = "free_y", ncol = 2) +
+  facet_wrap(~ section, scales = "free_y", ncol = 1) +
   theme_classic() +
   labs(x = "Year", y = "Spawn Index (m^2)") +
   theme_classic() +
